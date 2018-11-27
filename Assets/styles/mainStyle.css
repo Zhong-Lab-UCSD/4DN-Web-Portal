@@ -45,10 +45,7 @@ header nav {
 header nav a {
 	/* Links in header */
 }
-header nav a:hover {
-	/* Links in header */
-}
-header nav a:active {
+header nav a:hover, header nav a:active {
 	/* Links in header */
 }
 header nav a:not(:last-child)::after {
@@ -59,6 +56,29 @@ header div#headerRight input {
 	display: inline-block;
 	margin: 0.3em 0.8em;
 	max-width: 400px;
+}
+#content nav#topMenu {
+	display: flex;
+	flex-direction: row;
+	height: 2em;
+	overflow: visible;
+}
+#content nav#topMenu > div {
+	padding: 0.3em 0.3em;
+	position: relative;
+	overflow: visible;
+}
+#content nav#topMenu > div > div {
+	position: absolute;
+	display: none;
+	left: 0px;
+	top: 2em;
+	width: 10em;
+	border: 1px solid #000;
+}
+#content nav#topMenu > div:hover > div,
+#content nav#topMenu > div:active > div {
+	display: block;
 }
 #content #mainContent h1, #content #mainContent h2 {
 	/* Styling for main headings */
