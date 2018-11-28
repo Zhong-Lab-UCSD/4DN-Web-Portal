@@ -1,8 +1,20 @@
 @charset "UTF-8";
+body {
+	display: flex;
+	flex-direction: column;
+	overflow-y: auto;
+	height: 100vh;
+	margin: 0;
+}
 #mainwrapper header {
 	/*Header */
-	background-color: rgba(208,207,207,1.00);
+	background-image: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), 
+		linear-gradient(to right, rgba(201, 201, 201, 1) 135px, rgba(201, 201, 201, 0) 200px),
+		url("../images/DNAHeader.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 	overflow: auto;
+	color: rgba(0, 0, 0, 0.85);
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	font-style: normal;
 	font-weight: 400;
@@ -14,19 +26,24 @@
 	-o-flex-wrap: wrap;
 	flex-wrap: wrap;
 	justify-content: space-between;
+	border-radius: 5px;
+	border-style: solid;
+	border-color: rgba(42,42,42,0.5);
+	border-width: 1px;
+	box-shadow: 2px 0px 3px 0px rgba(42,42,42,0.5);
 }
 #mainwrapper header #logo {
-	color: rgba(146,146,146,1.00);
 	display: inline-flex;
 	-ms-align-items: center;
 	align-items: center;
 	font-size: 28px;
+	font-weight: bold;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	margin: 0.2em 1em 0.2em 0.5em;
 }
 #mainwrapper header #logo img {
 	max-height: 75px;
-	margin-right: 0.3em;
+	margin-right: 0.5em;
 }
 #mainwrapper header div#headerRight {
 	/*Nav bar containing links in header */
@@ -37,7 +54,6 @@
 	flex-direction: column;
 	justify-content: space-around;
 	align-items: flex-end;
-	color: rgba(146,146,146,1.00);
 }
 header nav {
 	padding: 0.3em 0.8em;
@@ -58,26 +74,67 @@ header div#headerRight input {
 	max-width: 400px;
 }
 #content nav#topMenu {
+	margin: 3px;
+	padding: 0.3em 0.5em;
+	border-radius: 3px;
+	color: #FFFFFF;
 	display: flex;
 	flex-direction: row;
-	height: 2em;
+	flex-wrap: wrap;
 	overflow: visible;
+	font-size: 12px;
+	font-weight: bold;
+	background: rgb(73, 78, 135);
+	cursor: pointer;
 }
 #content nav#topMenu > div {
-	padding: 0.3em 0.3em;
+	margin: 0 0.3em;
+	padding: 0 0.5em 0.3em 0.5em;
 	position: relative;
 	overflow: visible;
+	border-radius: 3px;
+}
+#content nav#topMenu > div:hover {
+	color: #000000;
+	background: #FFFFFF;
+}
+#content nav#topMenu > div.active {
+	color: #000000;
+	background: #FFFFFF;
 }
 #content nav#topMenu > div > div {
 	position: absolute;
 	display: none;
-	left: 0px;
-	top: 2em;
-	width: 10em;
-	border: 1px solid #000;
+	left: 0;
+	top: 1.7em;
+	width: 11em;
+	padding: 0.5em;
+	border: 1px solid rgba(255,255,255,0.50);
+	border-radius: 3px;
+	background: rgba(73, 78, 135, 0.95);
+	color: #FFFFFF;
+}
+#content nav#topMenu > div > div > div {
+	padding: 0.5em 0;
+}
+#content nav#topMenu > div > div > div:not(:last-child) {
+	border-bottom: 1px solid rgba(255,255,255,0.50);
 }
 #content nav#topMenu > div:hover > div,
 #content nav#topMenu > div:active > div {
+	display: block;
+}
+#content #mainContent {
+	padding: 0.3em 0.5em;
+	flex: 1 1 auto;
+}
+#content #mainContent #breadcrumb {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	display: none;
+}
+#content #mainContent #breadcrumb.active {
 	display: block;
 }
 #content #mainContent h1, #content #mainContent h2 {
@@ -104,89 +161,97 @@ header div#headerRight input {
 	font-weight: 200;
 	text-align: justify;
 }
-#content #mainContent #authorInfo {
-	/* Author info section */
-	background-color: rgba(208,207,207,1.00);
+div#middleContainer {
+	display: flex;
+	flex-direction: row;
+	flex: 1 0 auto;
 }
-#content #mainContent #authorInfo h2, #content #mainContent #authorInfo p {
-	color: rgba(255,255,255,1.00);
-	padding-left: 2%;
-	padding-top: 11px;
-}
-#content #mainContent #authorInfo p {
-	color: rgba(255,255,255,1.00);
-	padding-left: 2%;
-	padding-top: 0px;
-	padding-bottom: 11px;
-	padding-right: 2%;
-}
-footer article {
-	/* Footer articles */
-	width: 46%;
-	float: left;
-	padding-left: 2%;
-	padding-right: 2%;
-	text-align: justify;
-	font-family: source-sans-pro, sans-serif;
-	font-style: normal;
-	font-weight: 200;
-	color: rgba(146,146,146,1.00);
-}
-footer article h3 {
-	/* Footer article titles */
-	text-align: center;
-	font-family: montserrat, sans-serif;
-	font-style: normal;
-	font-weight: 400;
-}
-#mainContent {
-	/* Container for the blog post in individal blog view */
-	padding-left: 2%;
-	width: 71%;
-	float: left;
-	padding-right: 2%;
-	padding-top: 41px;
-}
-#mainwrapper #content #sidebar {
+#mainwrapper #content #middleContainer #sidebar {
 	/* Sidebar*/
-	width: 19%;
-	padding-left: 2%;
-	padding-right: 2%;
-	float: left;
-	background-color: rgba(246,246,246,1.00);
-	margin-top: 150px;
-	padding-top: 32px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 12px;
+	width: 15em;
+	margin: 0 0 0 0.8em;
+	padding: 1em;
+	background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1) 50%, rgba(237, 237, 94, 0.5));
+	flex: none;
+	border-left: 1px solid rgba(42,42,42,0.3);
+}
+#sidebar #dataPortalSideButton {
+	font-size: 14px;
+	font-weight: bold;
+	padding: 0.5em 1em;
+	margin: 0.5em 0;
+	border-radius: 3px;
+	border-style: solid;
+	border-color: rgba(42,42,42,0.3);
+	border-width: 1px;
+	color: #FFF;
+	background: linear-gradient(to bottom, rgba(105, 174, 163, 0.81), rgba(80, 149, 137, 1));
+	cursor: pointer;
+}
+#sidebar #dataPortalSideButton:hover {
+	background: linear-gradient(to bottom, rgb(80, 149, 137), rgb(62, 116, 107));
+}
+#sidebar #dataPortalSideButton div {
+	float: right;
+}
+#sidebar #dataPortalSideButton div {
+	float: right;
+}
+#sidebar .sidePanel {
+	overflow: hidden;
+	margin: 1em 0;
+	border-radius: 5px;
+	border-style: solid;
+	border-color: rgba(42,42,42,0.3);
+	border-width: 1px;
+}
+#sidebar .sidePanel .sidePanelHeader {
+	font-size: 14px;
+	font-weight: bold;
+	padding: 0.5em 0.7em;
+	background: linear-gradient(to bottom, rgb(241, 232, 222), rgb(234, 220, 204));
+}
+#sidebar .sidePanel .sidePanelBody {
+	padding: 0 0.7em;
+	background: #FFFFFF;
+}
+#sidebar .sidePanel .sidePanelBody > div {
+	padding: 0.5em 0;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	height: 24px;
+}
+#sidebar .sidePanel .sidePanelBody > div > img {
+	margin-right: 1em;
+	max-height: 24px;
+}
+#sidebar .sidePanel .sidePanelBody > div > img#LinkedIn {
+	margin-right: 0.35em;
+}
+#sidebar .sidePanel .sidePanelBody > div:not(:last-child) {
+	border-bottom: 1px dotted rgba(42,42,42,0.3);
 }
 #mainwrapper {
 	/* Container of all content */
-	width: 90%;
-	overflow: auto;
-	margin-left: 5%;
+	display: flex;
+	flex-direction: column;
+	padding: 0 5%;
+	flex: 1 0 auto;
 }
-#content #sidebar input {
-	/* Search box in sidebar */
-	width: 98%;
-	height: 32px;
-}
-#content #sidebar #adimage {
-	/* Container for Image in sidebar */
-	width: 100%;
-	background-color: rgba(208,207,207,1.00);
-	margin-top: 46px;
-	float: none;
-	overflow: auto;
-}
-nav ul li {
-	list-style-type: none;
-	padding-top: 8px;
-	padding-bottom: 8px;
-}
-nav ul {
-	padding-left: 0%;
-}
-nav ul li a {
-	color: rgba(146,146,146,1.00);
-	text-decoration: none;
+#mainwrapper #content {
+	flex: 1 0 auto;
+	display: flex;
+	flex-direction: column;
+	box-shadow: 2px 0px 3px 0px rgba(42,42,42,0.5);
+	border-radius: 5px;
+	border-style: solid;
+	border-color: rgba(42,42,42,0.3);
+	border-width: 1px;
+	overflow: hidden;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 }
 #footerbar {
 	/* Footer bar at the bottom of the page */
@@ -196,10 +261,37 @@ nav ul li a {
 	width: 100%;
 }
 footer {
-	/* Container for footer artices */
-	width: 71%;
-	padding-left: 2%;
-	padding-right: 2%;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+	flex: none;
+	background: rgba(0, 0, 0, 0.75);
+	color: #FFFFFF;
+	font-size: 11px;
+	padding: 0.7em 1em;
+}
+footer > * {
+	display: inline-block;
+	margin: 0.2em 0;
+}
+footer > div.logoes {
+	min-height: 18px;
+	display: inline-flex;
+	flex-direction: row;
+	align-items: center;
+}
+footer > div.logoes > img {
+	display: inline-block;
+	opacity: 0.5;
+	height: 18px;
+	margin-left: 0.5em;
+}
+footer > div.logoes > img.youtube {
+	height: 12.68px;
+	width: 18px;
+}
+footer > div.logoes > img:hover {
+	opacity: 1;
 }
 .notOnDesktop {
 	/*element to be displayed only in mobile view and tabet view */
@@ -209,14 +301,9 @@ footer {
 	/* Actual banner image */
 	width: 100%;
 }
-#sidebar #adimage img {
-	/* Image in sidebar */
-	width: 100%;
-	float: left;
-}
 #mainwrapper header nav a {
 	/* Links in header */
-	color: rgba(146,146,146,1.00);
+	color: rgba(42, 42, 42, 1.00);
 	text-decoration: none;
 }
 
@@ -253,12 +340,6 @@ footer {
 	margin-top: 3px;
 	margin-left: 2%;
 	padding-bottom: 13px;
-}
-#content #sidebar #adimage {
-	/* Image in sidebar */
-	width: 60%;
-	margin-top: 0px;
-	float: left;
 }
 #content #sidebar nav {
 	/* Navigation links in sidebar */

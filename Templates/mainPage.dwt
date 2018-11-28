@@ -3,14 +3,18 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- TemplateBeginEditable name="doctitle" -->
 <title>4D Network Web Portal</title>
-<link href="Assets/styles/mainStyle.css" rel="stylesheet" type="text/css">
+<!-- TemplateEndEditable -->
+<link href="../Assets/styles/mainStyle.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
 </head>
 
 <body>
 <div id="mainwrapper">
   <header> 
-    <div id="logo"><img src="Assets/images/4dn-logo_1.png" alt=""/><div>4DN Web Portal</div></div>
+    <div id="logo"><img src="../Assets/images/4dn-logo_1.png" alt=""/><div>4DN Web Portal</div></div>
 	<div id="headerRight">
 	  <nav> <a href="#" title="Link">Launch Data Portal</a><a href="#" title="Link">Contact Us</a></nav>
 	  <input type="text" placeholder="Search">
@@ -81,8 +85,10 @@
 	<div id="middleContainer">
 		<section id="mainContent">
 			<div id="breadcrumb" class="active">Home > Templates</div>
+			<!-- TemplateBeginEditable name="Main contents" -->
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+			<!-- TemplateEndEditable -->
 			<div id="latestDevelopments"></div>
 		</section>
 		<section id="sidebar"> 
@@ -95,7 +101,7 @@
 					  Multimedia Library
 				  </div>
 				  <div class="sidePanelBody">
-					  <div><img src="Assets/images/icons/youtube_social_icon_red.png" width="24" alt="Youtube icon"/>Youtube</div>
+					  <div><img src="../Assets/images/icons/youtube_social_icon_red.png" width="24" alt="Youtube icon"/>Youtube</div>
 				  </div>
 			  </div>
 			  <div class="sidePanel">
@@ -103,10 +109,10 @@
 					  Stay Connected
 				  </div>
 				  <div class="sidePanelBody">
-					  <div><img src="Assets/images/icons/f-ogo_RGB_HEX-58.svg" alt="Facebook icon"/>Facebook</div>
-					  <div><img src="Assets/images/icons/Twitter_Logo_Blue.svg" alt="Twitter icon"/>Twitter</div>
-					  <div><img src="Assets/images/icons/In-2C-28px-R.png" id="LinkedIn" alt="LinkedIn icon"/>LinkedIn</div>
-					  <div><img src="Assets/images/icons/Email-iron-icon.svg" alt="Email icon"/>Email</div>
+					  <div><img src="../Assets/images/icons/f-ogo_RGB_HEX-58.svg" alt="Facebook icon"/>Facebook</div>
+					  <div><img src="../Assets/images/icons/Twitter_Logo_Blue.svg" alt="Twitter icon"/>Twitter</div>
+					  <div><img src="../Assets/images/icons/In-2C-28px-R.png" id="LinkedIn" alt="LinkedIn icon"/>LinkedIn</div>
+					  <div><img src="../Assets/images/icons/Email-iron-icon.svg" alt="Email icon"/>Email</div>
 				  </div>
 			  </div>
 		  </nav>
@@ -114,11 +120,11 @@
 	</div>
     <footer>
 		<div class="logoes">
-			<img src="Assets/images/icons/flogo-HexRBG-Wht-58.svg" alt=""/>
-			<img src="Assets/images/icons/Twitter_Logo_White.svg" alt=""/>
-			<img src="Assets/images/icons/Email-iron-icon-white.svg" alt=""/>
-			<img src="Assets/images/icons/youtube_dark.png" class="youtube" alt=""/>
-			<img src="Assets/images/icons/In-White-28px-R.png" alt=""/>
+			<img src="../Assets/images/icons/flogo-HexRBG-Wht-58.svg" alt=""/>
+			<img src="../Assets/images/icons/Twitter_Logo_White.svg" alt=""/>
+			<img src="../Assets/images/icons/Email-iron-icon-white.svg" alt=""/>
+			<img src="../Assets/images/icons/youtube_dark.png" class="youtube" alt=""/>
+			<img src="../Assets/images/icons/In-White-28px-R.png" alt=""/>
 		</div>
 		<div>© Copyright 2015-2018. All rights reserved.</div>
     </footer>
