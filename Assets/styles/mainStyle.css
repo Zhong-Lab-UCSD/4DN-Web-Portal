@@ -493,3 +493,46 @@ footer {
 	width: 96%;
 }
 }
+
+/* Centers and teams */
+
+a.head:hover, a.head:active {text-decoration: underline;}
+a.ex1:hover, a.ex1:active {color: #A01C20; text-decoration: underline;}
+
+table {
+	border-collapse: collapse;
+}
+
+table, th, td {
+	border: 1px solid black;
+	padding: 10px;
+}
+td {
+	text-align: left;
+	font-size: 18px;
+}
+
+td.center {
+	text-align: center;
+	font-size: 18px;
+}
+
+th {
+	font-size: 18px;
+}
+
+tr:nth-child(odd){
+	background-color: #F7F7FD;
+}
+
+tr:nth-child(even) {
+	background-color: #E9EAF5;
+}
+
+#centersTeams tr.Header1 {
+	background-color: #3D6289;
+}
+
+tr.Header2 {
+	background-color: #6C6C6C;
+}
