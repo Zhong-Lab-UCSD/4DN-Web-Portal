@@ -494,45 +494,45 @@ footer {
 }
 }
 
-/* Centers and teams */
+/* Centers and teams, TCPA, associate members tables */
 
-#CenterTeams a.ex1:hover, a.ex1:active {color: #A01C20; text-decoration: underline;}
+#PeopleTables a.ex1:hover, a.ex1:active {color: #A01C20; text-decoration: underline;}
 
-#CentersTeams {
+#PeopleTables {
 	border-collapse: collapse;
 }
 
-#CenterTeams table, th, td {
+#PeopleTables table, th, td {
 	border: 1px solid black;
 	padding: 10px;
 }
 
-#CenterTeams td {
+#PeopleTables td {
 	text-align: left;
 	font-size: 18px;
 }
 
-#CenterTeams td.center {
+#PeopleTables td.center {
 	text-align: center;
 	font-size: 18px;
 }
 
-#CenterTeams th {
+#PeopleTables th {
 	font-size: 18px;
 }
 
-#CentersTeams tr:nth-child(odd){
+#PeopleTables tr:nth-child(odd){
 	background-color: #F7F7FD;
 }
 
-#CentersTeams tr:nth-child(even) {
+#PeopleTables tr:nth-child(even) {
 	background-color: #E9EAF5;
 }
 
-#CentersTeams #Header1 {
+#PeopleTables #Header1 {
 	background-color: #3D6289;
 }
 
-#CentersTeams #Header2 {
+#PeopleTables #Header2 {
 	background-color: #6C6C6C;
 }
