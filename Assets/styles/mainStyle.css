@@ -1,419 +1,467 @@
 @charset "UTF-8";
 body {
-	display: flex;
-	flex-direction: column;
-	overflow-y: auto;
-	height: 100vh;
-	margin: 0;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    height: 100vh;
+    margin: 0;
+}
+a {
+	text-decoration: none;
+	color: rgb(45,89,198);
 }
 #mainwrapper header {
-	/*Header */
-	background-image: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), 
-		linear-gradient(to right, rgba(201, 201, 201, 1) 135px, rgba(201, 201, 201, 0) 200px),
-		url("../images/DNAHeader.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
-	overflow: auto;
-	color: rgba(0, 0, 0, 0.85);
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	font-style: normal;
-	font-weight: 400;
-	display: flex;
-	padding: 0;
-	-webkit-flex-wrap: wrap;
-	-moz-flex-wrap: wrap;
-	-ms-flex-wrap: wrap;
-	-o-flex-wrap: wrap;
-	flex-wrap: wrap;
-	justify-content: space-between;
-	border-radius: 5px;
-	border-style: solid;
-	border-color: rgba(42,42,42,0.5);
-	border-width: 1px;
-	box-shadow: 2px 0px 3px 0px rgba(42,42,42,0.5);
+    /*Header */
+    background-image: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)),  linear-gradient(to right, rgba(201, 201, 201, 1) 135px, rgba(201, 201, 201, 0) 200px),  url("../images/DNAHeader.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: auto;
+    color: rgba(0, 0, 0, 0.85);
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    font-style: normal;
+    font-weight: 400;
+    display: flex;
+    padding: 0;
+    -webkit-flex-wrap: wrap;
+    -moz-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    -o-flex-wrap: wrap;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgba(42,42,42,0.5);
+    border-width: 1px;
+    box-shadow: 2px 0px 3px 0px rgba(42,42,42,0.5);
 }
 #mainwrapper header #logo {
-	display: inline-flex;
-	-ms-align-items: center;
-	align-items: center;
-	font-size: 28px;
-	font-weight: bold;
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-	margin: 0.2em 1em 0.2em 0.5em;
+    display: inline-flex;
+    -ms-align-items: center;
+    align-items: center;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    margin: 0.2em 1em 0.2em 0.5em;
 }
 #mainwrapper header #logo img {
-	max-height: 75px;
-	margin-right: 0.5em;
+    max-height: 75px;
+    margin-right: 0.5em;
 }
 #mainwrapper header div#headerRight {
-	/*Nav bar containing links in header */
-	padding-top: 0.5em;
-	padding-bottom: 0.5em;
-	flex: 1 1 auto;
-	display: inline-flex;
-	flex-direction: column;
-	justify-content: space-around;
-	align-items: flex-end;
+    /*Nav bar containing links in header */
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    flex: 1 1 auto;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-end;
 }
 header nav {
-	padding: 0.3em 0.8em;
-}
-header nav a {
-	/* Links in header */
-}
-header nav a:hover, header nav a:active {
-	/* Links in header */
-}
-header nav a:not(:last-child)::after {
-	content: "|";
-	padding: 0.5em;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 14px;
+    padding: 0.3em 0.8em;
 }
 header div#headerRight input {
-	display: inline-block;
-	margin: 0.3em 0.8em;
-	max-width: 400px;
+    display: inline-block;
+    margin: 0.3em 0.8em;
+    max-width: 400px;
 }
 #content nav#topMenu {
-	margin: 3px;
-	padding: 0.3em 0.5em;
-	border-radius: 3px;
-	color: #FFFFFF;
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-	overflow: visible;
-	font-size: 12px;
-	font-weight: bold;
-	background: rgb(73, 78, 135);
-	cursor: pointer;
+    margin: 3px;
+    padding: 0.3em 0.5em;
+    border-radius: 3px;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    overflow: visible;
+    font-size: 14px;
+    font-weight: bold;
+    background: rgb(73, 78, 135);
+    cursor: pointer;
 }
 #content nav#topMenu > div {
-	margin: 0 0.3em;
-	padding: 0 0.5em 0.3em 0.5em;
-	position: relative;
-	overflow: visible;
-	border-radius: 3px;
+    margin: 0 0.3em;
+    padding: 0 0.5em 0.3em 0.5em;
+    position: relative;
+    overflow: visible;
+    border-radius: 3px;
 }
 #content nav#topMenu > div:hover {
-	color: #000000;
-	background: #FFFFFF;
+    color: #000000;
+    background: #FFFFFF;
 }
 #content nav#topMenu > div.active {
-	color: #000000;
-	background: #FFFFFF;
+    color: #000000;
+    background: #FFFFFF;
 }
 #content nav#topMenu > div > div {
-	position: absolute;
-	display: none;
-	left: 0;
-	top: 1.7em;
-	width: 11em;
-	padding: 0.5em;
-	border: 1px solid rgba(255,255,255,0.50);
-	border-radius: 3px;
-	background: rgba(73, 78, 135, 0.95);
-	color: #FFFFFF;
+    position: absolute;
+    display: none;
+    left: 0;
+    top: 1.7em;
+    width: 11em;
+    padding: 0.5em;
+    border: 1px solid rgba(255,255,255,0.50);
+    border-radius: 3px;
+    background: rgba(73, 78, 135, 0.95);
+    color: #FFFFFF;
+    z-index: 20;
 }
 #content nav#topMenu > div > div > div {
-	padding: 0.5em 0;
+    padding: 0.5em 0;
 }
 #content nav#topMenu > div > div > div:not(:last-child) {
-	border-bottom: 1px solid rgba(255,255,255,0.50);
+    border-bottom: 1px solid rgba(255,255,255,0.50);
 }
-#content nav#topMenu > div:hover > div,
-#content nav#topMenu > div:active > div {
-	display: block;
+#content nav#topMenu > div:hover > div, #content nav#topMenu > div:active > div {
+    display: block;
 }
 #content #mainContent {
-	padding: 0.3em 0.5em;
-	flex: 1 1 auto;
+    padding: 0.3em 0.5em;
+    flex: 1 1 auto;
 }
 #content #mainContent #breadcrumb {
-	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
-	font-size: 11px;
-	font-weight: bold;
-	display: none;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    display: none;
+	margin-bottom: 1em;
 }
 #content #mainContent #breadcrumb.active {
-	display: block;
+    display: block;
 }
 #content #mainContent h1, #content #mainContent h2 {
-	/* Styling for main headings */
-	color: rgba(146,146,146,1.00);
+    /* Styling for main headings */
+    color: rgba(146,146,146,1.00);
 }
 #content #mainContent h3 {
-	/*Captions ot Taglines */
-	font-family: source-sans-pro, sans-serif;
-	font-style: normal;
-	font-weight: 200;
-	color: rgba(146,146,146,1.00);
+    /*Captions ot Taglines */
+    font-family: source-sans-pro, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    color: rgba(146,146,146,1.00);
 }
 #content #mainContent #bannerImage {
-	/*Container for main banner image */
-	width: 100%;
-	background-color: rgba(208,207,207,1.00);
+    /*Container for main banner image */
+    width: 100%;
+    background-color: rgba(208,207,207,1.00);
 }
 #content #mainContent p {
-	/* All paragraphs under maincontent */
-	color: rgba(146,146,146,1.00);
-	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
-	font-style: normal;
-	font-weight: 200;
-	text-align: justify;
+    /* All paragraphs under maincontent */
+    color: rgba(0, 0, 0, 0.87);
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+	font-size: 14px;
+    text-align: justify;
 }
 div#middleContainer {
-	display: flex;
-	flex-direction: row;
-	flex: 1 0 auto;
+    display: flex;
+    flex-direction: row;
+    flex: 1 0 auto;
 }
 #mainwrapper #content #middleContainer #sidebar {
-	/* Sidebar*/
-	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
-	font-size: 12px;
-	width: 15em;
-	margin: 0 0 0 0.8em;
-	padding: 1em;
-	background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1) 50%, rgba(237, 237, 94, 0.5));
-	flex: none;
-	border-left: 1px solid rgba(42,42,42,0.3);
+    /* Sidebar*/
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 12px;
+    width: 15em;
+    margin: 0 0 0 0.8em;
+    padding: 1em;
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1) 50%, rgba(237, 237, 94, 0.5));
+    flex: none;
+    border-left: 1px solid rgba(42,42,42,0.3);
+    text-align: justify;
 }
 #sidebar #dataPortalSideButton {
-	font-size: 14px;
-	font-weight: bold;
-	padding: 0.5em 1em;
-	margin: 0.5em 0;
-	border-radius: 3px;
-	border-style: solid;
-	border-color: rgba(42,42,42,0.3);
-	border-width: 1px;
-	color: #FFF;
-	background: linear-gradient(to bottom, rgba(105, 174, 163, 0.81), rgba(80, 149, 137, 1));
-	cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 0.5em 1em;
+    margin: 0.5em 0;
+    border-radius: 3px;
+    border-style: solid;
+    border-color: rgba(42,42,42,0.3);
+    border-width: 1px;
+    color: #FFF;
+    background: linear-gradient(to bottom, rgba(105, 174, 163, 0.81), rgba(80, 149, 137, 1));
+    cursor: pointer;
 }
 #sidebar #dataPortalSideButton:hover {
-	background: linear-gradient(to bottom, rgb(80, 149, 137), rgb(62, 116, 107));
+    background: linear-gradient(to bottom, rgb(80, 149, 137), rgb(62, 116, 107));
 }
 #sidebar #dataPortalSideButton div {
-	float: right;
+    float: right;
 }
-#sidebar #dataPortalSideButton div {
-	float: right;
+#sidebar .sideText {
+    padding: 0 0.5em;
 }
 #sidebar .sidePanel {
-	overflow: hidden;
-	margin: 1em 0;
-	border-radius: 5px;
-	border-style: solid;
-	border-color: rgba(42,42,42,0.3);
-	border-width: 1px;
+    overflow: hidden;
+    margin: 1em 0;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgba(42,42,42,0.3);
+    border-width: 1px;
 }
 #sidebar .sidePanel .sidePanelHeader {
-	font-size: 14px;
-	font-weight: bold;
-	padding: 0.5em 0.7em;
-	background: linear-gradient(to bottom, rgb(241, 232, 222), rgb(234, 220, 204));
+    font-size: 14px;
+    font-weight: bold;
+    padding: 0.5em 0.7em;
+    background: linear-gradient(to bottom, rgb(241, 232, 222), rgb(234, 220, 204));
 }
 #sidebar .sidePanel .sidePanelBody {
-	padding: 0 0.7em;
-	background: #FFFFFF;
+    padding: 0 0.7em;
+    background: #FFFFFF;
 }
 #sidebar .sidePanel .sidePanelBody > div {
-	padding: 0.5em 0;
-	display: flex;
-	flex-direction: row;
-	align-items: center;
-	height: 24px;
+    padding: 0.5em 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 24px;
 }
 #sidebar .sidePanel .sidePanelBody > div > img {
-	margin-right: 1em;
-	max-height: 24px;
+    margin-right: 1em;
+    max-height: 24px;
 }
 #sidebar .sidePanel .sidePanelBody > div > img#LinkedIn {
-	margin-right: 0.35em;
+    margin-right: 0.35em;
 }
 #sidebar .sidePanel .sidePanelBody > div:not(:last-child) {
-	border-bottom: 1px dotted rgba(42,42,42,0.3);
+    border-bottom: 1px dotted rgba(42,42,42,0.3);
 }
 #mainwrapper {
-	/* Container of all content */
-	display: flex;
-	flex-direction: column;
-	padding: 0 5%;
-	flex: 1 0 auto;
+    /* Container of all content */
+    display: flex;
+    flex-direction: column;
+    padding: 0 5%;
+    flex: 1 0 auto;
 }
 #mainwrapper #content {
-	flex: 1 0 auto;
-	display: flex;
-	flex-direction: column;
-	box-shadow: 2px 0px 3px 0px rgba(42,42,42,0.5);
-	border-radius: 5px;
-	border-style: solid;
-	border-color: rgba(42,42,42,0.3);
-	border-width: 1px;
-	overflow: hidden;
-	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    flex: 1 0 auto;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 2px 0px 3px 0px rgba(42,42,42,0.5);
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgba(42,42,42,0.3);
+    border-width: 1px;
+    overflow: hidden;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 }
 #footerbar {
-	/* Footer bar at the bottom of the page */
-	height: 18px;
-	clear: both;
-	background-color: rgba(208,207,207,1.00);
-	width: 100%;
+    /* Footer bar at the bottom of the page */
+    height: 18px;
+    clear: both;
+    background-color: rgba(208,207,207,1.00);
+    width: 100%;
 }
 footer {
-	display: flex;
-	flex-direction: column;
-	align-items: flex-end;
-	flex: none;
-	background: rgba(0, 0, 0, 0.75);
-	color: #FFFFFF;
-	font-size: 11px;
-	padding: 0.7em 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    flex: none;
+    background: rgba(0, 0, 0, 0.75);
+    color: #FFFFFF;
+    font-size: 11px;
+    padding: 0.7em 1em;
 }
 footer > * {
-	display: inline-block;
-	margin: 0.2em 0;
+    display: inline-block;
+    margin: 0.2em 0;
 }
 footer > div.logoes {
-	min-height: 18px;
-	display: inline-flex;
-	flex-direction: row;
-	align-items: center;
+    min-height: 18px;
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
 }
 footer > div.logoes > img {
-	display: inline-block;
-	opacity: 0.5;
-	height: 18px;
-	margin-left: 0.5em;
+    display: inline-block;
+    opacity: 0.5;
+    height: 18px;
+    margin-left: 0.5em;
 }
 footer > div.logoes > img.youtube {
-	height: 12.68px;
-	width: 18px;
+    height: 12.68px;
+    width: 18px;
 }
 footer > div.logoes > img:hover {
-	opacity: 1;
+    opacity: 1;
 }
 .notOnDesktop {
-	/*element to be displayed only in mobile view and tabet view */
-	display: none;
+    /*element to be displayed only in mobile view and tabet view */
+    display: none;
 }
 #mainContent #bannerImage img {
-	/* Actual banner image */
-	width: 100%;
+    /* Actual banner image */
+    width: 100%;
 }
 #mainwrapper header nav a {
-	/* Links in header */
-	color: rgba(42, 42, 42, 1.00);
-	text-decoration: none;
+    color: rgb(42, 42, 42);
+}
+#mainwrapper header nav a:hover, header nav a:active {
+	text-decoration: underline;
+}
+#mainwrapper header nav > *:not(:last-child)::after {
+	display: inline;
+    content: "|";
+    padding: 0.5em;
+}
+.sliderHolder {
+	display: block;
+    max-width: 750px;
+	padding: 1em 1em 0.25em 1em;
+    overflow: hidden;
+	position: relative;
+	border: 1px solid  rgba(42,42,42,0.3);
+	border-radius: 5px;
+	font-size: 12px;
+}
+.sliderHolder > .prevArrow,
+.sliderHolder > .nextArrow {
+	position: absolute;
+	height: 100%;
+	width: 40px;
+	cursor: pointer;
+	z-index: 10;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	opacity: 0;
+	background: rgba(42,42,42,0.6);
+	color: #FFFFFF;
+}
+.sliderHolder > .prevArrow:hover,
+.sliderHolder > .prevArrow:active,
+.sliderHolder > .nextArrow:hover,
+.sliderHolder > .nextArrow:active {
+	opacity: 1;
+}
+.sliderHolder > .prevArrow {
+	left: 0px;
+	top: 0px;
+}
+.sliderHolder > .nextArrow {
+	right: 0px;
+	top: 0px;
+}
+.slickSlider > * {
+	width: 100%;
+}
+.slickSlider img {
+	max-width: 100%;
 }
 
 /* Tablet view */
 @media screen and (max-width:769px) {
 .notOnDesktop {
-	/* Search box shown only in mobile view and Tablet view */
-	display: block;
-	text-align: right;
-	padding-right: 8px;
-	padding-top: 8px;
-	padding-bottom: 8px;
-	width: 96%;
+    /* Search box shown only in mobile view and Tablet view */
+    display: block;
+    text-align: right;
+    padding-right: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    width: 96%;
 }
 #content .notOnDesktop input {
-	height: 28px;
+    height: 28px;
 }
 #mainContent {
-	/* Container for the blog post */
-	padding-top: 0px;
-	float: none;
-	width: 96%;
+    /* Container for the blog post */
+    padding-top: 0px;
+    float: none;
+    width: 96%;
 }
 #sidebar input {
-	/* Search box in sidebar */
-	display: none;
+    /* Search box in sidebar */
+    display: none;
 }
 #mainwrapper #content #sidebar {
-	/* Sidebar*/
-	float: none;
-	width: 92%;
-	padding-top: 13px;
-	overflow: auto;
-	margin-top: 3px;
-	margin-left: 2%;
-	padding-bottom: 13px;
+    /* Sidebar*/
+    float: none;
+    width: 92%;
+    padding-top: 13px;
+    overflow: auto;
+    margin-top: 3px;
+    margin-left: 2%;
+    padding-bottom: 13px;
 }
 #content #sidebar nav {
-	/* Navigation links in sidebar */
-	width: 36%;
-	float: left;
-	padding-left: 4%;
+    /* Navigation links in sidebar */
+    width: 36%;
+    float: left;
+    padding-left: 4%;
 }
 #sidebar nav ul {
-	margin-top: 0px;
+    margin-top: 0px;
 }
 footer {
-	/* Footer region */
-	width: 96%;
-	padding-left: 2%;
-	padding-right: 2%;
+    /* Footer region */
+    width: 96%;
+    padding-left: 2%;
+    padding-right: 2%;
 }
 #content footer article {
-	/*Each footer article */
-	width: 46%;
+    /*Each footer article */
+    width: 46%;
 }
 #mainwrapper header {
-	/* Header */
-	width: 100%;
+    /* Header */
+    width: 100%;
 }
 }
 
 /* Mobile view */
 @media screen and (max-width:480px) {
 #mainwrapper header #logo {
-	/* Company Logo text in header */
-	width: 96%;
-	margin-left: 2%;
+    /* Company Logo text in header */
+    width: 96%;
+    margin-left: 2%;
 }
 #mainwrapper header nav {
-	/*navigation links in header */
-	text-align: center;
-	background-color: rgba(255,255,255,1.00);
-	width: 98%;
+    /*navigation links in header */
+    text-align: center;
+    background-color: rgba(255,255,255,1.00);
+    width: 98%;
 }
 #content #sidebar #adimage {
-	/* Container for image in sidebar */
-	width: 100%;
+    /* Container for image in sidebar */
+    width: 100%;
 }
 #content #sidebar nav {
-	/* Navigation bar for links in sidebar */
-	width: 96%;
-	padding-top: 7px;
+    /* Navigation bar for links in sidebar */
+    width: 96%;
+    padding-top: 7px;
 }
 #sidebar nav ul li {
-	display: inline-block;
-	width: 32%;
-	text-align: center;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
 }
 #mainwrapper #content #sidebar {
-	/* sidebar */
-	padding-bottom: 0px;
+    /* sidebar */
+    padding-bottom: 0px;
 }
 #content .notOnDesktop {
-	/* Search box shown only in mobile and tablet view */
-	width: 100%;
-	text-align: center;
-	padding-left: 0px;
-	padding-right: 0px;
+    /* Search box shown only in mobile and tablet view */
+    width: 100%;
+    text-align: center;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 #content .notOnDesktop input {
-	width: 80%;
-	text-align: center;
+    width: 80%;
+    text-align: center;
 }
 #content #mainContent h3 {
-	/* Title under maincontent, if any */
-	font-size: 14px;
+    /* Title under maincontent, if any */
+    font-size: 14px;
 }
 #content footer article {
-	/* Each foter article */
-	width: 96%;
+    /* Each foter article */
+    width: 96%;
 }
 }
