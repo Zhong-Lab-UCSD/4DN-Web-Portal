@@ -36,13 +36,13 @@ a {
     box-shadow: 2px 0px 3px 0px rgba(42,42,42,0.5);
 }
 #mainwrapper header #logo {
-    display: inline-flex;
-    -ms-align-items: center;
-    align-items: center;
-    font-size: 28px;
-    font-weight: bold;
-    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-    margin: 0.2em 1em 0.2em 0.5em;
+	display: inline-flex;
+	-ms-align-items: center;
+	align-items: center;
+	font-size: 32px;
+	font-weight: bold;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin: 0.2em 1em 0.2em 0.5em;
 }
 #mainwrapper header #logo img {
     max-height: 75px;
@@ -58,6 +58,7 @@ a {
     justify-content: space-around;
     align-items: flex-end;
 }
+
 header nav {
     font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	font-size: 14px;
@@ -235,7 +236,7 @@ div#middleContainer {
     /* Container of all content */
     display: flex;
     flex-direction: column;
-    padding: 0 5%;
+    padding: 0 10%;
     flex: 1 0 auto;
 }
 #mainwrapper #content {
@@ -355,6 +356,75 @@ footer > div.logoes > img:hover {
 	max-width: 100%;
 }
 
+/* News Feed */
+
+.feedBox {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: stretch;
+}
+
+.parent > .child {
+    float: left;
+    width: 48%;
+}
+
+.parent {
+    overflow: auto; /*or whatever float wrapping technique you want to use*/
+}
+
+
+/* Old for all in one */
+.circle {
+		width: 16px;
+		height: 16px;
+		-webkit-border-radius: 8px;
+		-moz-border-radius: 8px;
+		border-radius: 8px;
+		display: inline-block;
+		margin-right: 5px;
+		margin-left: 5px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #3387a2;
+}
+.circle:hover, .circle:active {background: #3387a2;}
+	
+div.center {
+		display: block;
+		margin: 30px auto;
+		position: relative;
+		width: 200px;
+		text-align: center;
+}
+
+#slides {
+		position: relative;
+		height: 500px;
+		padding: 0px;
+		margin: 0px;
+		list-style-type: none;
+}
+
+.slide {
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		width: 100%;
+		height: 100%;
+		opacity: 0;
+		z-index: 1;
+		-webkit-transition: opacity 1s;
+		-moz-transition: opacity 1s;
+		-o-transition: opacity 1s;
+		transition: opacity 1s;
+}
+
+.showing {
+		opacity: 1;
+		z-index: 2;
+}
+
 /* Tablet view */
 @media screen and (max-width:769px) {
 .notOnDesktop {
@@ -464,4 +534,47 @@ footer {
     /* Each foter article */
     width: 96%;
 }
+}
+
+/* Centers and teams */
+
+a.head:hover, a.head:active {text-decoration: underline;}
+a.ex1:hover, a.ex1:active {color: #A01C20; text-decoration: underline;}
+
+table {
+	border-collapse: collapse;
+}
+
+table, th, td {
+	border: 1px solid black;
+	padding: 10px;
+}
+td {
+	text-align: left;
+	font-size: 18px;
+}
+
+td.center {
+	text-align: center;
+	font-size: 18px;
+}
+
+th {
+	font-size: 18px;
+}
+
+tr:nth-child(odd){
+	background-color: #F7F7FD;
+}
+
+tr:nth-child(even) {
+	background-color: #E9EAF5;
+}
+
+#centersTeams tr.Header1 {
+	background-color: #3D6289;
+}
+
+tr.Header2 {
+	background-color: #6C6C6C;
 }
