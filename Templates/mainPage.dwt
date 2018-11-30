@@ -1,132 +1,112 @@
 <!doctype html>
 <html>
 <head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-74740093-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-74740093-2');
+</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- TemplateBeginEditable name="doctitle" -->
 <title>4D Network Web Portal</title>
 <!-- TemplateEndEditable -->
 <link href="../Assets/styles/mainStyle.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="../Assets/js/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="../Assets/js/slick/slick-theme.css"/>
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
+<script defer type="text/javascript" src="../Assets/js/jquery/jquery-3.3.1.min.js"></script>
+<script defer type="text/javascript" src="../Assets/js/jquery/jquery-migrate-1.4.1.min.js"></script>
+<script defer type="text/javascript" src="../Assets/js/jquery/jquery-migrate-3.0.0.min.js"></script>
+<script defer type="text/javascript" src="../Assets/js/slick/slick.min.js"></script>
+<script defer type="text/javascript" src="../Assets/js/main.js"></script>
 </head>
 
 <body>
 <div id="mainwrapper">
-  <header> 
-    <div id="logo"><img src="../Assets/images/4dn-logo_1.png" alt=""/><div>4DN Web Portal</div></div>
-	<div id="headerRight">
-	  <nav> <a href="#" title="Link">Launch Data Portal</a><a href="#" title="Link">Contact Us</a></nav>
-	  <input type="text" placeholder="Search">
-	</div>
+  <header>
+    <div id="logo"><img src="../Assets/images/4dn-logo_1.png" alt=""/>
+      <div>4DN Web Portal</div>
+    </div>
+    <div id="headerRight">
+      <nav> <span> <a href="https://data.4dnucleome.org/" target="_blank" title="Launch Data Portal">Launch Data Portal</a> </span> <span> <a href="mailto:oh@4dnucleome.org" title="Link">Contact Us</a> </span> </nav>
+      <input type="text" placeholder="Search">
+    </div>
   </header>
   <div id="content">
-	<nav id="topMenu">
-	  <div>
-		  Home
-	  </div>
-	  <div>
-		  Cell Lines and Protocols
-		  <div>
-			  <div>
-				  Cell Lines
-			  </div>
-			  <div>
-				  Protocols
-			  </div>
-		  </div>
-	  </div>
-	  <div>
-		  Publications
-		  <div>
-			  <div>
-				  4DN Publications
-			  </div>
-			  <div>
-				  4DN Preprints
-			  </div>
-			  <div>
-				  Further Reading
-			  </div>
-		  </div>
-	  </div>
-	  <div>
-		  About 4D Nucleome
-		  <div>
-			  <div>
-				  Program Overview
-			  </div>
-			  <div>
-				  People and Contacts
-			  </div>
-			  <div>
-				  Policies
-			  </div>
-			  <div>
-				  Funding Oppotunities
-			  </div>
-		  </div>
-	  </div>
-	  <div>
-		  More...
-		  <div>
-		  <div>
-			  Outreach
-	      </div>
-		  <div>
-			  Policies
-		  </div>
-		  <div>
-			  Funding Oppotunities
-		  </div>
-		  </div>
-	  </div>
-	</nav>
-	<div id="middleContainer">
-		<section id="mainContent">
-			<div id="breadcrumb" class="active">Home > Templates</div>
-			<!-- TemplateBeginEditable name="Main contents" -->
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
-			<!-- TemplateEndEditable -->
-			<div id="latestDevelopments"></div>
-		</section>
-		<section id="sidebar"> 
-		  <nav>
-			  <div id="dataPortalSideButton">Launch Data Portal<div>➧</div></div>
-			  <div>Data Portal description.</div>
-			  <div id="twitterSidePanel">Twitter</div>
-			  <div class="sidePanel">
-				  <div class="sidePanelHeader">
-					  Multimedia Library
-				  </div>
-				  <div class="sidePanelBody">
-					  <div><img src="../Assets/images/icons/youtube_social_icon_red.png" width="24" alt="Youtube icon"/>Youtube</div>
-				  </div>
-			  </div>
-			  <div class="sidePanel">
-				  <div class="sidePanelHeader">
-					  Stay Connected
-				  </div>
-				  <div class="sidePanelBody">
-					  <div><img src="../Assets/images/icons/f-ogo_RGB_HEX-58.svg" alt="Facebook icon"/>Facebook</div>
-					  <div><img src="../Assets/images/icons/Twitter_Logo_Blue.svg" alt="Twitter icon"/>Twitter</div>
-					  <div><img src="../Assets/images/icons/In-2C-28px-R.png" id="LinkedIn" alt="LinkedIn icon"/>LinkedIn</div>
-					  <div><img src="../Assets/images/icons/Email-iron-icon.svg" alt="Email icon"/>Email</div>
-				  </div>
-			  </div>
-		  </nav>
-		</section>
-	</div>
+    <nav id="topMenu">
+      <div> Home </div>
+      <div> Cell Lines and Protocols
+        <div>
+          <div> Cell Lines </div>
+          <div> Protocols </div>
+        </div>
+      </div>
+      <div> Publications
+        <div>
+          <div> 4DN Publications </div>
+          <div> 4DN Preprints </div>
+          <div> Further Reading </div>
+        </div>
+      </div>
+      <div> About 4D Nucleome
+        <div>
+          <div> Program Overview </div>
+          <div> People and Contacts </div>
+          <div> Policies </div>
+          <div> Funding Oppotunities </div>
+        </div>
+      </div>
+      <div> More...
+        <div>
+          <div> Outreach </div>
+          <div> Policies </div>
+          <div> Funding Oppotunities </div>
+        </div>
+      </div>
+    </nav>
+    <div id="middleContainer">
+      <section id="mainContent">
+        <div id="breadcrumb" class="active">Home &gt; Templates</div>
+        <!-- TemplateBeginEditable name="Main contents" -->
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+        <!-- TemplateEndEditable -->
+        <div id="latestDevelopments"></div>
+      </section>
+      <section id="sidebar">
+        <nav> <a href="https://data.4dnucleome.org/" target="_blank">
+          <div id="dataPortalSideButton">Launch Data Portal
+            <div>➧</div>
+          </div>
+          </a>
+          <div class="sideText">The 4D Nucleome Data Portal hosts data generated by the 4DN Network and other reference nucleomics data sets, and an expanding tool set for open data processing and visualization.</div>
+          <div class="sidePanel">
+            <div class="sidePanelHeader"> Multimedia Library </div>
+            <div class="sidePanelBody">
+              <div><img src="../Assets/images/icons/youtube_social_icon_red.png" width="24" alt="Youtube icon"/>Youtube</div>
+            </div>
+          </div>
+          <div class="sidePanel">
+            <div class="sidePanelHeader"> Stay Connected </div>
+            <div class="sidePanelBody">
+              <div><img src="../Assets/images/icons/f-ogo_RGB_HEX-58.svg" alt="Facebook icon"/>Facebook</div>
+              <div><img src="../Assets/images/icons/Twitter_Logo_Blue.svg" alt="Twitter icon"/>Twitter</div>
+              <div><img src="../Assets/images/icons/In-2C-28px-R.png" id="LinkedIn" alt="LinkedIn icon"/>LinkedIn</div>
+              <div><img src="../Assets/images/icons/Email-iron-icon.svg" alt="Email icon"/>Email</div>
+            </div>
+          </div>
+        </nav>
+      </section>
+    </div>
     <footer>
-		<div class="logoes">
-			<img src="../Assets/images/icons/flogo-HexRBG-Wht-58.svg" alt=""/>
-			<img src="../Assets/images/icons/Twitter_Logo_White.svg" alt=""/>
-			<img src="../Assets/images/icons/Email-iron-icon-white.svg" alt=""/>
-			<img src="../Assets/images/icons/youtube_dark.png" class="youtube" alt=""/>
-			<img src="../Assets/images/icons/In-White-28px-R.png" alt=""/>
-		</div>
-		<div>© Copyright 2015-2018. All rights reserved.</div>
+      <div class="logoes"> <img src="../Assets/images/icons/flogo-HexRBG-Wht-58.svg" alt=""/> <img src="../Assets/images/icons/Twitter_Logo_White.svg" alt=""/> <img src="../Assets/images/icons/Email-iron-icon-white.svg" alt=""/> <img src="../Assets/images/icons/youtube_dark.png" class="youtube" alt=""/> <img src="../Assets/images/icons/In-White-28px-R.png" alt=""/> </div>
+      <div>4D Nucleome Organizational Hub</div>
     </footer>
   </div>
 </div>
