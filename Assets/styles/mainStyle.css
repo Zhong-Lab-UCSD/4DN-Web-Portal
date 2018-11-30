@@ -494,45 +494,72 @@ footer {
 }
 }
 
-/* Centers and teams, TCPA, associate members tables */
+/* General tables */
 
-#PeopleTables a.ex1:hover, a.ex1:active {color: #A01C20; text-decoration: underline;}
+#GeneralTables a.ex1:hover, a.ex1:active {color: #A01C20; text-decoration: underline;}
 
-#PeopleTables {
+#GeneralTables {
 	border-collapse: collapse;
 }
 
-#PeopleTables table, th, td {
+#GeneralTables table, th, td {
 	border: 1px solid black;
 	padding: 10px;
 }
 
-#PeopleTables td {
+#GeneralTables td {
 	text-align: left;
 	font-size: 18px;
 }
 
-#PeopleTables td.center {
+#GeneralTables td.center {
 	text-align: center;
 	font-size: 18px;
 }
 
-#PeopleTables th {
+#GeneralTables th {
 	font-size: 18px;
 }
 
-#PeopleTables tr:nth-child(odd){
+#GeneralTables tr:nth-child(odd){
 	background-color: #F7F7FD;
 }
 
-#PeopleTables tr:nth-child(even) {
+#GeneralTables tr:nth-child(even) {
 	background-color: #E9EAF5;
 }
 
-#PeopleTables #Header1 {
+#GeneralTables #Header1 {
 	background-color: #3D6289;
+	color: #FFFFFF;
 }
 
-#PeopleTables #Header2 {
+#GeneralTables #Header2 {
 	background-color: #6C6C6C;
+	color: #FFFFFF;
+}
+
+/* Cell lines table */
+#cellLines a.ex1:hover, a.ex1:active {color: #3387a2; text-decoration: underline;}
+
+#cellLines {
+	border-collapse: collapse;
+}
+
+#cellLines table, th, td {
+	border: 1px solid black;
+	padding: 10px;
+}
+#cellLines td {
+	text-align: left;
+	font-size: 18px;
+}
+
+#cellLines td.center {
+	text-align: center;
+	font-size: 18px;
+}
+
+#cellLines th {
+	font-size: 18px;
 }
