@@ -582,31 +582,79 @@ footer {
 }
 }
 
-/* Centers and teams */
+/* General tables */
 
-table {
+#GeneralTables a.ex1:hover, a.ex1:active {color: #A01C20; text-decoration: underline;}
+
+#GeneralTables {
 	border-collapse: collapse;
 }
-table, th, td {
+
+#GeneralTables table, th, td {
 	border: 1px solid black;
 	padding: 10px;
-	text-align: left;
 }
-tr:nth-child(odd){
+
+#GeneralTables td {
+	text-align: left;
+	font-size: 14px;
+}
+
+#GeneralTables td.center {
+	text-align: center;
+	font-size: 14px;
+}
+
+#GeneralTables th {
+	font-size: 14px;
+}
+
+#GeneralTables tr:nth-child(odd){
 	background-color: #F7F7FD;
 }
 
-tr:nth-child(even) {
+#GeneralTables tr:nth-child(even) {
 	background-color: #E9EAF5;
 }
-.CentersTeams tr.Header1 > th {
+#GeneralTables #Header1 {
 	background-color: #3D6289;
-	text-align: center;
-}
-.CentersTeams tr.Header1 > th a:link,
-.CentersTeams tr.Header1 > th a:visited {
 	color: #FFFFFF;
 }
-tr.Header2 {
+
+#GeneralTables #Header2 {
 	background-color: #6C6C6C;
+	color: #FFFFFF;
+}
+
+/* Cell lines table */
+#cellLines a.ex1:hover, a.ex1:active {color: #3387a2; text-decoration: underline;}
+
+#cellLines {
+	border-collapse: collapse;
+}
+
+#cellLines table, th, td {
+	border: 1px solid black;
+	padding: 10px;
+}
+#cellLines td {
+	text-align: left;
+	font-size: 14px;
+}
+
+#cellLines td.center {
+	text-align: center;
+	font-size: 14px;
+}
+
+#cellLines th {
+	font-size: 14px;
+}
+
+#cellLines tr:nth-child(odd){
+	background-color: #F7F7FD;
+}
+
+#cellLines tr:nth-child(even) {
+	background-color: #E9EAF5;
 }
