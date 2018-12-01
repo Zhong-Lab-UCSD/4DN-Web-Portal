@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+
+  <title><![CDATA[<p style="font-size:18px; font-family:Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif; margin: 0 -10px;"><strong>Latest 4DN Pre-prints</strong> <a target="_blank" href="https://beta.4dnucleome.org/Assets/xmls/4DN_pre_prints.xml"><img src="https://beta.4dnucleome.org/Assets/images/icons/Feed-icon.svg" style="height: 20px; float: right;"></a></p>]]></title>
+  <link>http://www.4dnucleome.org</link>
+  <description>4D Nucleome pre-prints</description>
+
+  <item>
+      <title>
+          Genome-wide co-localization of RNA-DNA interactions and fusion RNA pairs</title>
+      <link><![CDATA[https://doi.org/10.1101/472019]]></link>
+      <description>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Yan, Z., Huang, N., Wu, W., Chen, W., Jiang, Y., Chen, J., Huang, X., Wen, X., Xu, J., Jin, Q., Zhang, K., Chen, Z., Chien, S., Zhong, S.</p>
+          ]]></description>
+      <pubDate>20 Nov 2018</pubDate>
+  </item>
+  
+  <item>
+      <title>
+          Spatial Chromatin Architecture Alteration by Structural Variations in Human Genomes at Population Scale</title>
+      <link><![CDATA[https://doi.org/10.1101/266981]]></link>
+      <description>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Sadowski, M., Kraft, A., Szalaj, P., Wlasnowolski, M., Tang, Z., Ruan, Y., Plewczynski, D.</p>
+          ]]></description>
+      <pubDate>14 Sep 2018</pubDate>
+  </item>
+  
+<item>
+    <title>
+        Photon count estimation in single-molecule localization microscopy</title>
+    <link><![CDATA[https://doi.org/10.1101/396424]]></link>
+    <description>
+        <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Rieger, B., Stallinga, S., Hulleman, C. N., Thorsen, R. O., Grunwald, D., Hammer, M.</p>
+        ]]></description>
+    <pubDate>20 Aug 2018</pubDate>
+</item>
+
+<item>
+    <title>
+        A combination of transcription factors mediates inducible interchromosomal pairing</title>
+    <link><![CDATA[https://doi.org/10.1101/385047]]></link>
+    <description>
+        <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Kim, S., Dunham, M., Shendure, J.</p>
+        ]]></description>
+    <pubDate>5 Aug 2018</pubDate>
+</item>
+
+</channel>
+</rss>

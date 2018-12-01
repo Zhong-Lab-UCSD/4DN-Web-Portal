@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+
+  <title><![CDATA[<p style="font-size:18px; font-family:Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif; margin: 0 -10px;"><strong>Latest 4DN Publications</strong> <a target="_blank" href="https://beta.4dnucleome.org/Assets/xmls/4DN_publications.xml"><img src="https://beta.4dnucleome.org/Assets/images/icons/Feed-icon.svg" style="height: 20px; float: right;"></a></p>]]></title>
+  <link>https://www.4dnucleome.org/4dn-publications.html</link>
+  <description>4D Nucleome Publications</description>
+
+  
+  <item>
+      <title>
+          Disease-Associated Short Tandem Repeats Co-localize with Chromatin Domain Boundaries</title>
+      <link><![CDATA[https://www.sciencedirect.com/science/article/pii/S0092867418310213?via%3Dihub]]></link>
+      <description>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://beta.4dnucleome.org/Assets/images/cell-press.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">James H. Sun, Linda Zhou, Daniel J. Emerson, Sai A. Phyo, Katelyn R. Titus, Wanfeng Gong, Thomas G. Gilgenast, Jonathan A. Beagan, Beverly L. Davidson, Flora Tasson, Jennifer E. Phillips-Cremins</p>
+              <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">More than 25 inherited human disorders are caused by the unstable expansion of repetitive DNA sequences termed short tandem repeats (STRs). A fundamental unresolved question is why some STRs are susceptible to pathologic expansion, whereas thousands of repeat tracts across the human genome are relatively stable. Here, we discover that nearly all disease-associated STRs (daSTRs) are located at boundaries demarcating 3D chromatin domains. We identify a subset of boundaries with markedly higher CpG island density compared to the rest of the genome.</p>
+          ]]></description>
+      <pubDate>20 Sep 2018</pubDate>
+  </item>
+  
+  <item>
+      <title>
+          Integrative detection and analysis of structural variation in cancer genomes</title>
+      <link><![CDATA[https://www.nature.com/articles/s41588-018-0195-8]]></link>
+      <description>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://beta.4dnucleome.org/Assets/images/nature_genetics.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Jesse R. Dixon, ... , Ferhat Ay, William Stafford Noble, Job Dekker, David M. Gilbert & Feng Yue</p>
+              <p style="font-family:verdana;">Structural variants (SVs) can contribute to oncogenesis through a variety of mechanisms. Despite their importance, the identification of SVs in cancer genomes remains challenging. Here, we present a framework that integrates optical mapping, high-throughput chromosome conformation capture (Hi-C), and whole-genome sequencing to systematically detect SVs in a variety of normal or cancer samples and cell lines.</p>
+          ]]></description>
+      <pubDate>10 Sep 2018</pubDate>
+  </item>
+  
+  <item>
+      <title>
+          Mapping 3D genome organization relative to nuclear compartments using TSA-Seq as a cytological ruler</title>
+      <link><![CDATA[http://jcb.rupress.org/content/early/2018/08/27/jcb.201807108.long]]></link>
+      <description>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://beta.4dnucleome.org/Assets/images/jcb.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Yu Chen, Yang Zhang, Yuchuan Wang, Liguo Zhang, Eva K. Brinkman, Stephen A. Adam, Robert Goldman, Bas van Steensel, Jian Ma, Andrew S. Belmont</p>
+              <p style="font-family:verdana;">While nuclear compartmentalization is an essential feature of three-dimensional genome organization, no genomic method exists for measuring chromosome distances to defined nuclear structures. In this study, we describe TSA-Seq, a new mapping method capable of providing a “cytological ruler” for estimating mean chromosomal distances from nuclear speckles genome-wide and for predicting several Mbp chromosome trajectories between nuclear compartments without sophisticated computational modeling.</p>
+          ]]></description>
+      <pubDate>28 Aug 2018</pubDate>
+  </item>
+  
+</channel>
+</rss>
+
+
+

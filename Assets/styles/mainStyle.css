@@ -6,9 +6,20 @@ body {
     height: 100vh;
     margin: 0;
 }
-a {
+a:link {
 	text-decoration: none;
 	color: rgb(45,89,198);
+}
+.unresolved {
+    opacity: 0;
+}
+a:visited {
+	text-decoration: none;
+	color: rgb(91, 45, 198);
+}
+.framedContainer {
+    border: 1px solid rgba(42,42,42,0.3);
+    border-radius: 5px;
 }
 #mainwrapper header {
     /*Header */
@@ -29,10 +40,7 @@ a {
     -o-flex-wrap: wrap;
     flex-wrap: wrap;
     justify-content: space-between;
-    border-radius: 5px;
-    border-style: solid;
     border-color: rgba(42,42,42,0.5);
-    border-width: 1px;
     box-shadow: 2px 0px 3px 0px rgba(42,42,42,0.5);
 }
 #mainwrapper header #logo {
@@ -83,6 +91,15 @@ header div#headerRight input {
     background: rgb(73, 78, 135);
     cursor: pointer;
 }
+#content nav#topMenu a:link,
+#content nav#topMenu a:visited {
+    color: #FFFFFF;
+}
+#content nav#topMenu > div > a:hover,
+#content nav#topMenu > div > a:active {
+    text-decoration: none;
+    color: #000000;
+}
 #content nav#topMenu > div {
     margin: 0 0.3em;
     padding: 0 0.5em 0.3em 0.5em;
@@ -90,10 +107,7 @@ header div#headerRight input {
     overflow: visible;
     border-radius: 3px;
 }
-#content nav#topMenu > div:hover {
-    color: #000000;
-    background: #FFFFFF;
-}
+#content nav#topMenu > div:hover,
 #content nav#topMenu > div.active {
     color: #000000;
     background: #FFFFFF;
@@ -114,6 +128,10 @@ header div#headerRight input {
 #content nav#topMenu > div > div > div {
     padding: 0.5em 0;
 }
+#content nav#topMenu > div > div > div > a:hover,
+#content nav#topMenu > div > div > div > a:active {
+    text-decoration: underline;
+}
 #content nav#topMenu > div > div > div:not(:last-child) {
     border-bottom: 1px solid rgba(255,255,255,0.50);
 }
@@ -123,6 +141,7 @@ header div#headerRight input {
 #content #mainContent {
     padding: 0.3em 0.5em;
     flex: 1 1 auto;
+	min-width: 400px;
 }
 #content #mainContent a:hover {
 	text-decoration: underline;
@@ -203,10 +222,6 @@ div#middleContainer {
 #sidebar .sidePanel {
     overflow: hidden;
     margin: 1em 0;
-    border-radius: 5px;
-    border-style: solid;
-    border-color: rgba(42,42,42,0.3);
-    border-width: 1px;
 }
 #sidebar .sidePanel .sidePanelHeader {
     font-size: 14px;
@@ -247,10 +262,6 @@ div#middleContainer {
     display: flex;
     flex-direction: column;
     box-shadow: 2px 0px 3px 0px rgba(42,42,42,0.5);
-    border-radius: 5px;
-    border-style: solid;
-    border-color: rgba(42,42,42,0.3);
-    border-width: 1px;
     overflow: hidden;
     font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 }
@@ -302,7 +313,7 @@ footer > div.logoes > img:hover {
     /* Actual banner image */
     width: 100%;
 }
-#mainwrapper header nav a {
+#mainwrapper header nav a:link {
     color: rgb(42, 42, 42);
 }
 #mainwrapper header nav a:hover, header nav a:active {
@@ -313,18 +324,17 @@ footer > div.logoes > img:hover {
     content: "|";
     padding: 0.5em;
 }
-.sliderHolder {
-	display: block;
-    max-width: 750px;
-	padding: 1em 1em 0.25em 1em;
-    overflow: hidden;
-	position: relative;
-	border: 1px solid  rgba(42,42,42,0.3);
-	border-radius: 5px;
-	font-size: 12px;
+.sliderWrapper {
+	flex: 1 1 500px;
+    min-width: 420px;
+    margin: 0.5em;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    position: relative;
 }
-.sliderHolder > .prevArrow,
-.sliderHolder > .nextArrow {
+.sliderWrapper > .prevArrow,
+.sliderWrapper > .nextArrow {
 	position: absolute;
 	height: 100%;
 	width: 40px;
@@ -336,21 +346,29 @@ footer > div.logoes > img:hover {
 	justify-content: center;
 	opacity: 0;
 	background: rgba(42,42,42,0.6);
+	font-size: 21px;
 	color: #FFFFFF;
 }
-.sliderHolder > .prevArrow:hover,
-.sliderHolder > .prevArrow:active,
-.sliderHolder > .nextArrow:hover,
-.sliderHolder > .nextArrow:active {
+.sliderWrapper > .prevArrow:hover,
+.sliderWrapper > .prevArrow:active,
+.sliderWrapper > .nextArrow:hover,
+.sliderWrapper > .nextArrow:active {
 	opacity: 1;
 }
-.sliderHolder > .prevArrow {
+.sliderWrapper > .prevArrow {
 	left: 0px;
 	top: 0px;
 }
-.sliderHolder > .nextArrow {
+.sliderWrapper > .nextArrow {
 	right: 0px;
 	top: 0px;
+}
+.sliderHolder {
+	display: block;
+    overflow: hidden;
+	position: relative;
+	font-size: 12px;
+    padding: 2em 1em 0.25em 1em;
 }
 .slickSlider > * {
 	width: 100%;
@@ -358,7 +376,32 @@ footer > div.logoes > img:hover {
 .slickSlider img {
 	max-width: 100%;
 }
+.widgetHolder {
+	flex: 1 1 320px;
+	min-width: 280px;
+	margin: 0.5em;
+}
 
+.flexRowContainer {
+	display: flex;
+	flex-direction: row; 
+}
+.flexColumnContainer {
+	display: flex;
+	flex-direction: column; 
+}
+.flexRowContainer > *,
+.flexColumnContainer > * {
+	display: inline-block;
+}
+.flexWrapContainer {
+	flex-wrap: wrap;
+}
+.flexAllCenterContainer {
+	align-items: center;
+	text-align: center;
+	justify-content: space-around;
+}
 /* News Feed */
 
 .feedBox {
@@ -560,7 +603,8 @@ tr:nth-child(even) {
 	background-color: #3D6289;
 	text-align: center;
 }
-.CentersTeams tr.Header1 > th a {
+.CentersTeams tr.Header1 > th a:link,
+.CentersTeams tr.Header1 > th a:visited {
 	color: #FFFFFF;
 }
 tr.Header2 {

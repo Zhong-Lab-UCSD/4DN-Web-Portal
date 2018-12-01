@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+
+  <title><![CDATA[<p style="font-size:18px; font-family:Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif; margin: 0 -10px;"><strong>4DN News and Announcements</strong> <a target="_blank" href="https://beta.4dnucleome.org/Assets/xmls/4DN_news.xml"><img src="https://beta.4dnucleome.org/Assets/images/icons/Feed-icon.svg" style="height: 20px; float: right;"></a></p>]]></title>
+  <link>http://www.4dnucleome.org</link>
+  <description>4D Nucleome News and Announcements</description>
+
+<item>
+    <title>
+        Job Opportunities</title>
+    <link><![CDATA[https://sites.google.com/a/4dnucleome.org/4d-nucleome-wiki/job-opportunities]]></link>
+    <description>
+        Bioinformatics Scientist -- Harvard Medical School - DCIC. Senior Bioinformatics Scientist --  Harvard Medical School - DCIC. 6 previous job opportunities are still open.</description>
+    <pubDate>1 Nov 2018</pubDate>
+</item>
+
+<item>
+    <title>
+        2019 Gordon Research Conference -  The Eukaryotic Genome in 4 Dimensions: Integrative Approaches to Bridging Genotype and Phenotype</title>
+    <link><![CDATA[https://www.grc.org/genome-architecture-in-cell-fate-and-disease-conference/2019/]]></link>
+    <description>
+        <![CDATA[<p>
+			<strong>When:</strong> August 4-9, 2019; <br><strong>Where:</strong> The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong; <br><strong>Chairs:</strong> Dave Gilbert and Yijun Ruan, <br><strong>Vice chairs:</strong> Victor Corces and Danny Leung.</p>
+        ]]></description>
+    <pubDate>1 Nov 2018</pubDate>
+</item>
+
+
+<item>
+    <title>
+        4DN YouTube Channel</title>
+    <link><![CDATA[https://www.4dnucleome.org/outreach.html]]></link>
+    <description>
+        10 videos released on the 4D Nucleome Scientific Webinar Series playlist. 18 videos in total uploaded on the channel.</description>
+    <pubDate>1 Nov 2018</pubDate>
+</item>
+
+<item>
+    <title>
+        G4 mESC available</title>
+    <link><![CDATA[https://www.4dnucleome.org/cell-lines.html]]></link>
+    <description>
+        The new cell line mESC G4 provided by University of Washington is available.</description>
+    <pubDate>1 Nov 2018</pubDate>
+</item>
+
+</channel>
+</rss>
