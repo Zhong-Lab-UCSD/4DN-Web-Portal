@@ -512,7 +512,7 @@ div.center {
 #GeneralTables {
 	border-collapse: collapse;
 }
-#GeneralTables table, th, td {
+#GeneralTables table, #GeneralTables th, #GeneralTables td {
 	border: 1px solid black;
 	padding: 10px;
 }
@@ -540,6 +540,9 @@ div.center {
 #GeneralTables #Header2 {
 	background-color: #6C6C6C;
 	color: #FFFFFF;
+}
+#GeneralTables td:empty::before {
+	content: "-";
 }
 /* Cell lines table */
 #cellLines a.ex1:hover, a.ex1:active {
@@ -569,6 +572,31 @@ div.center {
 }
 #cellLines tr:nth-child(even) {
 	background-color: #E9EAF5;
+}
+#searchInput {
+	max-width: 300px;
+	width: 100%;
+	padding: 0 0.5em;
+}
+#searchInput table {
+	border-collapse: collapse;
+}
+#searchInput tr {
+	height: 24px;
+}
+#searchInput td {
+	padding: 0.1em;
+	border: none;
+}
+#searchInput td > div {
+	font-size: 14px;
+}
+#searchResultsContainer table {
+	border-collapse: collapse;
+}
+#searchResultsContainer td {
+	padding: 0 8px;
+	border: none;
 }
 
 /* Tablet view */
@@ -637,7 +665,7 @@ div.center {
 	padding-left: 0;
 	padding-right: 0;
 }
-#content nav#topMenu:hover #topMenuContent,  #content nav#topMenu:active #topMenuContent {
+#content nav#topMenu:hover #topMenuContent, #content nav#topMenu:active #topMenuContent {
 	display: flex;
 }
 #content nav#topMenu div.topMenuItem {
@@ -674,5 +702,69 @@ div.center {
 	left: auto;
 	margin: auto;
 	top: auto;
+}
+#searchInput {
+	max-width: 100%;
+	width: auto;
+	flex: auto;
+	margin-top: 0.5em;
+	align-self: stretch;
+}
+table#GeneralTables > *, table#GeneralTables > * > * {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	align-items: stretch;
+}
+table#GeneralTables > * > * > * {
+	display: inline-block;
+}
+#GeneralTables tr#Header2 {
+	display: none;
+}
+#GeneralTables tr {
+	border: 1px solid black;
+	padding: 0.3em 0;
+}
+#GeneralTables td {
+	border: none;
+	padding-top: 0.2em;
+	padding-bottom: 0.2em;
+}
+#GeneralTables td:empty {
+	display: none;
+	content: none;
+}
+#GeneralTables td.center {
+	text-align: center;
+	font-size: 14px;
+}
+#GeneralTables th {
+	font-size: 16px;
+	border: none;
+}
+#GeneralTables td[label="pi"] {
+	font-weight: bold;
+}
+#GeneralTables td[label="project"] {
+	font-style: italic;
+}
+#GeneralTables td[label="project"]::before {
+	content: "Project title: ";
+	font-weight: bold;
+}
+#GeneralTables tr:nth-child(odd) {
+	background-color: #F7F7FD;
+}
+#GeneralTables tr:nth-child(even) {
+	background-color: #E9EAF5;
+}
+#GeneralTables #Header1 {
+	background-color: #3D6289;
+	color: #FFFFFF;
+}
+#GeneralTables #Header2 {
+	background-color: #6C6C6C;
+	color: #FFFFFF;
 }
 }

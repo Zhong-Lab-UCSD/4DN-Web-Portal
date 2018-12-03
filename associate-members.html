@@ -37,7 +37,20 @@
       </div>
       <div id="headerRight">
         <nav> <span> <a href="https://data.4dnucleome.org/" target="_blank" title="Launch Data Portal">Launch Data Portal</a> </span> <span> <a href="mailto:oh@4dnucleome.org" title="Contact us">Contact Us</a> </span> </nav>
-        <input type="text" placeholder="Search">
+        <div id="searchInput">  
+		  <script>
+			(function() {
+			  var cx = '012010507559311424712:8m_5bphxwsi';
+			  var gcse = document.createElement('script');
+			  gcse.type = 'text/javascript';
+			  gcse.async = true;
+			  gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+			  var s = document.getElementsByTagName('script')[0];
+			  s.parentNode.insertBefore(gcse, s);
+			})();
+		  </script>
+          <gcse:searchbox-only gname="4dnsitewidesearch"></gcse:searchbox-only>
+           </div>
       </div>
     </header>
     <div id="content" class="framedContainer">
@@ -104,36 +117,36 @@
     </tr>
     
     <tr>
-        <td>Rafelski, Susanne (contact) <br/>
+        <td label="pi">Rafelski, Susanne (contact) <br/>
             Gunawardane, Ru</td>
-        <td>Allen Institute for Cell Science</td>
-        <td>-</td>
+        <td label="institute">Allen Institute for Cell Science</td>
+        <td label="project"></td>
     </tr>
     
     <tr>
-        <td>Wang, Peter Yingxiao</td>
-        <td>University of California San Diego</td>
-        <td>Development of biosensesors for the locus-specific tracking of epigenetic histone modifications</td>
+        <td label="pi">Wang, Peter Yingxiao</td>
+        <td label="institute">University of California San Diego</td>
+        <td label="project">Development of biosensesors for the locus-specific tracking of epigenetic histone modifications</td>
     </tr>
 
     <tr>
-        <td>Strambio, Caterina (contact) <br/>
+        <td label="pi">Strambio, Caterina (contact) <br/>
             Grunwald, David</td>
-        <td>The University of Massachusetts Medical School</td>
-        <td>Development of a tiered system of guidelines for describing and documenting microscopy experiments</td>
+        <td label="institute">The University of Massachusetts Medical School</td>
+        <td label="project">Development of a tiered system of guidelines for describing and documenting microscopy experiments</td>
     </tr>
     
     <tr>
-        <td>Tan, Kai</td>
-        <td>University of Pennsylvania</td>
-        <td>Network approaches to analysis of chromatin interaction data</td>
+        <td label="pi">Tan, Kai</td>
+        <td label="institute">University of Pennsylvania</td>
+        <td label="project">Network approaches to analysis of chromatin interaction data</td>
     </tr>
     
     <tr>
-        <td>Libbrecht, Maxwell (contact) <br/>
+        <td label="pi">Libbrecht, Maxwell (contact) <br/>
             Hoffman, Michael</td>
-        <td>Simon Fraser University</td>
-        <td>Understanding large-scale genome regulation through joint analysis of chromatin state and chromatin conformation</td>
+        <td label="institute">Simon Fraser University</td>
+        <td label="project">Understanding large-scale genome regulation through joint analysis of chromatin state and chromatin conformation</td>
     </tr>
     
 </table>
