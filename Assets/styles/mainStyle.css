@@ -571,6 +571,19 @@ div.center {
 	background-color: #E9EAF5;
 }
 
+/* ASCB speakers table */
+#ascbSpeakers {
+	border: none;
+}
+#ascbSpeakers table, th, td {
+	border: none;
+	padding: 10px;
+}
+#ascbSpeakers td {
+	text-align: left;
+	font-size: 16px;
+}
+
 /* Tablet view */
 @media screen and (max-width:769px) {
 #mainwrapper #content #middleContainer #sidebar {
