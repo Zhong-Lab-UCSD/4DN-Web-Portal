@@ -1,93 +1,103 @@
 <!doctype html>
 <html><!-- InstanceBegin template="/Templates/mainPage.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-74740093-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-74740093-2');
+</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>4D Network Web Portal</title>
 <!-- InstanceEndEditable -->
 <link href="Assets/styles/mainStyle.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="Assets/js/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="Assets/js/slick/slick-theme.css"/>
 <!-- InstanceBeginEditable name="head" -->
 <!-- InstanceEndEditable -->
+<script defer type="text/javascript" src="Assets/js/jquery/jquery-3.3.1.min.js"></script>
+<script defer type="text/javascript" src="Assets/js/jquery/jquery-migrate-1.4.1.min.js"></script>
+<script defer type="text/javascript" src="Assets/js/jquery/jquery-migrate-3.0.0.min.js"></script>
+<script defer type="text/javascript" src="Assets/js/slick/slick.min.js"></script>
+<script defer type="text/javascript" src="Assets/js/main.js"></script>
 </head>
 
 <body>
-<div id="mainwrapper">
-  <header> 
-    <div id="logo"><img src="Assets/images/4dn-logo_1.png" alt=""/><div>4DN Web Portal</div></div>
-	<div id="headerRight">
-	  <nav> <a href="#" title="Link">Launch Data Portal</a><a href="#" title="Link">Contact Us</a></nav>
-	  <input type="text" placeholder="Search">
-	</div>
-  </header>
-  <div id="content">
-	<nav id="topMenu">
-	  <div>
-		  Home
-	  </div>
-	  <div>
-		  Cell Lines and Protocols
-		  <div>
-			  <div>
-				  Cell Lines
-			  </div>
-			  <div>
-				  Protocols
-			  </div>
-		  </div>
-	  </div>
-	  <div>
-		  Publications
-		  <div>
-			  <div>
-				  4DN Publications
-			  </div>
-			  <div>
-				  4DN Preprints
-			  </div>
-			  <div>
-				  Further Reading
-			  </div>
-		  </div>
-	  </div>
-	  <div>
-		  About 4D Nucleome
-		  <div>
-			  <div>
-				  Program Overview
-			  </div>
-			  <div>
-				  People and Contacts
-			  </div>
-			  <div>
-				  Policies
-			  </div>
-			  <div>
-				  Funding Oppotunities
-			  </div>
-		  </div>
-	  </div>
-	  <div>
-		  More...
-		  <div>
-		  <div>
-			  Outreach
-	      </div>
-		  <div>
-			  Policies
-		  </div>
-		  <div>
-			  Funding Oppotunities
-		  </div>
-		  </div>
-	  </div>
-	</nav>
-	<div id="middleContainer">
-		<section id="mainContent">
-			<div id="breadcrumb" class="active">Home > Templates</div>
-			<!-- InstanceBeginEditable name="Main contents" -->
+<div class="mainMargin"><!-- left margin --></div>
+<div id="columnWrapper">
+  <div id="mainwrapper">
+    <header class="framedContainer">
+      <div id="logo"><a href="index.html"><img src="Assets/images/4dn-logo_1.png" alt=""/></a>
+        <div>4DN Web Portal</div>
+      </div>
+      <div id="headerRight">
+        <nav> <span> <a href="https://data.4dnucleome.org/" target="_blank" title="Launch Data Portal">Launch Data Portal</a> </span> <span> <a href="mailto:oh@4dnucleome.org" title="Contact us">Contact Us</a> </span> </nav>
+        <div id="searchInput">  
+		  <script>
+			(function() {
+			  var cx = '012010507559311424712:8m_5bphxwsi';
+			  var gcse = document.createElement('script');
+			  gcse.type = 'text/javascript';
+			  gcse.async = true;
+			  gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+			  var s = document.getElementsByTagName('script')[0];
+			  s.parentNode.insertBefore(gcse, s);
+			})();
+		  </script>
+          <gcse:searchbox-only gname="4dnsitewidesearch"></gcse:searchbox-only>
+           </div>
+      </div>
+    </header>
+    <div id="content" class="framedContainer">
+      <nav id="topMenu">
+        <div class="mobileOnly">
+          <svg height="32px" id="Layer_1" version="1.1" viewBox="0 0 32 32" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <path d="M4,10h24c1.104,0,2-0.896,2-2s-0.896-2-2-2H4C2.896,6,2,6.896,2,8S2.896,10,4,10z M28,14H4c-1.104,0-2,0.896-2,2  s0.896,2,2,2h24c1.104,0,2-0.896,2-2S29.104,14,28,14z M28,22H4c-1.104,0-2,0.896-2,2s0.896,2,2,2h24c1.104,0,2-0.896,2-2  S29.104,22,28,22z"/>
+          </svg>
+          Navigation Menu</div>
+        <div id="topMenuContent">
+          <div class="topMenuItem"> <a href="index.html">Home</a> </div>
+          <div class="topMenuItem"> <a href="https://commonfund.nih.gov/4dnucleome" target="_blank">Overview</a> </div>
+          <div class="topMenuItem"> Resources
+            <div class="subMenu">
+              <div> <a href="cell-lines.html">Cell Lines</a> </div>
+              <div> <a href="protocols.html">Protocols</a> </div>
+              <div> <a href="software.html">Software</a> </div>
+            </div>
+          </div>
+          <div class="topMenuItem"> Publications
+            <div class="subMenu">
+              <div> <a href="https://www.ncbi.nlm.nih.gov/sites/myncbi/1vMpf2j6i3bke/collections/50779401/public/" target="_blank">4DN Publications</a> </div>
+              <div> <a href="pre-prints.html">4DN Preprints</a> </div>
+              <div> Further Reading
+                <div class="subMenu">
+                  <div> <a href="https://www.ncbi.nlm.nih.gov/sites/myncbi/1vMpf2j6i3bke/collections/50130949/public/" target="_blank">Genome Interactions</a> </div>
+                  <div> <a href="https://www.ncbi.nlm.nih.gov/sites/myncbi/1vMpf2j6i3bke/collections/50131107/public/" target="_blank">Data Analysis</a> </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="topMenuItem"> <a href="policies.html">Policies</a> </div>
+          <div class="topMenuItem"> <a href="outreach.html">Outreach</a> </div>
+          <div class="topMenuItem"> Contacts
+            <div class="subMenu">
+              <div> <a href="centers-and-teams.html">4DN Centers and Teams</a> </div>
+              <div> <a href="TCPA-members.html">TCPA Awardees</a> </div>
+              <div> <a href="associate-members.html">Associate Members</a> </div>
+              <div> <a href="program-consultant-board-members.html">Consultant Board Members</a> </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div id="middleContainer">
+        <section id="mainContent"> <!-- InstanceBeginEditable name="Main contents" -->
 	<h2>Associate memberships</h2>
-	<p>The 4DN Program offers researchers not currently funded by 4DN the opportunity to apply to join the program as non-voting associate members. Associate members are expected to contribute to the research goals of the consortium by generating data in common cell lines that have been selected by 4DN members for use in cross-consortium projects <a target="_blank" href="https://www.4dnucleome.org/cell-lines.html">(https://www.4dnucleome.org/cell-lines.html)</a>, and making these data freely available through the 4DN Data Coordination and Integration Center (DCIC), and/or by contributing to cross-consortium integrative analyses. <br/><br/>
+	<p>The 4DN Program offers researchers not currently funded by 4DN the opportunity to apply to join the program as non-voting associate members. Associate members are expected to contribute to the research goals of the consortium by generating data in <a target="_blank" href="cell-lines.html">common cell lines</a> that have been selected by 4DN members for use in cross-consortium projects, and making these data freely available through the 4DN Data Coordination and Integration Center (DCIC), and/or by contributing to cross-consortium integrative analyses. <br/><br/>
 
 	Associate membership does not directly or indirectly imply a commitment to funding by the NIH. <br/><br/>
 
@@ -107,81 +117,81 @@
     </tr>
     
     <tr>
-        <td>Rafelski, Susanne (contact) <br/>
+        <td label="pi">Rafelski, Susanne (contact) <br/>
             Gunawardane, Ru</td>
-        <td>Allen Institute for Cell Science</td>
-        <td>-</td>
+        <td label="institute">Allen Institute for Cell Science</td>
+        <td label="project"></td>
     </tr>
     
     <tr>
-        <td>Wang, Peter Yingxiao</td>
-        <td>University of California San Diego</td>
-        <td>Development of biosensesors for the locus-specific tracking of epigenetic histone modifications</td>
+        <td label="pi">Wang, Peter Yingxiao</td>
+        <td label="institute">University of California San Diego</td>
+        <td label="project">Development of biosensesors for the locus-specific tracking of epigenetic histone modifications</td>
     </tr>
 
     <tr>
-        <td>Strambio, Caterina (contact) <br/>
+        <td label="pi">Strambio, Caterina (contact) <br/>
             Grunwald, David</td>
-        <td>The University of Massachusetts Medical School</td>
-        <td>Development of a tiered system of guidelines for describing and documenting microscopy experiments</td>
+        <td label="institute">The University of Massachusetts Medical School</td>
+        <td label="project">Development of a tiered system of guidelines for describing and documenting microscopy experiments</td>
     </tr>
     
     <tr>
-        <td>Tan, Kai</td>
-        <td>University of Pennsylvania</td>
-        <td>Network approaches to analysis of chromatin interaction data</td>
+        <td label="pi">Tan, Kai</td>
+        <td label="institute">University of Pennsylvania</td>
+        <td label="project">Network approaches to analysis of chromatin interaction data</td>
     </tr>
     
     <tr>
-        <td>Libbrecht, Maxwell (contact) <br/>
+        <td label="pi">Libbrecht, Maxwell (contact) <br/>
             Hoffman, Michael</td>
-        <td>Simon Fraser University</td>
-        <td>Understanding large-scale genome regulation through joint analysis of chromatin state and chromatin conformation</td>
+        <td label="institute">Simon Fraser University</td>
+        <td label="project">Understanding large-scale genome regulation through joint analysis of chromatin state and chromatin conformation</td>
     </tr>
     
 </table>
 
 			<!-- InstanceEndEditable -->
-			<div id="latestDevelopments"></div>
-		</section>
-		<section id="sidebar"> 
-		  <nav>
-			  <div id="dataPortalSideButton">Launch Data Portal<div>➧</div></div>
-			  <div>Data Portal description.</div>
-			  <div id="twitterSidePanel">Twitter</div>
-			  <div class="sidePanel">
-				  <div class="sidePanelHeader">
-					  Multimedia Library
-				  </div>
-				  <div class="sidePanelBody">
-					  <div><img src="Assets/images/icons/youtube_social_icon_red.png" width="24" alt="Youtube icon"/>Youtube</div>
-				  </div>
-			  </div>
-			  <div class="sidePanel">
-				  <div class="sidePanelHeader">
-					  Stay Connected
-				  </div>
-				  <div class="sidePanelBody">
-					  <div><img src="Assets/images/icons/f-ogo_RGB_HEX-58.svg" alt="Facebook icon"/>Facebook</div>
-					  <div><img src="Assets/images/icons/Twitter_Logo_Blue.svg" alt="Twitter icon"/>Twitter</div>
-					  <div><img src="Assets/images/icons/In-2C-28px-R.png" id="LinkedIn" alt="LinkedIn icon"/>LinkedIn</div>
-					  <div><img src="Assets/images/icons/Email-iron-icon.svg" alt="Email icon"/>Email</div>
-				  </div>
-			  </div>
-		  </nav>
-		</section>
-	</div>
-    <footer>
-		<div class="logoes">
-			<img src="Assets/images/icons/flogo-HexRBG-Wht-58.svg" alt=""/>
-			<img src="Assets/images/icons/Twitter_Logo_White.svg" alt=""/>
-			<img src="Assets/images/icons/Email-iron-icon-white.svg" alt=""/>
-			<img src="Assets/images/icons/youtube_dark.png" class="youtube" alt=""/>
-			<img src="Assets/images/icons/In-White-28px-R.png" alt=""/>
-		</div>
-		<div>© Copyright 2015-2018. All rights reserved.</div>
-    </footer>
+          <div id="latestDevelopments"></div>
+        </section>
+        <section id="sidebar">
+          <nav>
+            <div><a href="https://data.4dnucleome.org/" target="_blank">
+              <div id="dataPortalSideButton" class="sideButton">Launch Data Portal
+                <div class="sideButtonArrow">➧</div>
+              </div>
+              </a>
+              <div class="sideText">The 4D Nucleome Data Portal hosts data generated by the 4DN Network and other reference nucleomics data sets, and an expanding tool set for open data processing and visualization.</div>
+              <a href="http://wiki.4dnucleome.org/" target="_blank">
+              <div id="wikiSideButton" class="sideButton">Internal Wiki
+                <div class="sideButtonArrow">➧</div>
+              </div>
+              </a> </div>
+            <div class="sidePanel framedContainer">
+              <div class="sidePanelHeader"> Multimedia Library </div>
+              <div class="sidePanelBody">
+                <div><a href="https://www.youtube.com/channel/UCe6r3u3rmaYAKSEuTLmfFxA" target="_blank"> <img src="Assets/images/icons/youtube_social_icon_red.png" width="24" alt="Youtube icon"/>Youtube </a></div>
+              </div>
+            </div>
+            <div class="sidePanel framedContainer">
+              <div class="sidePanelHeader"> Stay Connected </div>
+              <div class="sidePanelBody">
+                <div><a href="https://www.facebook.com/4DNucleome-1840252952876682/" target="_blank"> <img src="Assets/images/icons/f-ogo_RGB_HEX-58.svg" alt="Facebook icon"/>Facebook </a></div>
+                <div><a href="https://twitter.com/4DNucleome" target="_blank"><img src="Assets/images/icons/Twitter_Logo_Blue.svg" alt="Twitter icon"/>Twitter </a></div>
+                <div><a href="https://www.linkedin.com/in/4d-nucleome-857952126/" target="_blank"><img src="Assets/images/icons/In-2C-28px-R.png" id="LinkedIn" alt="LinkedIn icon"/>LinkedIn </a></div>
+                <div><a href="mailto:oh@4dnucleome.org"><img src="Assets/images/icons/Email-iron-icon.svg" alt="Email icon"/>Email </a></div>
+              </div>
+            </div>
+          </nav>
+        </section>
+      </div>
+      <footer>
+        <div class="logoes"> <a href="https://www.facebook.com/4DNucleome-1840252952876682/" target="_blank"><img src="Assets/images/icons/flogo-HexRBG-Wht-58.svg" alt=""/></a> <a href="https://twitter.com/4DNucleome" target="_blank"><img src="Assets/images/icons/Twitter_Logo_White.svg" alt=""/></a> <a href="mailto:oh@4dnucleome.org"><img src="Assets/images/icons/Email-iron-icon-white.svg" alt=""/></a> <a href="https://www.youtube.com/channel/UCe6r3u3rmaYAKSEuTLmfFxA" target="_blank"> <img src="Assets/images/icons/youtube_dark.png" class="youtube" alt=""/></a> <a href="https://www.linkedin.com/in/4d-nucleome-857952126/" target="_blank"><img src="Assets/images/icons/In-White-28px-R.png" alt=""/></a> </div>
+        <div>4D Nucleome Organizational Hub</div>
+      </footer>
+    </div>
   </div>
 </div>
+<div class="mainMargin"><!-- right margin --></div>
 </body>
 <!-- InstanceEnd --></html>
