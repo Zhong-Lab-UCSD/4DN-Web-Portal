@@ -552,7 +552,7 @@ div.center {
 #cellLines {
 	border-collapse: collapse;
 }
-#cellLines table, th, td {
+#cellLines table, #cellLines th, #cellLines td {
 	border: 1px solid black;
 	padding: 10px;
 }
@@ -723,23 +723,23 @@ div.center {
 	margin-top: 0.5em;
 	align-self: stretch;
 }
-table#GeneralTables > *, table#GeneralTables > * > * {
+table#GeneralTables > *, table#GeneralTables > * > *, table.cellLines > *, table.cellLines > * > * {
 	display: flex;
 	flex-direction: column;
 	flex-wrap: nowrap;
 	align-items: stretch;
 }
-table#GeneralTables > * > * > * {
+table#GeneralTables > * > * > *, table.cellLines > * > * > * {
 	display: inline-block;
 }
 #GeneralTables tr#Header2 {
 	display: none;
 }
-#GeneralTables tr {
+#GeneralTables tr, .cellLines tr {
 	border: 1px solid black;
 	padding: 0.3em 0;
 }
-#GeneralTables td {
+#GeneralTables td, .cellLines td {
 	border: none;
 	padding-top: 0.2em;
 	padding-bottom: 0.2em;
@@ -748,16 +748,16 @@ table#GeneralTables > * > * > * {
 	display: none;
 	content: none;
 }
-#GeneralTables td.center {
-	text-align: center;
-	font-size: 14px;
-}
-#GeneralTables th {
+#GeneralTables th, .cellLines th {
 	font-size: 16px;
 	border: none;
+	text-align: left;
 }
 #GeneralTables td[label="pi"] {
 	font-weight: bold;
+}
+#GeneralTables td[label="position"] {
+	font-style: italic;
 }
 #GeneralTables td[label="project"] {
 	font-style: italic;
@@ -766,18 +766,14 @@ table#GeneralTables > * > * > * {
 	content: "Project title: ";
 	font-weight: bold;
 }
-#GeneralTables tr:nth-child(odd) {
-	background-color: #F7F7FD;
+#GeneralTables td[label="pi"] {
+	font-weight: bold;
 }
-#GeneralTables tr:nth-child(even) {
-	background-color: #E9EAF5;
+.cellLines td[label="provider"] {
+	font-style: italic;
 }
-#GeneralTables #Header1 {
-	background-color: #3D6289;
-	color: #FFFFFF;
-}
-#GeneralTables #Header2 {
-	background-color: #6C6C6C;
-	color: #FFFFFF;
+.cellLines td[label="project"]::before {
+	content: "Provider: ";
+	font-weight: bold;
 }
 }
