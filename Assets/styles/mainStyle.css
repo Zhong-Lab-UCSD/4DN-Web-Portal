@@ -196,6 +196,7 @@ header div#headerRight input {
 	font-style: normal;
 	font-weight: 200;
 	color: rgba(72,72,72,1.00);
+	text-align: left;
 }
 #content #mainContent #bannerImage {
 	/*Container for main banner image */
@@ -505,6 +506,9 @@ div.center {
 }
 /* General tables */
 
+table#GeneralTables, table.cellLines {
+	width: 100%;
+}
 #GeneralTables a.ex1:hover, a.ex1:active {
 	color: #A01C20;
 	text-decoration: underline;
@@ -599,26 +603,13 @@ div.center {
 	border: none;
 }
 
-/* ASCB speakers table */
-#ascbSpeakers {
-	border: none;
-}
-#ascbSpeakers table, th, td {
-	border: none;
-	padding: 10px;
-}
-#ascbSpeakers td {
-	text-align: left;
-	font-size: 16px;
-}
-
 /* Tablet view */
 @media screen and (max-width:769px) {
 #mainwrapper #content #middleContainer #sidebar {
 	border-left: 0;
 	border-top: 1px solid rgba(42,42,42,0.3);
 	flex: 1 1 auto;
-	min-width: 300px;
+	min-width: 350px;
 }
 #mainwrapper #content #middleContainer #sidebar nav {
 	display: flex;
@@ -725,15 +716,24 @@ div.center {
 }
 table#GeneralTables, table.cellLines {
 	display: inline-block;
+	width: 100%;
+	margin-top: 0;
+	margin-bottom: 0;
 }
-table#GeneralTables > *, table#GeneralTables > * > *, table.cellLines > *, table.cellLines > * > * {
+table#GeneralTables > *, table#GeneralTables > * > *, table.cellLines > * {
 	display: flex;
 	flex-direction: column;
 	flex-wrap: nowrap;
 	align-items: stretch;
 }
-table#GeneralTables > * > * > *, table.cellLines > * > * > * {
-	display: inline-block;
+table.cellLines > * > *	{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+table.cellLines > * > * > * {
+	width: 100%;
+	flex: auto;
 }
 #GeneralTables tr#Header2 {
 	display: none;
@@ -775,11 +775,40 @@ table#GeneralTables > * > * > *, table.cellLines > * > * > * {
 #GeneralTables td[label="pi"] {
 	font-weight: bold;
 }
+.cellLines td[label="cellLineName"] {
+	font-weight: bold;
+	width: auto;
+	order: 0;
+}
+.cellLines td[label="description"] {
+	order: 2;
+}
 .cellLines td[label="provider"] {
 	font-style: italic;
+	order: 3;
 }
 .cellLines td[label="provider"]::before {
 	content: "Provider: ";
 	font-weight: bold;
+}
+.cellLines td[label="availability"] {
+	width: auto;
+	flex: none;
+	order: 1;
+	border-radius: 3px;
+	margin: 0 5px;
+	background: rgba(11,58,0,1.00);
+	color: #FFFFFF;
+	font-size: 12px;
+	padding: 3px 10px 3px 8px;
+}
+.cellLines td[label="availability"]:before {
+	content: "Availability: ";
+}
+.cellLines td[label="availability"]:empty {
+	background: rgba(70,70,70,1.00);
+}
+.cellLines td[label="availability"]:empty:after {
+	content: "✕";
 }
 }
