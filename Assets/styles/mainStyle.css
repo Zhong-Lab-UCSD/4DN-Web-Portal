@@ -772,7 +772,28 @@ table.cellLines > * > * > * {
 	content: "Project title: ";
 	font-weight: bold;
 }
-#GeneralTables td[label="pi"] {
+#GeneralTables td[label="name"] {
+	font-weight: bold;
+}
+#GeneralTables td[label="reference"] {
+	font-style: italic;
+}
+#GeneralTables td[label="reference"]::before {
+	content: "Reference: ";
+	font-weight: bold;
+}
+#GeneralTables td[label="dataType"] {
+	font-style: italic;
+}
+#GeneralTables td[label="dataType"]::before {
+	content: "Data type: ";
+	font-weight: bold;
+}
+#GeneralTables td[label="approvalDate"] {
+	font-style: italic;
+}
+#GeneralTables td[label="approvalDate"]::before {
+	content: "Approved on: ";
 	font-weight: bold;
 }
 .cellLines td[label="cellLineName"] {
