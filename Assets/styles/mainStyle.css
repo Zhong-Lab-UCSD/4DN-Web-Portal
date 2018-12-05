@@ -87,6 +87,7 @@ header div#headerRight input {
 	font-weight: bold;
 	background: rgb(73, 78, 135);
 	cursor: pointer;
+	display: block;
 }
 #content nav#topMenu #topMenuContent {
 	display: flex;
@@ -189,6 +190,7 @@ header div#headerRight input {
 #content #mainContent h1, #content #mainContent h2 {
 	/* Styling for main headings */
 	color: rgba(64,64,64,1.00);
+	text-align: left;
 }
 #content #mainContent h3 {
 	/*Captions ot Taglines */
