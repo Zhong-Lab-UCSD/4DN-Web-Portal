@@ -8,6 +8,16 @@
 
   <item>
       <title>
+          Co-opted transposons help perpetuate conserved higher-order chromosomal structures</title>
+      <link><![CDATA[https://doi.org/10.1101/485342]]></link>
+      <description>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Mayank NK Choudhary, Ryan Z Friedman, Julia T Wang, Hyo Sik Jang, Xiaoyu Zhuo, Ting Wang</p>
+          ]]></description>
+      <pubDate>5 Dec 2018</pubDate>
+  </item>
+  
+  <item>
+      <title>
           Genome-wide co-localization of RNA-DNA interactions and fusion RNA pairs</title>
       <link><![CDATA[https://doi.org/10.1101/472019]]></link>
       <description>
@@ -34,16 +44,6 @@
         <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Rieger, B., Stallinga, S., Hulleman, C. N., Thorsen, R. O., Grunwald, D., Hammer, M.</p>
         ]]></description>
     <pubDate>20 Aug 2018</pubDate>
-</item>
-
-<item>
-    <title>
-        A combination of transcription factors mediates inducible interchromosomal pairing</title>
-    <link><![CDATA[https://doi.org/10.1101/385047]]></link>
-    <description>
-        <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Kim, S., Dunham, M., Shendure, J.</p>
-        ]]></description>
-    <pubDate>5 Aug 2018</pubDate>
 </item>
 
 </channel>
