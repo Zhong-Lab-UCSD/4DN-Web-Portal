@@ -415,9 +415,12 @@ footer > div.logoes img:hover {
 .slickSlider > * {
 	width: 100%;
 }
-.slickSlider img {
-	max-width: 100%;
+.slickSlider .sliderImg {
+	max-width: 600px;
 	max-height: 350px;
+}
+.slickSlider .sliderImg > img {
+	max-width: 100%;
 }
 .widgetHolder {
 	flex: 1 1 320px;
