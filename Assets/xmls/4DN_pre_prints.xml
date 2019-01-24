@@ -8,6 +8,36 @@
 
   <item>
       <title>
+          Revealing Hi-C subcompartments by imputing high-resolution inter-chromosomal chromatin interactions</title>
+      <link><![CDATA[https://doi.org/10.1101/505503]]></link>
+      <description>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Kyle Xiong, Jian Ma</p>
+          ]]></description>
+      <pubDate>23 Dec 2018</pubDate>
+  </item>
+  
+  <item>
+      <title>
+          An RNA-binding region regulates CTCF clustering and chromatin looping</title>
+      <link><![CDATA[https://doi.org/10.1101/49543]]></link>
+      <description>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Anders S Hansen, Tsung-Han S Hsieh, Claudia Cattoglio, Iryna Pustova, Xavier Darzacq, Robert Tjian</p>
+          ]]></description>
+      <pubDate>16 Dec 2018</pubDate>
+  </item>
+  
+  <item>
+      <title>
+          Guided nuclear exploration increases CTCF target search efficiency</title>
+      <link><![CDATA[https://doi.org/10.1101/495457]]></link>
+      <description>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Anders S Hansen, Assaf Amitai, Claudia Cattoglio, Robert Tjian, Xavier Darzacq</p>
+          ]]></description>
+      <pubDate>13 Dec 2018</pubDate>
+  </item>
+  
+  <item>
+      <title>
           Co-opted transposons help perpetuate conserved higher-order chromosomal structures</title>
       <link><![CDATA[https://doi.org/10.1101/485342]]></link>
       <description>
@@ -18,33 +48,13 @@
   
   <item>
       <title>
-          Genome-wide co-localization of RNA-DNA interactions and fusion RNA pairs</title>
-      <link><![CDATA[https://doi.org/10.1101/472019]]></link>
+          Two Contrasting Classes of Nucleolus-Associated Domains in Mouse Fibroblast Heterochromatin</title>
+      <link><![CDATA[https://doi.org/10.1101/484568]]></link>
       <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Yan, Z., Huang, N., Wu, W., Chen, W., Jiang, Y., Chen, J., Huang, X., Wen, X., Xu, J., Jin, Q., Zhang, K., Chen, Z., Chien, S., Zhong, S.</p>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Anastassiia Vertii, Jianhong Ou, Jun Yu, Aimin Yan, Hervé Pagès, Haibo Liu, Lihua Julie Zhu, Paul D. Kaufman</p>
           ]]></description>
-      <pubDate>20 Nov 2018</pubDate>
+      <pubDate>3 Dec 2018</pubDate>
   </item>
-  
-  <item>
-      <title>
-          Spatial Chromatin Architecture Alteration by Structural Variations in Human Genomes at Population Scale</title>
-      <link><![CDATA[https://doi.org/10.1101/266981]]></link>
-      <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Sadowski, M., Kraft, A., Szalaj, P., Wlasnowolski, M., Tang, Z., Ruan, Y., Plewczynski, D.</p>
-          ]]></description>
-      <pubDate>14 Sep 2018</pubDate>
-  </item>
-  
-<item>
-    <title>
-        Photon count estimation in single-molecule localization microscopy</title>
-    <link><![CDATA[https://doi.org/10.1101/396424]]></link>
-    <description>
-        <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Rieger, B., Stallinga, S., Hulleman, C. N., Thorsen, R. O., Grunwald, D., Hammer, M.</p>
-        ]]></description>
-    <pubDate>20 Aug 2018</pubDate>
-</item>
 
 </channel>
 </rss>
