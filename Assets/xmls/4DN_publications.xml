@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
 
@@ -6,13 +6,34 @@
   <link>https://www.4dnucleome.org/4dn-publications.html</link>
   <description>4D Nucleome Publications</description>
 
+  <item>
+      <title>
+          Identifying cis Elements for Spatiotemporal Control of Mammalian DNA Replication</title>
+      <link><![CDATA[https://www.cell.com/cell/fulltext/S0092-8674(18)31561-7#%20]]></link>
+      <description>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/cell-press.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Jiao Sima, Abhijit Chakraborty, Vishnu Dileep, ..., Peter Fraser, Ferhat Ay, David M. Gilbert</p>
+              <p style="font-family:verdana;">The temporal order of DNA replication (replication timing [RT]) is highly coupled with genome architecture, but cis-elements regulating either remain elusive. We created a series of CRISPR-mediated deletions and inversions of a pluripotency-associated topologically associating domain (TAD) in mouse ESCs. CTCF-associated domain boundaries were dispensable for RT. CTCF protein depletion weakened most TAD boundaries but had no effect on RT or A/B compartmentalization genome-wide. By contrast, deletion of three intra-TAD CTCF-independent 3D contact sites caused a domain-wide early-to-late RT shift, an A-to-B compartment switch, weakening of TAD architecture, and loss of transcription.</p>
+          ]]></description>
+      <pubDate>27 Dec 2018</pubDate>
+  </item>
+  
+  <item>
+  <title>
+      CRISPR-Mediated Programmable 3D Genome Positioning and Nuclear Organization</title>
+  <link><![CDATA[https://www.sciencedirect.com/science/article/pii/S0092867418311851]]></link>
+  <description>
+      <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/cell-press.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Haifeng Wang, Xiaoshu Xu, Cindy M. Nguyen, Yanxia Liu, Yuchen Gao, Xueqiu Lin, Timothy Daley, Nathan H. Kipniss, Marie La Russa, Lei S. Qi</p>
+          <p style="font-family:verdana;">Programmable control of spatial genome organization is a powerful approach for studying how nuclear structure affects gene regulation and cellular function. Here, we develop a versatile CRISPR-genome organization (CRISPR-GO) system that can efficiently control the spatial positioning of genomic loci relative to specific nuclear compartments, including the nuclear periphery, Cajal bodies, and promyelocytic leukemia (PML) bodies. CRISPR-GO is chemically inducible and reversible, enabling interrogation of real-time dynamics of chromatin interactions with nuclear compartments in living cells.</p>
+      ]]></description>
+  <pubDate>15 Nov 2018</pubDate>
+</item>
   
   <item>
       <title>
           Disease-Associated Short Tandem Repeats Co-localize with Chromatin Domain Boundaries</title>
       <link><![CDATA[https://www.sciencedirect.com/science/article/pii/S0092867418310213?via%3Dihub]]></link>
       <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://beta.4dnucleome.org/Assets/images/cell-press.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">James H. Sun, Linda Zhou, Daniel J. Emerson, Sai A. Phyo, Katelyn R. Titus, Wanfeng Gong, Thomas G. Gilgenast, Jonathan A. Beagan, Beverly L. Davidson, Flora Tasson, Jennifer E. Phillips-Cremins</p>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/cell-press.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">James H. Sun, Linda Zhou, Daniel J. Emerson, Sai A. Phyo, Katelyn R. Titus, Wanfeng Gong, Thomas G. Gilgenast, Jonathan A. Beagan, Beverly L. Davidson, Flora Tasson, Jennifer E. Phillips-Cremins</p>
               <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">More than 25 inherited human disorders are caused by the unstable expansion of repetitive DNA sequences termed short tandem repeats (STRs). A fundamental unresolved question is why some STRs are susceptible to pathologic expansion, whereas thousands of repeat tracts across the human genome are relatively stable. Here, we discover that nearly all disease-associated STRs (daSTRs) are located at boundaries demarcating 3D chromatin domains. We identify a subset of boundaries with markedly higher CpG island density compared to the rest of the genome.</p>
           ]]></description>
       <pubDate>20 Sep 2018</pubDate>
@@ -27,17 +48,6 @@
               <p style="font-family:verdana;">Structural variants (SVs) can contribute to oncogenesis through a variety of mechanisms. Despite their importance, the identification of SVs in cancer genomes remains challenging. Here, we present a framework that integrates optical mapping, high-throughput chromosome conformation capture (Hi-C), and whole-genome sequencing to systematically detect SVs in a variety of normal or cancer samples and cell lines.</p>
           ]]></description>
       <pubDate>10 Sep 2018</pubDate>
-  </item>
-  
-  <item>
-      <title>
-          Mapping 3D genome organization relative to nuclear compartments using TSA-Seq as a cytological ruler</title>
-      <link><![CDATA[http://jcb.rupress.org/content/early/2018/08/27/jcb.201807108.long]]></link>
-      <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://beta.4dnucleome.org/Assets/images/jcb.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Yu Chen, Yang Zhang, Yuchuan Wang, Liguo Zhang, Eva K. Brinkman, Stephen A. Adam, Robert Goldman, Bas van Steensel, Jian Ma, Andrew S. Belmont</p>
-              <p style="font-family:verdana;">While nuclear compartmentalization is an essential feature of three-dimensional genome organization, no genomic method exists for measuring chromosome distances to defined nuclear structures. In this study, we describe TSA-Seq, a new mapping method capable of providing a “cytological ruler” for estimating mean chromosomal distances from nuclear speckles genome-wide and for predicting several Mbp chromosome trajectories between nuclear compartments without sophisticated computational modeling.</p>
-          ]]></description>
-      <pubDate>28 Aug 2018</pubDate>
   </item>
   
 </channel>
