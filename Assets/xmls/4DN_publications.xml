@@ -8,6 +8,17 @@
 
   <item>
       <title>
+          Replication Timing Becomes Intertwined with 3D Genome Organization</title>
+      <link><![CDATA[https://www.cell.com/cell/fulltext/S0092-8674(19)30090-X]]></link>
+      <description>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/cell-press.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Jian Ma, Zhijun Duan</p>
+              <p style="font-family:verdana;">Through dissecting the link between spatial genome organization and DNA replication timing, Sima et al. (2018) discover early replicating control elements (ERCEs), a new type of cis-acting elements that regulate replication timing, transcription, and multiple layers of three-dimensional features of genome organization. The study has important implications for unraveling control elements of high-order genome structure and function.</p>
+          ]]></description>
+      <pubDate>7 Feb 2019</pubDate>
+  </item>
+  
+  <item>
+      <title>
           Identifying cis Elements for Spatiotemporal Control of Mammalian DNA Replication</title>
       <link><![CDATA[https://www.cell.com/cell/fulltext/S0092-8674(18)31561-7#%20]]></link>
       <description>
@@ -37,17 +48,6 @@
               <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">More than 25 inherited human disorders are caused by the unstable expansion of repetitive DNA sequences termed short tandem repeats (STRs). A fundamental unresolved question is why some STRs are susceptible to pathologic expansion, whereas thousands of repeat tracts across the human genome are relatively stable. Here, we discover that nearly all disease-associated STRs (daSTRs) are located at boundaries demarcating 3D chromatin domains. We identify a subset of boundaries with markedly higher CpG island density compared to the rest of the genome.</p>
           ]]></description>
       <pubDate>20 Sep 2018</pubDate>
-  </item>
-  
-  <item>
-      <title>
-          Integrative detection and analysis of structural variation in cancer genomes</title>
-      <link><![CDATA[https://www.nature.com/articles/s41588-018-0195-8]]></link>
-      <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://beta.4dnucleome.org/Assets/images/nature_genetics.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Jesse R. Dixon, ... , Ferhat Ay, William Stafford Noble, Job Dekker, David M. Gilbert & Feng Yue</p>
-              <p style="font-family:verdana;">Structural variants (SVs) can contribute to oncogenesis through a variety of mechanisms. Despite their importance, the identification of SVs in cancer genomes remains challenging. Here, we present a framework that integrates optical mapping, high-throughput chromosome conformation capture (Hi-C), and whole-genome sequencing to systematically detect SVs in a variety of normal or cancer samples and cell lines.</p>
-          ]]></description>
-      <pubDate>10 Sep 2018</pubDate>
   </item>
   
 </channel>
