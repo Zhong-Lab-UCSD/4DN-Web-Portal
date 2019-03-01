@@ -8,6 +8,28 @@
 
   <item>
       <title>
+          Genome-wide colocalization of RNA–DNA interactions and fusion RNA pairs</title>
+      <link><![CDATA[https://www.nature.com/articles/s41586-019-0949-1]]></link>
+      <description>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/pnas.jpeg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Zhangming Yan, Norman Huang, Weixin Wu, Weizhong Chen, Yiqun Jiang, Jingyao Chen, Xuerui Huang, Xingzhao Wen, Jie Xu, Qiushi Jin, Kang Zhang, Zhen Chen, Shu Chien, and Sheng Zhong</p>
+              <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">It remains formidable to predict what unreported RNA pairs can form new fusion transcripts. By systematic mapping of chromatin-associated RNAs and their respective genomic interaction loci, we obtained genome-wide RNA–DNA interaction maps from two noncancerous cell types. The gene pairs involved in RNA–DNA interactions in these normal cells exhibited strong overlap with those with cancer-derived fusion transcripts.</p>
+          ]]></description>
+      <pubDate>19 Feb 2019</pubDate>
+  </item>
+  
+  <item>
+      <title>
+          Multiplex chromatin interactions with single-molecule precision</title>
+      <link><![CDATA[https://www.nature.com/articles/s41586-019-0949-1]]></link>
+      <description>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_logo.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Meizhen Zheng, Simon Zhongyuan Tian, Daniel Capurso, Minji Kim, Rahul Maurya, Byoungkoo Lee, Emaly Piecuch, Liang Gong, Jacqueline Jufen Zhu, Zhihui Li, Chee Hong Wong, Chew Yee Ngan, Ping Wang, Xiaoan Ruan, Chia-Lin Wei & Yijun Ruan</p>
+              <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">[...] Here we describe a strategy for multiplex chromatin-interaction analysis via droplet-based and barcode-linked sequencing, which we name ChIA-Drop. We demonstrate the robustness of ChIA-Drop in capturing complex chromatin interactions with single-molecule precision, which has not been possible using methods based on population-level pairwise contacts.</p>
+          ]]></description>
+      <pubDate>18 Feb 2019</pubDate>
+  </item>
+  
+  <item>
+      <title>
           Replication Timing Becomes Intertwined with 3D Genome Organization</title>
       <link><![CDATA[https://www.cell.com/cell/fulltext/S0092-8674(19)30090-X]]></link>
       <description>
@@ -26,28 +48,6 @@
               <p style="font-family:verdana;">The temporal order of DNA replication (replication timing [RT]) is highly coupled with genome architecture, but cis-elements regulating either remain elusive. We created a series of CRISPR-mediated deletions and inversions of a pluripotency-associated topologically associating domain (TAD) in mouse ESCs. CTCF-associated domain boundaries were dispensable for RT. CTCF protein depletion weakened most TAD boundaries but had no effect on RT or A/B compartmentalization genome-wide. By contrast, deletion of three intra-TAD CTCF-independent 3D contact sites caused a domain-wide early-to-late RT shift, an A-to-B compartment switch, weakening of TAD architecture, and loss of transcription.</p>
           ]]></description>
       <pubDate>27 Dec 2018</pubDate>
-  </item>
-  
-  <item>
-  <title>
-      CRISPR-Mediated Programmable 3D Genome Positioning and Nuclear Organization</title>
-  <link><![CDATA[https://www.sciencedirect.com/science/article/pii/S0092867418311851]]></link>
-  <description>
-      <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/cell-press.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Haifeng Wang, Xiaoshu Xu, Cindy M. Nguyen, Yanxia Liu, Yuchen Gao, Xueqiu Lin, Timothy Daley, Nathan H. Kipniss, Marie La Russa, Lei S. Qi</p>
-          <p style="font-family:verdana;">Programmable control of spatial genome organization is a powerful approach for studying how nuclear structure affects gene regulation and cellular function. Here, we develop a versatile CRISPR-genome organization (CRISPR-GO) system that can efficiently control the spatial positioning of genomic loci relative to specific nuclear compartments, including the nuclear periphery, Cajal bodies, and promyelocytic leukemia (PML) bodies. CRISPR-GO is chemically inducible and reversible, enabling interrogation of real-time dynamics of chromatin interactions with nuclear compartments in living cells.</p>
-      ]]></description>
-  <pubDate>15 Nov 2018</pubDate>
-</item>
-  
-  <item>
-      <title>
-          Disease-Associated Short Tandem Repeats Co-localize with Chromatin Domain Boundaries</title>
-      <link><![CDATA[https://www.sciencedirect.com/science/article/pii/S0092867418310213?via%3Dihub]]></link>
-      <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/cell-press.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">James H. Sun, Linda Zhou, Daniel J. Emerson, Sai A. Phyo, Katelyn R. Titus, Wanfeng Gong, Thomas G. Gilgenast, Jonathan A. Beagan, Beverly L. Davidson, Flora Tasson, Jennifer E. Phillips-Cremins</p>
-              <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">More than 25 inherited human disorders are caused by the unstable expansion of repetitive DNA sequences termed short tandem repeats (STRs). A fundamental unresolved question is why some STRs are susceptible to pathologic expansion, whereas thousands of repeat tracts across the human genome are relatively stable. Here, we discover that nearly all disease-associated STRs (daSTRs) are located at boundaries demarcating 3D chromatin domains. We identify a subset of boundaries with markedly higher CpG island density compared to the rest of the genome.</p>
-          ]]></description>
-      <pubDate>20 Sep 2018</pubDate>
   </item>
   
 </channel>

@@ -8,52 +8,63 @@
 
   <item>
       <title>
-          Revealing Hi-C subcompartments by imputing high-resolution inter-chromosomal chromatin interactions</title>
-      <link><![CDATA[https://doi.org/10.1101/505503]]></link>
+          EpiAlignment: alignment with both DNA sequence and epigenomic data</title>
+      <link><![CDATA[https://doi.org/10.1101/562199]]></link>
       <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Kyle Xiong, Jian Ma</p>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Jia Lu, Xiaoyi Cao, Sheng Zhong</p>
           ]]></description>
-      <pubDate>23 Dec 2018</pubDate>
+      <pubDate>27 Feb 2019</pubDate>
   </item>
   
   <item>
       <title>
-          An RNA-binding region regulates CTCF clustering and chromatin looping</title>
-      <link><![CDATA[https://doi.org/10.1101/49543]]></link>
+          Cooler: scalable storage for Hi-C data and other genomically-labeled arrays</title>
+      <link><![CDATA[https://doi.org/10.1101/557660]]></link>
       <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Anders S Hansen, Tsung-Han S Hsieh, Claudia Cattoglio, Iryna Pustova, Xavier Darzacq, Robert Tjian</p>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Nezar Abdennur, Leonid Mirny</p>
           ]]></description>
-      <pubDate>16 Dec 2018</pubDate>
+      <pubDate>22 Feb 2019</pubDate>
   </item>
   
   <item>
       <title>
-          Guided nuclear exploration increases CTCF target search efficiency</title>
-      <link><![CDATA[https://doi.org/10.1101/495457]]></link>
+          Localization microscopy at doubled precision with patterned illumination</title>
+      <link><![CDATA[https://doi.org/10.1101/554337]]></link>
       <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Anders S Hansen, Assaf Amitai, Claudia Cattoglio, Robert Tjian, Xavier Darzacq</p>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Jelmer Cnossen, Taylor Hinsdale, Ramsus Thorsen, Florian Schueder, Ralf Jungmann, Carlas S Smith, Bernd Rieger, Sjoerd Stallinga</p>
           ]]></description>
-      <pubDate>13 Dec 2018</pubDate>
+      <pubDate>20 Feb 2019</pubDate>
   </item>
   
   <item>
       <title>
-          Co-opted transposons help perpetuate conserved higher-order chromosomal structures</title>
-      <link><![CDATA[https://doi.org/10.1101/485342]]></link>
+          Chromatin compartment dynamics in a haploinsufficient model of cardiac laminopathy</title>
+      <link><![CDATA[https://doi.org/10.1101/555250]]></link>
       <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Mayank NK Choudhary, Ryan Z Friedman, Julia T Wang, Hyo Sik Jang, Xiaoyu Zhuo, Ting Wang</p>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Alessandro Bertero, Paul A Fields, Alec ST Smith, Andrea Leonard, Kevin Beussman, Nathan J Sniadecki, Deok-Ho Kim, Hung-Fat Tse, Lil Pabon, Jay Shendure, William S Noble,  Charles E Murry</p>
           ]]></description>
-      <pubDate>5 Dec 2018</pubDate>
+      <pubDate>19 Feb 2019</pubDate>
   </item>
   
   <item>
       <title>
-          Two Contrasting Classes of Nucleolus-Associated Domains in Mouse Fibroblast Heterochromatin</title>
-      <link><![CDATA[https://doi.org/10.1101/484568]]></link>
+          Comparing 3D genome organization in multiple species using Phylo-HMRF
+</title>
+      <link><![CDATA[https://doi.org/10.1101/552505]]></link>
       <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Anastassiia Vertii, Jianhong Ou, Jun Yu, Aimin Yan, Hervé Pagès, Haibo Liu, Lihua Julie Zhu, Paul D. Kaufman</p>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Yang Yang, Yang Zhang, Bing Ren, Jesse Dixon, Jian Ma</p>
           ]]></description>
-      <pubDate>3 Dec 2018</pubDate>
+      <pubDate>19 Feb 2019</pubDate>
+  </item>
+  
+  <item>
+      <title>
+          MOCHI enables discovery of heterogeneous interactome modules in 3D nucleome</title>
+      <link><![CDATA[https://doi.org/10.1101/542092]]></link>
+      <description>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Dechao Tian, Ruochi Zhang, Yang Zhang,  Xiaopeng Zhu, Jian Ma</p>
+          ]]></description>
+      <pubDate>7 Feb 2019</pubDate>
   </item>
 
 </channel>
