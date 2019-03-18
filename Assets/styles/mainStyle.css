@@ -96,12 +96,17 @@ header div#headerRight input {
 	padding: 0.3em 0.5em;
 	flex: auto;
 }
-#content nav#topMenu svg {
-	max-width: 16px;
-	max-height: 16px;
-	fill: #FFFFFF;
+#content nav#topMenu i.material-icons {
+	font-size: 1em;
 	vertical-align: sub;
+}
+#content nav#topMenu i.material-icons#navMenuIcon {
+	font-size: 1.3em;
 	margin-right: 0.3em;
+}
+#content nav#topMenu i.material-icons.openInNewIcons {
+	font-size: 0.8em;
+	vertical-align: baseline;
 }
 #content nav#topMenu a:link, #content nav#topMenu a:visited {
 	color: #FFFFFF;
@@ -417,10 +422,12 @@ footer > div.logoes img:hover {
 }
 .slickSlider .sliderImg {
 	max-width: 600px;
-	max-height: 350px;
+	max-height: 450px;
+	overflow: hidden;
 }
 .slickSlider .sliderImg > img {
 	max-width: 100%;
+	max-height: 450px;
 }
 .widgetHolder {
 	flex: 1 1 320px;
