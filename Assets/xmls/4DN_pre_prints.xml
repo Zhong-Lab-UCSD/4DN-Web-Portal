@@ -6,6 +6,17 @@
   <link>http://www.4dnucleome.org</link>
   <description>4D Nucleome pre-prints</description>
 
+  
+  <item>
+      <title>
+          Absolute quantification of cohesin, CTCF and their regulators in human cells</title>
+      <link><![CDATA[https://doi.org/10.1101/560425]]></link>
+      <description>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Johann Holzmann, Antonio Z. Politi, Kota Nagasaka, Merle Hantsche-Grininger, Nike Walther, Birgit Koch, Johannes Fuchs, Gerhard Dürnberger, Wen Tang, Rene Ladurner, Roman R. Stocsits, Georg A. Busslinger, Béla Novák, Karl Mechtler, Iain F. Davidson, Jan Ellenberg, Jan-Michael Peters</p>
+          ]]></description>
+      <pubDate>27 Feb 2019</pubDate>
+  </item>
+  
   <item>
       <title>
           EpiAlignment: alignment with both DNA sequence and epigenomic data</title>
@@ -14,6 +25,17 @@
           <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Jia Lu, Xiaoyi Cao, Sheng Zhong</p>
           ]]></description>
       <pubDate>27 Feb 2019</pubDate>
+  </item>
+  
+  <item>
+      <title>
+          Determining cellular CTCF and cohesin abundances to constrain 3D genome models
+      </title>
+      <link><![CDATA[https://doi.org/10.1101/370650]]></link>
+      <description>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Claudia Cattoglio, Iryna Pustova, Nike Walther, Jaclyn J Ho, Merle Hantsche-Grininger, Carla J Inouye, M. Julius Hossain, Gina M Dailey, Jan Ellenberg, Xavier Darzacq, Robert Tjian, Anders S Hansen</p>
+          ]]></description>
+      <pubDate>24 Feb 2019</pubDate>
   </item>
   
   <item>
@@ -44,27 +66,6 @@
           <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Alessandro Bertero, Paul A Fields, Alec ST Smith, Andrea Leonard, Kevin Beussman, Nathan J Sniadecki, Deok-Ho Kim, Hung-Fat Tse, Lil Pabon, Jay Shendure, William S Noble,  Charles E Murry</p>
           ]]></description>
       <pubDate>19 Feb 2019</pubDate>
-  </item>
-  
-  <item>
-      <title>
-          Comparing 3D genome organization in multiple species using Phylo-HMRF
-</title>
-      <link><![CDATA[https://doi.org/10.1101/552505]]></link>
-      <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Yang Yang, Yang Zhang, Bing Ren, Jesse Dixon, Jian Ma</p>
-          ]]></description>
-      <pubDate>19 Feb 2019</pubDate>
-  </item>
-  
-  <item>
-      <title>
-          MOCHI enables discovery of heterogeneous interactome modules in 3D nucleome</title>
-      <link><![CDATA[https://doi.org/10.1101/542092]]></link>
-      <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Dechao Tian, Ruochi Zhang, Yang Zhang,  Xiaopeng Zhu, Jian Ma</p>
-          ]]></description>
-      <pubDate>7 Feb 2019</pubDate>
   </item>
 
 </channel>
