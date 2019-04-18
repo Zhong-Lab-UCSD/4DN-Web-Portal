@@ -135,7 +135,7 @@
             <td label="description">Mapping 3D genome architecture through in situ DNase Hi-C</td>
           </tr>
           <tr>
-              <td label="name"><a class="ex1" target="_blank" href="https://elasticbeanstalk-fourfront-webprod-blobs.s3.amazonaws.com/ca31878e-1d94-4b0f-9b8a-f91707133596?AWSAccessKeyId=AKIAJ73IQL2CYSDLIWMA&Signature=T7UZI5X%2FJmks3x%2FKSAGUcBeErUU%3D&Expires=1555559178">DamID seq protocol</a></td>
+              <td label="name"><a class="ex1" target="_blank" href="https://data.4dnucleome.org/protocols/4ebc8669-4d1e-4adb-9314-5e5d88b66f84/">DamID seq protocol</a></td>
               <td label="approvalDate">December 12, 2017</td>
               <td label="description">The Official 4DN Standard DAM-ID seq Protocol from the van Steensel Lab.</td>
           </tr>
@@ -200,33 +200,67 @@
               (Josée Dostie and Job Dekker, Nature Protocols, 2007)</a></td>
             <td label="description"><b>Chromosome conformation capture carbon copy (5C)</b> detects interactions between all restriction fragments within a given region, with this region's size typically no greater than a megabase (many-vs-many).</td>
           </tr>
+		  <tr>
+			  <td label="name"><a class="ex1" target="_blank" href="http://www.nature.com/articles/ncomms7178#methods">Capture Hi-C</a></td>
+			  <td label="reference"><a class="ex1" target="_blank" href="http://www.nature.com/ng/journal/v47/n6/pdf/ng.3286.pdf">Mapping long-range promoter contacts in human cells with high-resolution capture Hi-C
+				  (Mifsud et al, Nature Genetics, 2015)</a></td>
+			  <td label="description"><b>Capture Hi-C (CHi-C)</b> is is an adapted technology that selects and enriches few hundred promoters for genome-wide, long-range contacts of both active and inactive promoters.</td>
+		  </tr>
+		  <tr>
+			  <td label="name"><a class="ex1" target="_blank" href="https://docs.google.com/a/eng.ucsd.edu/viewer?a=v&pid=sites&srcid=NGRudWNsZW9tZS5vcmd8NGQtbnVjbGVvbWUtd2lraXxneDoyZWY2OWFkY2Y4ZWZkMQ">ChIA-PET</a></td>
+			  <td label="reference"><a class="ex1" target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1002/jcb.22116/epdf">ChIP-based methods for the identification of long-range chromatin interactions
+				  (Fullwood and Ruan, Journal of Cellular Biochemistry, 2009)</a></td>
+			  <td label="description"><b>Chromatin Interaction Analysis by Paired-End Tag Sequencing (ChIA-PET)</b> is a technique that incorporates chromatin immunoprecipitation (ChIP)-based enrichment, chromatin proximity ligation, Paired-End Tags, and High-throughput sequencing to determine de novo long-range chromatin interactions genome-wide.</td>
+		  </tr>
+		  <tr>
+			  <td label="name"><a class="ex1" target="_blank" href="http://www.pnas.org/content/suppl/2016/07/13/1609643113.DCSupplemental/pnas.1609643113.sapp.pdf">COLA</a></td>
+			  <td label="reference"><a class="ex1" target="_blank" href="http://www.pnas.org/content/113/31/E4504.full.pdf"> Deletion of DXZ4 on the human inactive X chromosome alters higher-order genome architecture 
+				  (Darrow et al., PNAS, 2016)</a></td>
+			  <td label="description"><b>COLA (Concatamer Ligation Assay)</b> is a modified in situ Hi-C protocol that uses CviJI restriction enzyme to digests chromatin into much finer fragments  the original Hi-C method, in order to increase the proportion of reads containing three or more nearby fragments. </td>
+		  </tr>
+		  <tr>
+			  <td label="name"><a class="ex1" target="_blank" href="http://science.sciencemag.org/content/sci/suppl/2015/05/06/science.aab1601.DC1/Cusanovich-SM.pdf">Combinatorial single-cell Hi-C</a></td>
+			  <td label="reference"><a class="ex1" target="_blank" href="http://science.sciencemag.org/content/348/6237/910"> Multiplex single-cell profiling of chromatin accessibility by combinatorial cellular indexing
+				  (Cusanovich et al., Science, 2015)</a></td>
+			  <td label="description"><b>Combinatorial single-cell Hi-C</b> complement single-cell Hi-C by adding unique cellular indexing to measure chromatin accessibility in thousands of single cells per assay, circumventing the need for compartmentalization of individual cells.</td>
+		  </tr>
+		  <tr>
+			  <td label="name"><a class="ex1" target="_blank" href="https://elifesciences.org/articles/21856">CUT&amp;RUN</a></td>
+			  <td label="reference"><a class="ex1" target="_blank" href="https://elifesciences.org/articles/21856"> An efficient targeted nuclease strategy for high-resolution mapping of DNA binding sites
+				  (Skene and Henikoff, eLIFE, 2017)</a></td>
+			  <td label="description"><b>CUT&amp;RUN</b> is an efficient targeted nuclease strategy for high-resolution mapping of DNA binding sites. Cleavage Under Targets and Release Using Nuclease (CUT&amp;RUN) is an antibody-targeted chromatin profiling method in which micrococcal nuclease tethered to protein A binds to an antibody of choice and cuts immediately adjacent DNA, releasing DNA bound to the antibody target. The procedure is carried out in situ and produces precise transcription factor or histone modification profiles while avoiding crosslinking and solubilization issues. Extremely low backgrounds make profiling possible with typically one tenth of the sequencing depth required for ChIP, and permit profiling using low cell numbers without loss of quality. CUT&amp;RUN can also be used to map long-range genomic contacts. 
+		  </tr>
+		  <tr>
+			  <td label="name"><a class="ex1" target="_blank" href="http://www.nature.com/nprot/journal/v2/n6/pdf/nprot.2007.148.pdf">DamID</a></td>
+			  <td label="reference"><a class="ex1" target="_blank" href="http://www.nature.com/nbt/journal/v18/n4/pdf/nbt0400_424.pdf"> Identification of in vivo DNA targets of chromatin proteins using tethered Dam methyltransferase
+				  (Bas van Steensel and Steven Henikoff, Nature, 2000)</a></td>
+			  <td label="description"><b>DamID</b> enables mapping genome-wide occupancy of interaction sites in vivo, based on the expression of a fusion protein consisting of a protein of interest and DNA adenine methyltransferase (Dam). This leads to methylation of adenines near sites where the protein of interest interacts with the DNA. These methylated sequences are subsequently amplified by a methylation-specific PCR protocol and identified by hybridization to microarrays.</td>
+		  </tr>
+		  <tr>
+			  <td label="name"><a class="ex1" target="_blank" href="http://www.nature.com/nprot/journal/v11/n11/pdf/nprot.2016.126.pdf">Dnase Hi-C</a></td>
+			  <td label="reference"><a class="ex1" target="_blank" href="http://www.nature.com/nprot/journal/v11/n11/pdf/nprot.2016.126.pdf">Mapping 3D genome architecture through in situ DNase Hi-C (Ramani et al., Nature Protocols, 2016)</a></td>
+			  <td label="description"><b>DNAse Hi-C</b> complements high resolution Hi-C approach with restriction enzymes.</td>
+		  </tr>
           <tr>
             <td label="name"><a class="ex1" target="_blank" href="http://science.sciencemag.org/content/sci/suppl/2009/10/08/326.5950.289.DC1/Lieberman-Aiden.SOM.pdf">Hi-C</a></td>
             <td label="reference"><a class="ex1" target="_blank" href="http://science.sciencemag.org/content/sci/326/5950/289.full.pdf">Comprehensive Mapping of Long-Range Interactions Reveals Folding Principles of the Human Genome (Lieberman-Aiden et al. Science, 2009)</a></td>
             <td label="description"><b>Hi-C</b> uses high-throughput sequencing to find the nucleotide sequence of fragments ( all-vs-all).</td>
           </tr>
-          <tr>
-            <td label="name"><a class="ex1" target="_blank" href="https://docs.google.com/a/eng.ucsd.edu/viewer?a=v&pid=sites&srcid=NGRudWNsZW9tZS5vcmd8NGQtbnVjbGVvbWUtd2lraXxneDoyZWY2OWFkY2Y4ZWZkMQ">ChIA-PET</a></td>
-            <td label="reference"><a class="ex1" target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1002/jcb.22116/epdf">ChIP-based methods for the identification of long-range chromatin interactions
-              (Fullwood and Ruan, Journal of Cellular Biochemistry, 2009)</a></td>
-            <td label="description"><b>Chromatin Interaction Analysis by Paired-End Tag Sequencing (ChIA-PET)</b> is a technique that incorporates chromatin immunoprecipitation (ChIP)-based enrichment, chromatin proximity ligation, Paired-End Tags, and High-throughput sequencing to determine de novo long-range chromatin interactions genome-wide.</td>
-          </tr>
-          <tr>
-            <td label="name"><a class="ex1" target="_blank" href="http://www.nature.com/articles/ncomms7178#methods">Capture Hi-C</a></td>
-            <td label="reference"><a class="ex1" target="_blank" href="http://www.nature.com/ng/journal/v47/n6/pdf/ng.3286.pdf">Mapping long-range promoter contacts in human cells with high-resolution capture Hi-C
-              (Mifsud et al, Nature Genetics, 2015)</a></td>
-            <td label="description"><b>Capture Hi-C (CHi-C)</b> is is an adapted technology that selects and enriches few hundred promoters for genome-wide, long-range contacts of both active and inactive promoters.</td>
-          </tr>
+		  <tr>
+			  <td label="name"><a class="ex1" target="_blank" href="http://www.pnas.org/content/suppl/2015/10/23/1518552112.DCSupplemental/pnas.1518552112.sapp.pdf">Hi-C^2</a></td>
+			  <td label="reference"><a class="ex1" target="_blank" href="http://www.pnas.org/content/112/47/E6456.full.pdf"> Chromatin extrusion explains key features of loop and domain formation in wild-type and engineered genomes (Sanborn et al., PNAS, 2015)</a></td>
+			  <td label="description"><b>Hybrid Capture Hi-C (Hi-C^2)</b> is a technology that combines targeted genomic capture and existing situ Hi-C libraries to observe conformation changes in selected genomic regions.</td>
+		  </tr>
+		  <tr>
+			  <td label="name"><a class="ex1" target="_blank" href="https://www.protocols.io/view/imargi-protocol-w75fhq6">iMARGI</a></td>
+			  <td label="reference"><a class="ex1" target="_blank" href="">https://www.protocols.io/view/imargi-protocol-w75fhq6</a></td>
+			  <td label="description"><b>iMARGI</b> (in situ mapping of RNA-Genome Interactome) is a technique that globally maps native RNA-genome interactions from unperturbed cells. It is an improved version of traditional MARGI published in 2017.</td>
+		  </tr>
           <tr>
             <td label="name"><a class="ex1" target="_blank" href="http://www.cell.com/cms/attachment/2033493464/2049506921/mmc1.pdf">In situ Hi-C</a></td>
             <td label="reference"><a class="ex1" target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0092867414014974">A 3D Map of the Human Genome at Kilobase Resolution Reveals Principles of Chromatin Looping
               (Rao et al., Cell, 2014)</a></td>
             <td label="description"><b>In situ Hi-C</b> method is used to evaluate all DNA-DNA proximity ligation in intact nuclei.</td>
-          </tr>
-          <tr>
-            <td label="name"><a class="ex1" target="_blank" href="http://www.nature.com/nprot/journal/v11/n11/pdf/nprot.2016.126.pdf">Dnase Hi-C</a></td>
-            <td label="reference"><a class="ex1" target="_blank" href="http://www.nature.com/nprot/journal/v11/n11/pdf/nprot.2016.126.pdf">Mapping 3D genome architecture through in situ DNase Hi-C (Ramani et al., Nature Protocols, 2016)</a></td>
-            <td label="description"><b>DNAse Hi-C</b> complements high resolution Hi-C approach with restriction enzymes.</td>
           </tr>
           <tr>
             <td label="name"><a class="ex1" target="_blank" href="http://www.nature.com/protocolexchange/protocols/5105#/procedure">Micro-C</a></td>
@@ -238,23 +272,22 @@
             <td label="reference"><a class="ex1" target="_blank" href="http://search.proquest.com/docview/213563655?pq-origsite=gscholar">Interaction between transcription regulatory regions of prolactin chromatin (Cullen et al., Science, 1993)</a></td>
             <td label="description"><b>Nuclear Ligation Assay (NLA)</b> is an historical method developped in 1993 to determine circularization frequencies of DNA in solution. It inspired 3C method.</td>
           </tr>
-          <tr>
-            <td label="name"><a class="ex1" target="_blank" href="http://www.pnas.org/content/suppl/2016/07/13/1609643113.DCSupplemental/pnas.1609643113.sapp.pdf">COLA</a></td>
-            <td label="reference"><a class="ex1" target="_blank" href="http://www.pnas.org/content/113/31/E4504.full.pdf"> Deletion of DXZ4 on the human inactive X chromosome alters higher-order genome architecture 
-              (Darrow et al., PNAS, 2016)</a></td>
-            <td label="description"><b>COLA (Concatamer Ligation Assay)</b> is a modified in situ Hi-C protocol that uses CviJI restriction enzyme to digests chromatin into much finer fragments  the original Hi-C method, in order to increase the proportion of reads containing three or more nearby fragments. </td>
-          </tr>
+		  <tr>
+			  <td label="name">Repli-Seq</td>
+			  <td label="reference"><a class="ex1" target="_blank" href="http://biorxiv.org/content/early/2017/03/01/104653"> Repli-seq: genome-wide analysis of replication timing by next-generation sequencing (Marchal et al., bioRxiv, 2017)</a></td>
+			  <td label="description"><b>Repli-Seq</b> is a genome-scale approach to map temporally ordered replicating DNA using massively parallel sequencing.</td>
+		  </tr>
+		  <tr>
+			  <td label="name"><a class="ex1" target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0092867413002171">Single-Cell DamID</a></td>
+			  <td label="reference"><a class="ex1" target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0092867413002171"> Single-Cell Dynamics of Genome-Nuclear Lamina Interactions
+				  (Kind et al., Cell, 2013)</a></td>
+			  <td label="description"><b>Single Cell DamID</b> enables visualization of in vivo with adenine-6-methylation  of intact cells by couopling DamID technique and engineered DpnI digestion enzyme. 
+				  </tr>
           <tr>
             <td label="name"><a class="ex1" target="_blank" href="http://www.nature.com/nprot/journal/v10/n12/pdf/nprot.2015.127.pdf">Single-cell Hi-C</a></td>
             <td label="reference"><a class="ex1" target="_blank" href="http://www.nature.com/nprot/journal/v10/n12/abs/nprot.2015.127.html"> Single-cell Hi-C for genome-wide detection of chromatin interactions that occur simultaneously in a single cell
               (Nagano et al., Nature Protocols, 2015)</a></td>
             <td label="description"><b>Single Cell Hi-C</b> is an adaptation of Hi-C to single-cell analysis, by including in-nucleus ligation.</td>
-          </tr>
-          <tr>
-            <td label="name"><a class="ex1" target="_blank" href="http://science.sciencemag.org/content/sci/suppl/2015/05/06/science.aab1601.DC1/Cusanovich-SM.pdf">Combinatorial single-cell Hi-C</a></td>
-            <td label="reference"><a class="ex1" target="_blank" href="http://science.sciencemag.org/content/348/6237/910"> Multiplex single-cell profiling of chromatin accessibility by combinatorial cellular indexing
-              (Cusanovich et al., Science, 2015)</a></td>
-            <td label="description"><b>Combinatorial single-cell Hi-C</b> complement single-cell Hi-C by adding unique cellular indexing to measure chromatin accessibility in thousands of single cells per assay, circumventing the need for compartmentalization of individual cells.</td>
           </tr>
           <tr>
             <td label="name"><a class="ex1" target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0092867415005498">Split-pool Barcoding</a></td>
@@ -263,39 +296,12 @@
             <td label="description"><b>Split-pool barcoding or Drop-seq</b> is a strategy for profiling thousands of individual cells by separating them into nanoliter-sized aqueous droplets and associating a different barcode with each cell's RNAs and sequencing them all together.</td>
           </tr>
           <tr>
-            <td label="name"><a class="ex1" target="_blank" href="http://www.pnas.org/content/suppl/2015/10/23/1518552112.DCSupplemental/pnas.1518552112.sapp.pdf">Hi-C^2</a></td>
-            <td label="reference"><a class="ex1" target="_blank" href="http://www.pnas.org/content/112/47/E6456.full.pdf"> Chromatin extrusion explains key features of loop and domain formation in wild-type and engineered genomes (Sanborn et al., PNAS, 2015)</a></td>
-            <td label="description"><b>Hybrid Capture Hi-C (Hi-C^2)</b> is a technology that combines targeted genomic capture and existing situ Hi-C libraries to observe conformation changes in selected genomic regions.</td>
-          </tr>
-          <tr>
-            <td label="name">Repli-Seq</td>
-            <td label="reference"><a class="ex1" target="_blank" href="http://biorxiv.org/content/early/2017/03/01/104653"> Repli-seq: genome-wide analysis of replication timing by next-generation sequencing (Marchal et al., bioRxiv, 2017)</a></td>
-            <td label="description"><b>Repli Seq</b> is a genome-scale approach to map temporally ordered replicating DNA using massively parallel sequencing.</td>
-          </tr>
-          <tr>
             <td label="name"><a class="ex1" target="_blank" href="http://www.nature.com/nprot/journal/v9/n6/pdf/nprot.2014.072.pdf">TRIP</a></td>
             <td label="reference"><a class="ex1" target="_blank" href="http://www.nature.com/nprot/journal/v9/n6/pdf/nprot.2014.072.pdf"> Using TRIP for genome-wide position effect analysis in cultured cells
               (Akhtar et al., Nature Protocols, 2014)</a></td>
             <td label="description">This is protocol for analyzing <b>thousands of reporters integrated in parallel (TRIP)</b> at a genome-wide level. TRIP is based on tagging each reporter with a unique barcode, which is used for independent reporter expression analysis and integration site mapping? </td>
           </tr>
-          <tr>
-            <td label="name"><a class="ex1" target="_blank" href="http://www.nature.com/nprot/journal/v2/n6/pdf/nprot.2007.148.pdf">DamID</a></td>
-            <td label="reference"><a class="ex1" target="_blank" href="http://www.nature.com/nbt/journal/v18/n4/pdf/nbt0400_424.pdf"> Identification of in vivo DNA targets of chromatin proteins using tethered Dam methyltransferase
-              (Bas van Steensel and Steven Henikoff, Nature, 2000)</a></td>
-            <td label="description"><b>DamID</b> enables mapping genome-wide occupancy of interaction sites in vivo, based on the expression of a fusion protein consisting of a protein of interest and DNA adenine methyltransferase (Dam). This leads to methylation of adenines near sites where the protein of interest interacts with the DNA. These methylated sequences are subsequently amplified by a methylation-specific PCR protocol and identified by hybridization to microarrays.</td>
-          </tr>
-          <tr>
-            <td label="name"><a class="ex1" target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0092867413002171">Single-Cell DamID</a></td>
-            <td label="reference"><a class="ex1" target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0092867413002171"> Single-Cell Dynamics of Genome-Nuclear Lamina Interactions
-              (Kind et al., Cell, 2013)</a></td>
-            <td label="description"><b>Single Cell DamID</b> enables visualization of in vivo with adenine-6-methylation  of intact cells by couopling DamID technique and engineered DpnI digestion enzyme. 
-          </tr>
-          <tr>
-            <td label="name"><a class="ex1" target="_blank" href="https://elifesciences.org/articles/21856">CUT&amp;RUN</a></td>
-            <td label="reference"><a class="ex1" target="_blank" href="https://elifesciences.org/articles/21856"> An efficient targeted nuclease strategy for high-resolution mapping of DNA binding sites
-              (Skene and Henikoff, eLIFE, 2017)</a></td>
-            <td label="description"><b>CUT&amp;RUN</b> is an efficient targeted nuclease strategy for high-resolution mapping of DNA binding sites. Cleavage Under Targets and Release Using Nuclease (CUT&amp;RUN) is an antibody-targeted chromatin profiling method in which micrococcal nuclease tethered to protein A binds to an antibody of choice and cuts immediately adjacent DNA, releasing DNA bound to the antibody target. The procedure is carried out in situ and produces precise transcription factor or histone modification profiles while avoiding crosslinking and solubilization issues. Extremely low backgrounds make profiling possible with typically one tenth of the sequencing depth required for ChIP, and permit profiling using low cell numbers without loss of quality. CUT&amp;RUN can also be used to map long-range genomic contacts. 
-          </tr>
+		  
         </table>
         <!-- InstanceEndEditable -->
             <div id="latestDevelopments"></div>
