@@ -16,56 +16,75 @@
 	  <pubDate>18 Apr 2019</pubDate>
   </item>
   
+  <item>
+	  <title>
+		  ChIA-DropBox: a novel analysis and visualization pipeline for multiplex chromatin interactions</title>
+	  <link><![CDATA[https://doi.org/10.1101/613034]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Simon Zhongyuan Tian, Daniel Capurso, Minji Kim, Byoungkoo Lee, Meizhen Zheng, Yijun Ruan</p>
+		  ]]></description>
+	  <pubDate>18 Apr 2019</pubDate>
+  </item>
   
   <item>
-      <title>
-          Absolute quantification of cohesin, CTCF and their regulators in human cells</title>
-      <link><![CDATA[https://doi.org/10.1101/560425]]></link>
-      <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Johann Holzmann, Antonio Z. Politi, Kota Nagasaka, Merle Hantsche-Grininger, Nike Walther, Birgit Koch, Johannes Fuchs, Gerhard Dürnberger, Wen Tang, Rene Ladurner, Roman R. Stocsits, Georg A. Busslinger, Béla Novák, Karl Mechtler, Iain F. Davidson, Jan Ellenberg, Jan-Michael Peters</p>
-          ]]></description>
-      <pubDate>27 Feb 2019</pubDate>
+	  <title>
+		  RNA polymerases as moving barriers to condensin loop extrusion</title>
+	  <link><![CDATA[https://doi.org/10.1101/604280]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Hugo B. Brandão, Xindan Wang, Payel Paul, Aafke A. van den Berg, David Z. Rudner,Leonid A. Mirny</p>
+		  ]]></description>
+	  <pubDate>10 Apr 2019</pubDate>
   </item>
   
   <item>
       <title>
-          EpiAlignment: alignment with both DNA sequence and epigenomic data</title>
-      <link><![CDATA[https://doi.org/10.1101/562199]]></link>
+          Transcription amplification by nuclear speckle association</title>
+      <link><![CDATA[https://doi.org/10.1101/604298]]></link>
       <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Jia Lu, Xiaoyi Cao, Sheng Zhong</p>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Jiah Kim, Nimish Khanna, Andrew S. Belmont</p>
           ]]></description>
-      <pubDate>27 Feb 2019</pubDate>
+      <pubDate>9 Apr 2019</pubDate>
   </item>
   
   <item>
       <title>
-          Determining cellular CTCF and cohesin abundances to constrain 3D genome models
+          Peax: Interactive Visual Pattern Search in Sequential Data Using Unsupervised Deep Representation Learning</title>
+      <link><![CDATA[https://doi.org/10.1101/597518]]></link>
+      <description>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Fritz Lekschas, Brant Peterson, Daniel Haehn, Eric Ma, Nils Gehlenborg, Hanspeter Pfister</p>
+          ]]></description>
+      <pubDate>4 Apr 2019</pubDate>
+  </item>
+  
+  <item>
+      <title>
+          Common DNA sequence variation influences 3-dimensional conformation of the human genome
       </title>
-      <link><![CDATA[https://doi.org/10.1101/370650]]></link>
+      <link><![CDATA[https://doi.org/10.1101/592741]]></link>
       <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Claudia Cattoglio, Iryna Pustova, Nike Walther, Jaclyn J Ho, Merle Hantsche-Grininger, Carla J Inouye, M. Julius Hossain, Gina M Dailey, Jan Ellenberg, Xavier Darzacq, Robert Tjian, Anders S Hansen</p>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">David U. Gorkin, Yunjiang Qiu, Ming Hu, Kipper Fletez-Brant, Tristin Liu, Anthony D. Schmitt, Amina Noor, Joshua Chiou, Kyle J Gaulton, Jonathan Sebat, Yun Li, Kasper D. Hansen, Bing Ren</p>
           ]]></description>
-      <pubDate>24 Feb 2019</pubDate>
+      <pubDate>30 Mar 2019</pubDate>
   </item>
   
   <item>
       <title>
-          Cooler: scalable storage for Hi-C data and other genomically-labeled arrays</title>
-      <link><![CDATA[https://doi.org/10.1101/557660]]></link>
+          Direct visualization of single nuclear pore complex proteins using genetically-encoded probes for DNA-PAINT</title>
+      <link><![CDATA[https://doi.org/10.1101/579961]]></link>
       <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Nezar Abdennur, Leonid Mirny</p>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Thomas Schlichthaerle, Maximilian T. Strauss, Florian Schueder, Alexander Auer, Bianca Nijmeijer, Moritz Kueblbeck, Vilma Jimenez Sabinina, Jervis V. Thevathasan, Jonas Ries,  Jan Ellenberg, Ralf Jungmann</p>
           ]]></description>
-      <pubDate>22 Feb 2019</pubDate>
+      <pubDate>23 Mar 2019</pubDate>
   </item>
   
   <item>
       <title>
-          Localization microscopy at doubled precision with patterned illumination</title>
-      <link><![CDATA[https://doi.org/10.1101/554337]]></link>
+          Nuclear pores as versatile reference standards for quantitative superresolution microscopy</title>
+      <link><![CDATA[https://doi.org/10.1101/582668]]></link>
       <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Jelmer Cnossen, Taylor Hinsdale, Ramsus Thorsen, Florian Schueder, Ralf Jungmann, Carlas S Smith, Bernd Rieger, Sjoerd Stallinga</p>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Jervis Vermal Thevathasan, Maurice Kahnwald, Konstanty Cieśliński, Philipp Hoess, Sudheer Kumar Peneti, Manuel Reitberger, Daniel Heid, Krishna Chaitanya Kasuba, Sarah Janice Hoerner, Yiming Li, Yu-Le Wu, Markus Mund, Ulf Matti, Pedro Matos Pereira, Ricardo Henriques, Bianca Nijmeijer, Moritz Kueblbeck, Vilma Jimenez Sabinina, Jan Ellenberg, Jonas Ries</p>
           ]]></description>
-      <pubDate>20 Feb 2019</pubDate>
+      <pubDate>20 Mar 2019</pubDate>
   </item>
 
 </channel>
