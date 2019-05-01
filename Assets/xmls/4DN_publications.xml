@@ -7,6 +7,29 @@
   <description>4D Nucleome Publications</description>
 
   <item>
+	  <title>
+		  MAPS: Model-based analysis of long-range chromatin interactions from PLAC-seq and HiChIP experiments</title>
+	  <link><![CDATA[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006982]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/logo.plos.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Ivan Juric, Miao Yu, Armen Abnousi, Ramya Raviram, Rongxin Fang, Yuan Zhao, Yanxiao Zhang, Yunjiang Qiu, Yuchen Yang, Yun Li, Bing Ren, Ming Hu</p>
+			  <p style="font-family:verdana;">Hi-C and chromatin immunoprecipitation (ChIP) have been combined to identify long-range chromatin interactions genome-wide at reduced cost and enhanced resolution, but extracting information from the resulting datasets has been challenging. Here we describe a computational method, MAPS, Model-based Analysis of PLAC-seq and HiChIP, to process the data from such experiments and identify long-range chromatin interactions.</p>
+		  ]]></description>
+	  <pubDate>15 Apr 2019</pubDate>
+  </item>
+  
+  <item>
+	  <title>
+		  Dynamics of genome reorganization during human cardiogenesis reveal an RBM20-dependent splicing factory</title>
+	<link><![CDATA[https://www.nature.com/articles/s41467-019-09483-5]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Alessandro Bertero, Paul A. Fields, Vijay Ramani, Giancarlo Bonora, Galip G. Yardimci, Hans Reinecke, Lil Pabon, William S. Noble, Jay Shendure & Charles E. Murry</p>
+			  <p style="font-family:verdana;">Functional changes in spatial genome organization during human development are poorly understood. Here we report a comprehensive profile of nuclear dynamics during human cardiogenesis from pluripotent stem cells by integrating Hi-C, RNA-seq and ATAC-seq.</p>
+		  ]]></description>
+	  <pubDate>4 Apr 2019</pubDate>
+  </item>
+  
+  
+  <item>
       <title>
           Genome-wide colocalization of RNA–DNA interactions and fusion RNA pairs</title>
       <link><![CDATA[https://www.nature.com/articles/s41586-019-0949-1]]></link>
@@ -28,16 +51,7 @@
       <pubDate>18 Feb 2019</pubDate>
   </item>
   
-  <item>
-      <title>
-          Replication Timing Becomes Intertwined with 3D Genome Organization</title>
-      <link><![CDATA[https://www.cell.com/cell/fulltext/S0092-8674(19)30090-X]]></link>
-      <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/cell-press.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Jian Ma, Zhijun Duan</p>
-              <p style="font-family:verdana;">Through dissecting the link between spatial genome organization and DNA replication timing, Sima et al. (2018) discover early replicating control elements (ERCEs), a new type of cis-acting elements that regulate replication timing, transcription, and multiple layers of three-dimensional features of genome organization. The study has important implications for unraveling control elements of high-order genome structure and function.</p>
-          ]]></description>
-      <pubDate>7 Feb 2019</pubDate>
-  </item>
+
   
 </channel>
 </rss>
