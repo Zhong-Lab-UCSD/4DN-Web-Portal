@@ -8,6 +8,26 @@
 
   <item>
 	  <title>
+		  Spring Model – chromatin modeling tool based on OpenMM</title>
+	  <link><![CDATA[https://doi.org/10.1101/642322]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Michal Kadlof, Julia Rozycka, Dariusz Plewczynski</p>
+		  ]]></description>
+	  <pubDate>20 May 2019</pubDate>
+  </item>
+  
+  <item>
+	  <title>
+		  Super resolution imaging of a distinct chromatin loop in human lymphoblastoid cells</title>
+	  <link><![CDATA[https://doi.org/10.1101/621920]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Jacqueline Jufen Zhu, Zofia Parteka, Byoungkoo Lee, Przemyslaw Szalaj, Ping Wang, Karolina Jodkowska, Jesse Aaron, Teng-Leong Chew, Dariusz Plewczynski, Yijun Ruan</p>
+		  ]]></description>
+	  <pubDate>29 Apr 2019</pubDate>
+  </item>
+  
+  <item>
+	  <title>
 		  iMARGI: Mapping RNA-chromatin interactome by sequencing</title>
 	  <link><![CDATA[https://dx.doi.org/10.17504/protocols.io.w75fhq6]]></link>
 	  <description>
@@ -56,36 +76,7 @@
       <pubDate>4 Apr 2019</pubDate>
   </item>
   
-  <item>
-      <title>
-          Common DNA sequence variation influences 3-dimensional conformation of the human genome
-      </title>
-      <link><![CDATA[https://doi.org/10.1101/592741]]></link>
-      <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">David U. Gorkin, Yunjiang Qiu, Ming Hu, Kipper Fletez-Brant, Tristin Liu, Anthony D. Schmitt, Amina Noor, Joshua Chiou, Kyle J Gaulton, Jonathan Sebat, Yun Li, Kasper D. Hansen, Bing Ren</p>
-          ]]></description>
-      <pubDate>30 Mar 2019</pubDate>
-  </item>
-  
-  <item>
-      <title>
-          Direct visualization of single nuclear pore complex proteins using genetically-encoded probes for DNA-PAINT</title>
-      <link><![CDATA[https://doi.org/10.1101/579961]]></link>
-      <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Thomas Schlichthaerle, Maximilian T. Strauss, Florian Schueder, Alexander Auer, Bianca Nijmeijer, Moritz Kueblbeck, Vilma Jimenez Sabinina, Jervis V. Thevathasan, Jonas Ries,  Jan Ellenberg, Ralf Jungmann</p>
-          ]]></description>
-      <pubDate>23 Mar 2019</pubDate>
-  </item>
-  
-  <item>
-      <title>
-          Nuclear pores as versatile reference standards for quantitative superresolution microscopy</title>
-      <link><![CDATA[https://doi.org/10.1101/582668]]></link>
-      <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Jervis Vermal Thevathasan, Maurice Kahnwald, Konstanty Cieśliński, Philipp Hoess, Sudheer Kumar Peneti, Manuel Reitberger, Daniel Heid, Krishna Chaitanya Kasuba, Sarah Janice Hoerner, Yiming Li, Yu-Le Wu, Markus Mund, Ulf Matti, Pedro Matos Pereira, Ricardo Henriques, Bianca Nijmeijer, Moritz Kueblbeck, Vilma Jimenez Sabinina, Jan Ellenberg, Jonas Ries</p>
-          ]]></description>
-      <pubDate>20 Mar 2019</pubDate>
-  </item>
+
 
 </channel>
 </rss>
