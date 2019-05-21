@@ -18,6 +18,16 @@
   
   <item>
 	  <title>
+		  Ultrastructural details of mammalian chromosome architecture</title>
+	  <link><![CDATA[https://doi.org/10.1101/639922]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Nils Krietenstein, Sameer Abraham, Sergey V. Venev, Nezar Abdennur, Johan Gibcus, Tsung-Han S. Hsieh, Krishna Mohan Parsi, Liyan Yang, René Maehr, Leonid A. Mirny, Job Dekker, Oliver J. Rando</p>
+		  ]]></description>
+	  <pubDate>17 May 2019</pubDate>
+  </item>
+  
+  <item>
+	  <title>
 		  Super resolution imaging of a distinct chromatin loop in human lymphoblastoid cells</title>
 	  <link><![CDATA[https://doi.org/10.1101/621920]]></link>
 	  <description>
@@ -64,16 +74,6 @@
           <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Jiah Kim, Nimish Khanna, Andrew S. Belmont</p>
           ]]></description>
       <pubDate>9 Apr 2019</pubDate>
-  </item>
-  
-  <item>
-      <title>
-          Peax: Interactive Visual Pattern Search in Sequential Data Using Unsupervised Deep Representation Learning</title>
-      <link><![CDATA[https://doi.org/10.1101/597518]]></link>
-      <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Fritz Lekschas, Brant Peterson, Daniel Haehn, Eric Ma, Nils Gehlenborg, Hanspeter Pfister</p>
-          ]]></description>
-      <pubDate>4 Apr 2019</pubDate>
   </item>
   
 
