@@ -590,10 +590,6 @@ table#GeneralTables, table.cellLines {
 	background-color: #E9EAF5;
 }
 
-.ascbSpeaker {
-	display: inline-block
-}
-
 #searchInput {
 	max-width: 300px;
 	width: 100%;
