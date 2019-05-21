@@ -589,6 +589,11 @@ table#GeneralTables, table.cellLines {
 .cellLines tr:nth-child(even) {
 	background-color: #E9EAF5;
 }
+
+.ascbSpeaker {
+	display: inline-block
+}
+
 #searchInput {
 	max-width: 300px;
 	width: 100%;
