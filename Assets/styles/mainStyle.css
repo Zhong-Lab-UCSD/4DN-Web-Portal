@@ -590,6 +590,15 @@ table#GeneralTables, table.cellLines {
 	background-color: #E9EAF5;
 }
 
+.invitedSpeakers div {
+	width: 200px;
+	font-size: 12px;
+}
+
+.invitedSpeakers b, .invitedSpeakers i {
+	font-size: 12px;
+}
+
 #searchInput {
 	max-width: 300px;
 	width: 100%;
