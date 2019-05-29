@@ -595,6 +595,10 @@ table#GeneralTables, table.cellLines {
 	font-size: 12px;
 }
 
+#invitedSpeakersMain {
+	margin-top: 20px;
+}
+
 .invitedSpeakers b, .invitedSpeakers i {
 	font-size: 12px;
 }
