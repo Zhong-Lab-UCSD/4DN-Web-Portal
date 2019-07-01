@@ -5,6 +5,41 @@
   <title><![CDATA[<p style="font-size:18px; font-family:Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif; margin: 0 -10px;"><strong>Latest 4DN Publications</strong> <a target="_blank" href="https://beta.4dnucleome.org/Assets/xmls/4DN_publications.xml"><img src="https://beta.4dnucleome.org/Assets/images/icons/Feed-icon.svg" style="height: 20px; float: right;"></a></p>]]></title>
   <link>https://www.4dnucleome.org/4dn-publications.html</link>
   <description>4D Nucleome Publications</description>
+  
+  
+  <item>
+	  <title>
+		  Comparing 3D Genome Organization in Multiple Species Using Phylo-HMRF</title>
+	  <link><![CDATA[https://www.ncbi.nlm.nih.gov/pubmed/31229558]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/cell-press.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Yang Y, Zhang Y, Ren B, Dixon JR, Ma J</p>
+			  <p style="font-family:verdana;">Recent whole-genome mapping approaches for the chromatin interactome have offered new insights into 3D genome organization. However, our knowledge of the evolutionary patterns of 3D genome in mammals remains limited. In particular, there are no existing phylogenetic-model-based methods to analyze chromatin interactions as continuous features. Here, we develop phylogenetic hidden Markov random field (Phylo-HMRF) to identify evolutionary patterns of 3D genome based on multi-species Hi-C data by jointly utilizing spatial constraints among genomic loci and continuous-trait evolutionary models. [...]</p>
+		  ]]></description>
+	  <pubDate>26 Jun 2019</pubDate>
+  </item>
+  
+  <item>
+	  <title>
+		  Chromosome dynamics near the sol-gel phase transition dictate the timing of remote genomic interactions</title>
+	<link><![CDATA[https://www.nature.com/articles/s41467-019-10628-9]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Nimish Khanna, Yaojun Zhang, Joseph S. Lucas, Olga K. Dudko & Cornelis Murre</p>
+			  <p style="font-family:verdana;">Diverse antibody repertoires are generated through remote genomic interactions involving immunoglobulin variable (VH), diversity (DH) and joining (JH) gene segments. How such interactions are orchestrated remains unknown. Here we develop a strategy to track VH-DHJH motion in B-lymphocytes. We find that VH and DHJH segments are trapped in configurations that allow only local motion, such that spatially proximal segments remain in proximity, while spatially remote segments remain remote. [...]</p>
+		  ]]></description>
+	  <pubDate>24 Jun 2019</pubDate>
+  </item>
+  
+  
+  <item>
+      <title>
+          Two major mechanisms of chromosome organization</title>
+	<link><![CDATA[https://www.sciencedirect.com/science/article/pii/S0955067418301601?via%3Dihub]]></link>
+      <description>
+          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/elsevier.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Leonid A Mirny, Maxim Imakaev, Nezar Abdennur</p>
+              <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">[...] Two major mechanisms that have been proposed to govern chromosome organization are (i) the active (ATP-dependent) process of loop extrusion by Structural Maintenance of Chromosomes (SMC) complexes, and (ii) the spatial compartmentalization of the genome, which is likely mediated by affinity interactions between heterochromatic regions (Falk et al., 2019) rather than by ATP-dependent processes. Here, we review existing evidence that these two processes operate together to fold chromosomes in interphase and that loop extrusion alone drives mitotic compaction. We discuss possible implications of these mechanisms for chromosome function.</p>
+          ]]></description>
+      <pubDate>19 Jun 2019</pubDate>
+  </item>
 
   <item>
 	  <title>
@@ -17,41 +52,6 @@
 	  <pubDate>14 Jun 2019</pubDate>
   </item>
   
-  
-  <item>
-	  <title>
-		  MAPS: Model-based analysis of long-range chromatin interactions from PLAC-seq and HiChIP experiments</title>
-	  <link><![CDATA[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006982]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/logo.PLOS.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Ivan Juric, Miao Yu, Armen Abnousi, Ramya Raviram, Rongxin Fang, Yuan Zhao, Yanxiao Zhang, Yunjiang Qiu, Yuchen Yang, Yun Li, Bing Ren, Ming Hu</p>
-			  <p style="font-family:verdana;">Hi-C and chromatin immunoprecipitation (ChIP) have been combined to identify long-range chromatin interactions genome-wide at reduced cost and enhanced resolution, but extracting information from the resulting datasets has been challenging. Here we describe a computational method, MAPS, Model-based Analysis of PLAC-seq and HiChIP, to process the data from such experiments and identify long-range chromatin interactions.</p>
-		  ]]></description>
-	  <pubDate>15 Apr 2019</pubDate>
-  </item>
-  
-  <item>
-	  <title>
-		  Dynamics of genome reorganization during human cardiogenesis reveal an RBM20-dependent splicing factory</title>
-	<link><![CDATA[https://www.nature.com/articles/s41467-019-09483-5]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Alessandro Bertero, Paul A. Fields, Vijay Ramani, Giancarlo Bonora, Galip G. Yardimci, Hans Reinecke, Lil Pabon, William S. Noble, Jay Shendure & Charles E. Murry</p>
-			  <p style="font-family:verdana;">Functional changes in spatial genome organization during human development are poorly understood. Here we report a comprehensive profile of nuclear dynamics during human cardiogenesis from pluripotent stem cells by integrating Hi-C, RNA-seq and ATAC-seq.</p>
-		  ]]></description>
-	  <pubDate>4 Apr 2019</pubDate>
-  </item>
-  
-  
-  <item>
-      <title>
-          Genome-wide colocalization of RNA–DNA interactions and fusion RNA pairs</title>
-      <link><![CDATA[https://www.nature.com/articles/s41586-019-0949-1]]></link>
-      <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/pnas.jpeg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Zhangming Yan, Norman Huang, Weixin Wu, Weizhong Chen, Yiqun Jiang, Jingyao Chen, Xuerui Huang, Xingzhao Wen, Jie Xu, Qiushi Jin, Kang Zhang, Zhen Chen, Shu Chien, and Sheng Zhong</p>
-              <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">It remains formidable to predict what unreported RNA pairs can form new fusion transcripts. By systematic mapping of chromatin-associated RNAs and their respective genomic interaction loci, we obtained genome-wide RNA–DNA interaction maps from two noncancerous cell types. The gene pairs involved in RNA–DNA interactions in these normal cells exhibited strong overlap with those with cancer-derived fusion transcripts.</p>
-          ]]></description>
-      <pubDate>19 Feb 2019</pubDate>
-  </item>
-
 </channel>
 </rss>
 

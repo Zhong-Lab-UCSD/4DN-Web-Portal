@@ -18,6 +18,26 @@
   
   <item>
 	  <title>
+		  HiNT: a computational method for detecting copy number variations and translocations from Hi-C data</title>
+	  <link><![CDATA[https://doi.org/10.1101/657080]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Su Wang, Soohyun Lee, Chong Chu, Dhawal Jain, Geoff Nelson, Jennifer M. Walsh, Burak H. Alver, Peter J. Park</p>
+		  ]]></description>
+	  <pubDate>3 Jun 2019</pubDate>
+  </item>
+  
+  <item>
+	  <title>
+		  Jointly embedding multiple single-cell omics measurements</title>
+	  <link><![CDATA[https://doi.org/10.1101/644310]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Jie Liu, Yuanhao Huang, Ritambhara Singh, Jean-Philippe Vert, William Stafford Noble</p>
+		  ]]></description>
+	  <pubDate>21 May 2019</pubDate>
+  </item>
+  
+  <item>
+	  <title>
 		  Spring Model – chromatin modeling tool based on OpenMM</title>
 	  <link><![CDATA[https://doi.org/10.1101/642322]]></link>
 	  <description>
@@ -34,46 +54,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Nils Krietenstein, Sameer Abraham, Sergey V. Venev, Nezar Abdennur, Johan Gibcus, Tsung-Han S. Hsieh, Krishna Mohan Parsi, Liyan Yang, René Maehr, Leonid A. Mirny, Job Dekker, Oliver J. Rando</p>
 		  ]]></description>
 	  <pubDate>17 May 2019</pubDate>
-  </item>
-  
-  <item>
-	  <title>
-		  Super resolution imaging of a distinct chromatin loop in human lymphoblastoid cells</title>
-	  <link><![CDATA[https://doi.org/10.1101/621920]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Jacqueline Jufen Zhu, Zofia Parteka, Byoungkoo Lee, Przemyslaw Szalaj, Ping Wang, Karolina Jodkowska, Jesse Aaron, Teng-Leong Chew, Dariusz Plewczynski, Yijun Ruan</p>
-		  ]]></description>
-	  <pubDate>29 Apr 2019</pubDate>
-  </item>
-  
-  <item>
-	  <title>
-		  iMARGI: Mapping RNA-chromatin interactome by sequencing</title>
-	  <link><![CDATA[https://dx.doi.org/10.17504/protocols.io.w75fhq6]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Weixin Wu, Zhangming Yan, Zhen Chen, Shu Chien, Sheng Zhong</p>
-		  ]]></description>
-	  <pubDate>18 Apr 2019</pubDate>
-  </item>
-  
-  <item>
-	  <title>
-		  ChIA-DropBox: a novel analysis and visualization pipeline for multiplex chromatin interactions</title>
-	  <link><![CDATA[https://doi.org/10.1101/613034]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Simon Zhongyuan Tian, Daniel Capurso, Minji Kim, Byoungkoo Lee, Meizhen Zheng, Yijun Ruan</p>
-		  ]]></description>
-	  <pubDate>18 Apr 2019</pubDate>
-  </item>
-  
-  <item>
-	  <title>
-		  RNA polymerases as moving barriers to condensin loop extrusion</title>
-	  <link><![CDATA[https://doi.org/10.1101/604280]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Hugo B. Brandão, Xindan Wang, Payel Paul, Aafke A. van den Berg, David Z. Rudner,Leonid A. Mirny</p>
-		  ]]></description>
-	  <pubDate>10 Apr 2019</pubDate>
   </item>
   
 
