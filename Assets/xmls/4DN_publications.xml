@@ -52,6 +52,17 @@
 	  <pubDate>14 Jun 2019</pubDate>
   </item>
   
+  <item>
+	  <title>
+		  WashU Epigenome Browser update 2019</title>
+	  <link><![CDATA[https://academic.oup.com/nar/article/47/W1/W158/5511467]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/oxford.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Daofeng Li, Silas Hsu, Deepak Purushotham, Renee L Sears, Ting Wang</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">The WashU Epigenome Browser (https://epigenomegateway.wustl.edu/) provides visualization, integration and analysis tools for epigenomic datasets. Since 2010, it has provided the scientific community with data from large consortia including the Roadmap Epigenomics and the ENCODE projects. Recently, we refactored the codebase, redesigned the user interface, and developed various novel features. [...]</p>
+		  ]]></description>
+	  <pubDate>5 Jun 2019</pubDate>
+  </item>
+  
 </channel>
 </rss>
 
