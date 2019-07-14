@@ -6,67 +6,92 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://www.4dnucleome.org/</loc>
-  <lastmod>2019-01-19T00:35:39+00:00</lastmod>
+  <lastmod>2019-06-28T23:20:22+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://www.4dnucleome.org/index.html</loc>
-  <lastmod>2019-01-19T00:35:39+00:00</lastmod>
+  <lastmod>2019-06-28T23:20:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.4dnucleome.org/cell-lines.html</loc>
-  <lastmod>2018-12-16T06:49:13+00:00</lastmod>
+  <lastmod>2019-06-28T23:20:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.4dnucleome.org/protocols.html</loc>
-  <lastmod>2018-12-16T06:49:14+00:00</lastmod>
+  <lastmod>2019-06-28T23:20:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.4dnucleome.org/software.html</loc>
-  <lastmod>2019-02-15T10:23:09+00:00</lastmod>
+  <lastmod>2019-07-05T15:56:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.4dnucleome.org/pre-prints.html</loc>
-  <lastmod>2019-01-24T19:38:09+00:00</lastmod>
+  <lastmod>2019-07-01T17:54:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.4dnucleome.org/policies.html</loc>
-  <lastmod>2018-12-16T06:49:14+00:00</lastmod>
+  <lastmod>2019-06-28T23:20:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.4dnucleome.org/outreach.html</loc>
-  <lastmod>2019-02-15T10:23:08+00:00</lastmod>
+  <lastmod>2019-06-28T23:20:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.4dnucleome.org/4dn-ascb-meeting-2019.html</loc>
+  <lastmod>2019-06-28T23:20:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.4dnucleome.org/4dn-ascb-meeting-2019-speakers.html</loc>
+  <lastmod>2019-07-08T20:32:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.4dnucleome.org/4dn-ascb-meeting-2019-hotel-travel.html</loc>
+  <lastmod>2019-06-28T23:20:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.4dnucleome.org/4dn-ascb-meeting-2019-abstract-guidelines.html</loc>
+  <lastmod>2019-06-28T23:20:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.4dnucleome.org/4dn-ascb-meeting-2019-committee.html</loc>
+  <lastmod>2019-07-09T16:02:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.4dnucleome.org/centers-and-teams.html</loc>
-  <lastmod>2018-12-16T06:49:13+00:00</lastmod>
+  <lastmod>2019-06-28T23:20:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.4dnucleome.org/TCPA-members.html</loc>
-  <lastmod>2019-02-15T10:23:10+00:00</lastmod>
+  <lastmod>2019-06-28T23:20:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.4dnucleome.org/associate-members.html</loc>
-  <lastmod>2018-12-16T06:49:13+00:00</lastmod>
+  <lastmod>2019-06-28T23:20:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.4dnucleome.org/external-program-consultants.html</loc>
-  <lastmod>2018-12-16T06:49:14+00:00</lastmod>
+  <lastmod>2019-06-28T23:20:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.4dnucleome.org/4dn-ascb-meeting-2018.html</loc>
-  <lastmod>2018-12-16T06:49:14+00:00</lastmod>
+  <lastmod>2019-06-28T23:20:22+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
