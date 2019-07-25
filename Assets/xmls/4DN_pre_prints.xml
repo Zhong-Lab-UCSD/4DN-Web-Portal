@@ -8,6 +8,16 @@
 
   <item>
 	  <title>
+		  Dynamic changes in RNA-chromatin interactome promote endothelial dysfunction</title>
+	  <link><![CDATA[https://doi.org/10.1101/712950]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Riccardo Calandrelli, Lixia Xu, Yingjun Luo, Weixin Wu, Xiaochen Fan, Tri Nguyen, Chienju Chen, Kiran Sriram, Rama Natarajan, Zhen Chen, Sheng Zhong</p>
+		  ]]></description>
+	  <pubDate>24 Jul 2019</pubDate>
+  </item>
+  
+  <item>
+	  <title>
 		  Versatile multi-transgene expression using improved BAC TG-EMBED toolkit, novel BAC episomes, and BAC-MAGIC</title>
 	  <link><![CDATA[https://doi.org/10.1101/708024]]></link>
 	  <description>
@@ -34,26 +44,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Su Wang, Soohyun Lee, Chong Chu, Dhawal Jain, Geoff Nelson, Jennifer M. Walsh, Burak H. Alver, Peter J. Park</p>
 		  ]]></description>
 	  <pubDate>3 Jun 2019</pubDate>
-  </item>
-  
-  <item>
-	  <title>
-		  Jointly embedding multiple single-cell omics measurements</title>
-	  <link><![CDATA[https://doi.org/10.1101/644310]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Jie Liu, Yuanhao Huang, Ritambhara Singh, Jean-Philippe Vert, William Stafford Noble</p>
-		  ]]></description>
-	  <pubDate>21 May 2019</pubDate>
-  </item>
-  
-  <item>
-	  <title>
-		  Spring Model – chromatin modeling tool based on OpenMM</title>
-	  <link><![CDATA[https://doi.org/10.1101/642322]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Michal Kadlof, Julia Rozycka, Dariusz Plewczynski</p>
-		  ]]></description>
-	  <pubDate>20 May 2019</pubDate>
   </item>
   
 
