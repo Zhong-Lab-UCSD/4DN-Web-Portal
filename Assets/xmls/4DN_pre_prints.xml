@@ -23,7 +23,27 @@
 	  <description>
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Binhui Zhao, Pankaj Chaturvedi, David L. Zimmerman, Andrew S. Belmont</p>
 		  ]]></description>
-	  <pubDate>19 Jul 2019</pubDate>
+	  <pubDate>23 Jul 2019</pubDate>
+  </item>
+  
+  <item>
+	  <title>
+		  Trans- and cis-acting effects of the lncRNA Firre on epigenetic and structural features of the inactive X chromosome</title>
+	  <link><![CDATA[https://doi.org/10.1101/687236]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">He Fang, Giancarlo Bonora, Jordan P. Lewandowski, Jitendra Thakur, Galina N. Filippova, Steven Henikoff, Jay Shendure, Zhijun Duan, John L. Rinn, Xinxian Deng, William S. Noble, Christine M. Disteche</p>
+		  ]]></description>
+	  <pubDate>30 Jun 2019</pubDate>
+  </item>
+  
+  <item>
+	  <title>
+		  Chemogenetic Control of Nanobodies</title>
+	  <link><![CDATA[https://doi.org/10.1101/683557]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Helen Farrants, Miroslaw Tarnawski, Thorsten G. Müller, Shotaro Otsuka, Julien Hiblot, Birgit Koch, Moritz Kueblbeck, Hans-Georg Kräusslich, Jan Ellenberg, Kai Johnsson</p>
+		  ]]></description>
+	  <pubDate>27 Jun 2019</pubDate>
   </item>
   
   <item>
@@ -34,16 +54,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Kristin Abramo, Anne-Laure Valton, Sergey V Venev, Hakan Ozadam, Amy N Fox, Job Dekker</p>
 		  ]]></description>
 	  <pubDate>21 Jun 2019</pubDate>
-  </item>
-  
-  <item>
-	  <title>
-		  HiNT: a computational method for detecting copy number variations and translocations from Hi-C data</title>
-	  <link><![CDATA[https://doi.org/10.1101/657080]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Su Wang, Soohyun Lee, Chong Chu, Dhawal Jain, Geoff Nelson, Jennifer M. Walsh, Burak H. Alver, Peter J. Park</p>
-		  ]]></description>
-	  <pubDate>3 Jun 2019</pubDate>
   </item>
   
 
