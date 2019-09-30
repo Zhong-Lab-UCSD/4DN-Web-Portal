@@ -8,6 +8,16 @@
 
   <item>
 	  <title>
+		  High Resolution Repli-Seq defines the temporal choreography of initiation, elongation and termination of replication in mammalian cells</title>
+	  <link><![CDATA[https://doi.org/10.1101/755629]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Peiyao A. Zhao, Takayo Sasaki, David M. Gilbert</p>
+		  ]]></description>
+	  <pubDate>5 Sep 2019</pubDate>
+  </item>
+  
+  <item>
+	  <title>
 		  A supervised learning framework for chromatin loop detection in genome-wide contact maps</title>
 	  <link><![CDATA[https://doi.org/10.1101/7396980]]></link>
 	  <description>
@@ -54,36 +64,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Houda Belaghzal, Tyler Borrman, Andrew D. Stephens, Denis L. Lafontaine, Sergey V. Venev, Zhiping Weng, John F. Marko, Job Dekker</p>
 		  ]]></description>
 	  <pubDate>16 Jul 2019</pubDate>
-  </item>
-  
-  <item>
-	  <title>
-		  Trans- and cis-acting effects of the lncRNA Firre on epigenetic and structural features of the inactive X chromosome</title>
-	  <link><![CDATA[https://doi.org/10.1101/687236]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">He Fang, Giancarlo Bonora, Jordan P. Lewandowski, Jitendra Thakur, Galina N. Filippova, Steven Henikoff, Jay Shendure, Zhijun Duan, John L. Rinn, Xinxian Deng, William S. Noble, Christine M. Disteche</p>
-		  ]]></description>
-	  <pubDate>30 Jun 2019</pubDate>
-  </item>
-  
-  <item>
-	  <title>
-		  Chemogenetic Control of Nanobodies</title>
-	  <link><![CDATA[https://doi.org/10.1101/683557]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Helen Farrants, Miroslaw Tarnawski, Thorsten G. Müller, Shotaro Otsuka, Julien Hiblot, Birgit Koch, Moritz Kueblbeck, Hans-Georg Kräusslich, Jan Ellenberg, Kai Johnsson</p>
-		  ]]></description>
-	  <pubDate>27 Jun 2019</pubDate>
-  </item>
-  
-  <item>
-	  <title>
-		  A chromosome folding intermediate at the condensin-to-cohesin transition during telophase</title>
-	  <link><![CDATA[https://doi.org/10.1101/678474]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Kristin Abramo, Anne-Laure Valton, Sergey V Venev, Hakan Ozadam, Amy N Fox, Job Dekker</p>
-		  ]]></description>
-	  <pubDate>21 Jun 2019</pubDate>
   </item>
   
 
