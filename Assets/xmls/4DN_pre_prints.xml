@@ -6,6 +6,36 @@
   <link>http://www.4dnucleome.org</link>
   <description>4D Nucleome pre-prints</description>
 
+ <item>
+	  <title>
+		  TSA-Seq 2.0 reveals both conserved and variable chromosomal distances to nuclear speckles</title>
+	  <link><![CDATA[https://doi.org/10.1101/824433]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Liguo Zhang, Yang Zhang, Yu Chen, Omid Gholamalamdari, Jian Ma, Andrew S. Belmont</p>
+		  ]]></description>
+	  <pubDate>30 Oct 2019</pubDate>
+  </item>
+
+  <item>
+	  <title>
+		  Chromosome organization by one-sided and two-sided loop extrusion</title>
+	  <link><![CDATA[https://doi.org/10.1101/815340]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Edward J. Banigan, Aafke A. van den Berg, Hugo B. Brandão, John F. Marko, Leonid A. Mirny</p>
+		  ]]></description>
+	  <pubDate>22 Oct 2019</pubDate>
+  </item>
+
+  <item>
+	  <title>
+		  Architectural RNA is required for heterochromatin organization</title>
+	  <link><![CDATA[https://doi.org/10.1101/784835]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Jitendra Thakur, He Fang, Trizia Llagas, Christine M. Disteche, Steven Henikoff</p>
+		  ]]></description>
+	  <pubDate>27 Sep 2019</pubDate>
+  </item>
+
   <item>
 	  <title>
 		  High Resolution Repli-Seq defines the temporal choreography of initiation, elongation and termination of replication in mammalian cells</title>
@@ -16,57 +46,6 @@
 	  <pubDate>5 Sep 2019</pubDate>
   </item>
   
-  <item>
-	  <title>
-		  A supervised learning framework for chromatin loop detection in genome-wide contact maps</title>
-	  <link><![CDATA[https://doi.org/10.1101/7396980]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Tarik J Salameh, Xiaotao Wang, Fan Song, Bo Zhang, Sage M. Wright, Chachrit Khunsriraksakul, Feng Yue</p>
-		  ]]></description>
-	  <pubDate>20 Aug 2019</pubDate>
-  </item>
-  
-  <item>
-	  <title>
-		  Measuring significant changes in chromatin conformation with ACCOST</title>
-	  <link><![CDATA[https://doi.org/10.1101/727768]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Kate B. Cook, Karine Le Roch, Jean Philippe Vert, William Stafford Noble</p>
-		  ]]></description>
-	  <pubDate>6 Aug 2019</pubDate>
-  </item>
-  
-  <item>
-	  <title>
-		  Dynamic changes in RNA-chromatin interactome promote endothelial dysfunction</title>
-	  <link><![CDATA[https://doi.org/10.1101/712950]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Riccardo Calandrelli, Lixia Xu, Yingjun Luo, Weixin Wu, Xiaochen Fan, Tri Nguyen, Chienju Chen, Kiran Sriram, Rama Natarajan, Zhen Chen, Sheng Zhong</p>
-		  ]]></description>
-	  <pubDate>24 Jul 2019</pubDate>
-  </item>
-  
-  <item>
-	  <title>
-		  Versatile multi-transgene expression using improved BAC TG-EMBED toolkit, novel BAC episomes, and BAC-MAGIC</title>
-	  <link><![CDATA[https://doi.org/10.1101/708024]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Binhui Zhao, Pankaj Chaturvedi, David L. Zimmerman, Andrew S. Belmont</p>
-		  ]]></description>
-	  <pubDate>23 Jul 2019</pubDate>
-  </item>
-  
-  <item>
-	  <title>
-		  Compartment-dependent chromatin interaction dynamics revealed by liquid chromatin Hi-C</title>
-	  <link><![CDATA[https://doi.org/10.1101/704957]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Houda Belaghzal, Tyler Borrman, Andrew D. Stephens, Denis L. Lafontaine, Sergey V. Venev, Zhiping Weng, John F. Marko, Job Dekker</p>
-		  ]]></description>
-	  <pubDate>16 Jul 2019</pubDate>
-  </item>
-  
-
 
 </channel>
 </rss>
