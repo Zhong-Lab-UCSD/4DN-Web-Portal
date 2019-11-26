@@ -6,6 +6,16 @@
   <link>http://www.4dnucleome.org</link>
   <description>4D Nucleome pre-prints</description>
 
+  <item>
+	  <title>
+		  Hyper-SAGNN: a self-attention based graph neural network for hypergraphs</title>
+	  <link><![CDATA[https://arxiv.org/abs/1911.02613]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Ruochi Zhang, Yuesong Zou, Jian Ma</p>
+		  ]]></description>
+	  <pubDate>6 Nov 2019</pubDate>
+  </item>
+
  <item>
 	  <title>
 		  TSA-Seq 2.0 reveals both conserved and variable chromosomal distances to nuclear speckles</title>
@@ -34,16 +44,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Edward J. Banigan, Aafke A. van den Berg, Hugo B. Brandão, John F. Marko, Leonid A. Mirny</p>
 		  ]]></description>
 	  <pubDate>22 Oct 2019</pubDate>
-  </item>
-
-  <item>
-	  <title>
-		  Architectural RNA is required for heterochromatin organization</title>
-	  <link><![CDATA[https://doi.org/10.1101/784835]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Jitendra Thakur, He Fang, Trizia Llagas, Christine M. Disteche, Steven Henikoff</p>
-		  ]]></description>
-	  <pubDate>27 Sep 2019</pubDate>
   </item>
   
 
