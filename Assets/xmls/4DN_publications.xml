@@ -9,6 +9,17 @@
   
   <item>
 	  <title>
+		  Common DNA sequence variation influences 3-dimensional conformation of the human genome</title>
+	  <link><![CDATA[https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1855-4]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/genome_biology.jpeg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">David U. Gorkin, Yunjiang Qiu, Ming Hu, Kipper Fletez-Brant, Tristin Liu, Anthony D. Schmitt, Amina Noor, Joshua Chiou, Kyle J. Gaulton, Jonathan Sebat, Yun Li, Kasper D. Hansen, Bing Ren</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">[...] Despite the importance of 3D chromatin conformation to cellular function and human health, little is known about how 3D chromatin conformation varies in the human population, or whether DNA sequence variation between individuals influences 3D chromatin conformation. To address these questions, we perform Hi-C on lymphoblastoid cell lines from 20 individuals. We identify thousands of regions across the genome where 3D chromatin conformation varies between individuals and find that this variation is often accompanied by variation in gene expression, histone modifications, and transcription factor binding. [...]</p>]]></description>
+	  <pubDate>28 Nov 2019</pubDate>
+  </item>
+
+  
+  <item>
+	  <title>
 		  Chromatin compartment dynamics in a haploinsufficient model of cardiac laminopathy</title>
 	  <link><![CDATA[http://jcb.rupress.org/content/218/9/2919]]></link>
 	  <description>
@@ -61,17 +72,6 @@
 			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">In interphase eukaryotic cells, almost all heterochromatin is located adjacent to the nucleolus or to the nuclear lamina, thus defining Nucleolus-Associated Domains (NADs) and Lamina-Associated Domains (LADs), respectively. Here, we determined the first genome-scale map of murine NADs in mouse embryonic fibroblasts (MEFs) via deep sequencing of chromatin associated with purified nucleoli. [...]</p>
 		  ]]></description>
 	  <pubDate>14 Jun 2019</pubDate>
-  </item>
-  
-  <item>
-	  <title>
-		  WashU Epigenome Browser update 2019</title>
-	  <link><![CDATA[https://academic.oup.com/nar/article/47/W1/W158/5511467]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/oxford.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Daofeng Li, Silas Hsu, Deepak Purushotham, Renee L Sears, Ting Wang</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">The WashU Epigenome Browser (https://epigenomegateway.wustl.edu/) provides visualization, integration and analysis tools for epigenomic datasets. Since 2010, it has provided the scientific community with data from large consortia including the Roadmap Epigenomics and the ENCODE projects. Recently, we refactored the codebase, redesigned the user interface, and developed various novel features. [...]</p>
-		  ]]></description>
-	  <pubDate>5 Jun 2019</pubDate>
   </item>
   
 </channel>
