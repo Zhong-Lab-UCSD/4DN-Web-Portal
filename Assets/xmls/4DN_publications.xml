@@ -16,64 +16,19 @@
 			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">[...] Despite the importance of 3D chromatin conformation to cellular function and human health, little is known about how 3D chromatin conformation varies in the human population, or whether DNA sequence variation between individuals influences 3D chromatin conformation. To address these questions, we perform Hi-C on lymphoblastoid cell lines from 20 individuals. We identify thousands of regions across the genome where 3D chromatin conformation varies between individuals and find that this variation is often accompanied by variation in gene expression, histone modifications, and transcription factor binding. [...]</p>]]></description>
 	  <pubDate>28 Nov 2019</pubDate>
   </item>
+  
+  <item>
+	  <title>
+		  Gene expression amplification by nuclear speckle association</title>
+	  <link><![CDATA[https://rupress.org/jcb/article-lookup/doi/10.1083/jcb.201904046]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/jcb.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Jiah Kim, Neha Chivukula Venkata, Gabriela Andrea Hernandez Gonzalez, Nimish Khanna, Andrew S. Belmont</p>
+			  <p style="font-family:verdana;">Many active genes reproducibly position near nuclear speckles, but the functional significance of this positioning is unknown. Here we show that HSPA1B BAC transgenes and endogenous Hsp70 genes turn on 2–4 min after heat shock (HS), irrespective of their distance to speckles. However, both total HSPA1B mRNA counts and nascent transcript levels measured adjacent to the transgene are approximately twofold higher for speckle-associated alleles 15 min after HS. [...]</p>
+		  ]]></description>
+	  <pubDate>22 Nov 2019</pubDate>
+  </item>
+  
 
-  
-  <item>
-	  <title>
-		  Chromatin compartment dynamics in a haploinsufficient model of cardiac laminopathy</title>
-	  <link><![CDATA[http://jcb.rupress.org/content/218/9/2919]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/jcb.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Alessandro Bertero, Paul A. Fields, Alec S.T. Smith, Andrea Leonard, Kevin Beussman, Nathan J. Sniadecki, Deok-Ho Kim, Hung-Fat Tse, Lil Pabon, Jay Shendure, William S. Noble, Charles E. Murry </p>
-			  <p style="font-family:verdana;">Mutations in A-type nuclear lamins cause dilated cardiomyopathy, which is postulated to result from dysregulated gene expression due to changes in chromatin organization into active and inactive compartments. To test this, we performed genome-wide chromosome conformation analyses in human induced pluripotent stem cell–derived cardiomyocytes (hiPSC-CMs) with a haploinsufficient mutation for lamin A/C. Compared with gene-corrected cells, mutant hiPSC-CMs have marked electrophysiological and contractile alterations, with modest gene expression changes. [...]</p>
-		  ]]></description>
-	  <pubDate>8 Aug 2019</pubDate>
-  </item>
-  
-  <item>
-	  <title>
-		  Comparing 3D Genome Organization in Multiple Species Using Phylo-HMRF</title>
-	  <link><![CDATA[https://www.ncbi.nlm.nih.gov/pubmed/31229558]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/cell-press.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Yang Y, Zhang Y, Ren B, Dixon JR, Ma J</p>
-			  <p style="font-family:verdana;">Recent whole-genome mapping approaches for the chromatin interactome have offered new insights into 3D genome organization. However, our knowledge of the evolutionary patterns of 3D genome in mammals remains limited. In particular, there are no existing phylogenetic-model-based methods to analyze chromatin interactions as continuous features. Here, we develop phylogenetic hidden Markov random field (Phylo-HMRF) to identify evolutionary patterns of 3D genome based on multi-species Hi-C data by jointly utilizing spatial constraints among genomic loci and continuous-trait evolutionary models. [...]</p>
-		  ]]></description>
-	  <pubDate>26 Jun 2019</pubDate>
-  </item>
-  
-  <item>
-	  <title>
-		  Chromosome dynamics near the sol-gel phase transition dictate the timing of remote genomic interactions</title>
-	<link><![CDATA[https://www.nature.com/articles/s41467-019-10628-9]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Nimish Khanna, Yaojun Zhang, Joseph S. Lucas, Olga K. Dudko & Cornelis Murre</p>
-			  <p style="font-family:verdana;">Diverse antibody repertoires are generated through remote genomic interactions involving immunoglobulin variable (VH), diversity (DH) and joining (JH) gene segments. How such interactions are orchestrated remains unknown. Here we develop a strategy to track VH-DHJH motion in B-lymphocytes. We find that VH and DHJH segments are trapped in configurations that allow only local motion, such that spatially proximal segments remain in proximity, while spatially remote segments remain remote. [...]</p>
-		  ]]></description>
-	  <pubDate>24 Jun 2019</pubDate>
-  </item>
-  
-  
-  <item>
-      <title>
-          Two major mechanisms of chromosome organization</title>
-	<link><![CDATA[https://www.sciencedirect.com/science/article/pii/S0955067418301601?via%3Dihub]]></link>
-      <description>
-          <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/elsevier.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Leonid A Mirny, Maxim Imakaev, Nezar Abdennur</p>
-              <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">[...] Two major mechanisms that have been proposed to govern chromosome organization are (i) the active (ATP-dependent) process of loop extrusion by Structural Maintenance of Chromosomes (SMC) complexes, and (ii) the spatial compartmentalization of the genome, which is likely mediated by affinity interactions between heterochromatic regions (Falk et al., 2019) rather than by ATP-dependent processes. Here, we review existing evidence that these two processes operate together to fold chromosomes in interphase and that loop extrusion alone drives mitotic compaction. We discuss possible implications of these mechanisms for chromosome function.</p>
-          ]]></description>
-      <pubDate>19 Jun 2019</pubDate>
-  </item>
-
-  <item>
-	  <title>
-		  Two contrasting classes of nucleolus-associated domains in mouse fibroblast heterochromatin</title>
-	  <link><![CDATA[https://genome.cshlp.org/content/early/2019/06/14/gr.247072.118.long]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/genome_research.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Vertii A, Ou J, Yu J, Yan A, Pagès H, Liu H, Zhu LJ, Kaufman PD</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">In interphase eukaryotic cells, almost all heterochromatin is located adjacent to the nucleolus or to the nuclear lamina, thus defining Nucleolus-Associated Domains (NADs) and Lamina-Associated Domains (LADs), respectively. Here, we determined the first genome-scale map of murine NADs in mouse embryonic fibroblasts (MEFs) via deep sequencing of chromatin associated with purified nucleoli. [...]</p>
-		  ]]></description>
-	  <pubDate>14 Jun 2019</pubDate>
-  </item>
-  
 </channel>
 </rss>
 

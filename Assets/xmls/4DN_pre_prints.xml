@@ -8,6 +8,26 @@
 
   <item>
 	  <title>
+		  Memory sequencing reveals heritable single cell gene expression programs associated with distinct cellular behaviors</title>
+	  <link><![CDATA[https://doi.org/10.1101/379016]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Sydney M. Shaffer, Benjamin L. Emert, Raul Reyes-Hueros, Christopher Coté, Guillaume Harmange, Ann E. Sizemore, Rohit Gupte, Eduardo Torre, Abhyudai Singh, Danielle S. Bassett, Arjun Raj</p>
+		  ]]></description>
+	  <pubDate>21 Dec 2019</pubDate>
+  </item>
+
+  <item>
+	  <title>
+		  PEAX Interactive Visual Pattern Search in Sequential Data Using Unsupervised Deep Representation Learning</title>
+	  <link><![CDATA[https://doi.org/10.1101/597518]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Fritz Lekschas, Brant Peterson, Daniel Haehn, Eric Ma, Nils Gehlenborg, Hanspeter Pfister</p>
+		  ]]></description>
+	  <pubDate>12 Dec 2019</pubDate>
+  </item>
+
+  <item>
+	  <title>
 		  Hyper-SAGNN: a self-attention based graph neural network for hypergraphs</title>
 	  <link><![CDATA[https://arxiv.org/abs/1911.02613]]></link>
 	  <description>
@@ -24,26 +44,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Liguo Zhang, Yang Zhang, Yu Chen, Omid Gholamalamdari, Jian Ma, Andrew S. Belmont</p>
 		  ]]></description>
 	  <pubDate>30 Oct 2019</pubDate>
-  </item>
-
-  <item>
-	  <title>
-		  Minimum Information guidelines for fluorescence microscopy: increasing the value, quality, and fidelity of image data</title>
-	  <link><![CDATA[https://arxiv.org/abs/1910.11370]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Maximiliaan Huisman, Mathias Hammer, Alex Rigano, Renu Gopinathan, Carlas Smith, David Grunwald, Caterina Strambio-De-Castillia</p>
-		  ]]></description>
-	  <pubDate>24 Oct 2019</pubDate>
-  </item>
-
-  <item>
-	  <title>
-		  Chromosome organization by one-sided and two-sided loop extrusion</title>
-	  <link><![CDATA[https://doi.org/10.1101/815340]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Edward J. Banigan, Aafke A. van den Berg, Hugo B. Brandão, John F. Marko, Leonid A. Mirny</p>
-		  ]]></description>
-	  <pubDate>22 Oct 2019</pubDate>
   </item>
   
 
