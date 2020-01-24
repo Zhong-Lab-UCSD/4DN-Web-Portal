@@ -6,7 +6,17 @@
   <link>https://www.4dnucleome.org/4dn-publications.html</link>
   <description>4D Nucleome Publications</description>
   
-  
+    <item>
+	  <title>
+		  MOCHI enables discovery of heterogeneous interactome modules
+in 3D nucleome </title>
+	  <link><![CDATA[https://genome.cshlp.org/content/early/2020/01/06/gr.250316.119.long]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/genome_research.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Dechao Tian, Ruochi Zhang, Yang Zhang, Xiaopeng Zhu, Jian Ma</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">[The composition of the cell nucleus is highly heterogeneous, with different constituents forming complex interactomes. However, the global patterns of these interwoven heterogeneous interactomes remain poorly understood. Here we focus on two different interactomes, chromatin interaction network and gene regulatory network, as a proof-of-principle, to identify heterogeneous interactome modules (HIMs), each of which represents a cluster of gene loci that are in spatial contact more frequently than expected and that are regulated by the same group of transcription factors.</p>]]></description>
+	  <pubDate>24 Jan 2020</pubDate>
+  </item>
+
   <item>
 	  <title>
 		  Common DNA sequence variation influences 3-dimensional conformation of the human genome</title>
