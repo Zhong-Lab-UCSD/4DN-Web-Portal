@@ -38,12 +38,12 @@
 
  <item>
 	  <title>
-		  TSA-Seq 2.0 reveals both conserved and variable chromosomal distances to nuclear speckles</title>
-	  <link><![CDATA[https://doi.org/10.1101/824433]]></link>
+		  Probing multi-way chromatin interaction with hypergraph representation learning</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.01.22.916171]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Liguo Zhang, Yang Zhang, Yu Chen, Omid Gholamalamdari, Jian Ma, Andrew S. Belmont</p>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Ruochi Zhang, Jian Ma</p>
 		  ]]></description>
-	  <pubDate>30 Oct 2019</pubDate>
+	  <pubDate>23 Jan 2020</pubDate>
   </item>
   
 
