@@ -6,34 +6,16 @@
   <link>http://www.4dnucleome.org</link>
   <description>4D Nucleome pre-prints</description>
 
-  <item>
-	  <title>
-		  Memory sequencing reveals heritable single cell gene expression programs associated with distinct cellular behaviors</title>
-	  <link><![CDATA[https://doi.org/10.1101/379016]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Sydney M. Shaffer, Benjamin L. Emert, Raul Reyes-Hueros, Christopher Coté, Guillaume Harmange, Ann E. Sizemore, Rohit Gupte, Eduardo Torre, Abhyudai Singh, Danielle S. Bassett, Arjun Raj</p>
-		  ]]></description>
-	  <pubDate>21 Dec 2019</pubDate>
-  </item>
 
-  <item>
-	  <title>
-		  PEAX Interactive Visual Pattern Search in Sequential Data Using Unsupervised Deep Representation Learning</title>
-	  <link><![CDATA[https://doi.org/10.1101/597518]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Fritz Lekschas, Brant Peterson, Daniel Haehn, Eric Ma, Nils Gehlenborg, Hanspeter Pfister</p>
-		  ]]></description>
-	  <pubDate>12 Dec 2019</pubDate>
-  </item>
 
-  <item>
+ <item>
 	  <title>
-		  Hyper-SAGNN: a self-attention based graph neural network for hypergraphs</title>
-	  <link><![CDATA[https://arxiv.org/abs/1911.02613]]></link>
+		  Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits</title>
+	  <link><![CDATA[https://doi.org/10.1101/406330]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Ruochi Zhang, Yuesong Zou, Jian Ma</p>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Paola Giusti-Rodríguez, Leina Lu, Yuchen Yang, Cheynna A Crowley, Xiaoxiao Liu, Ivan Juric, Joshua S Martin, Armen Abnousi, S. Colby Allred, NaEshia Ancalade, Nicholas J Bray, Gerome Breen, Julien Bryois, Cynthia M Bulik, James J Crowley, Jerry Guintivano, Philip R Jansen, George J Jurjus, Yan Li, Gouri Mahajan, Sarah Marzi, Jonathan Mill, Michael C O’Donovan, James C Overholser, Michael J Owen, Antonio F Pardiñas, Sirisha Pochareddy, Danielle Posthuma, Grazyna Rajkowska, Gabriel Santpere, Jeanne E Savage, Nenad Sestan, Yurae Shin, Craig A Stockmeier, James TR Walters, Shuyang Yao, Bipolar Disorder Working Group of the Psychiatric Genomics Consortium, Eating Disorders Working Group of the Psychiatric Genomics Consortium, Gregory E Crawford, Fulai Jin, Ming Hu, Yun Li, Patrick F Sullivan</p>
 		  ]]></description>
-	  <pubDate>6 Nov 2019</pubDate>
+	  <pubDate>30 Jan 2020</pubDate>
   </item>
 
  <item>
@@ -45,6 +27,38 @@
 		  ]]></description>
 	  <pubDate>23 Jan 2020</pubDate>
   </item>
+ 
+ <item>
+	  <title>
+		  Strong intracellular signal inactivation produces sharper and more robust signaling from cell membrane to nucleus</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.01.16.909333]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Jingwei Ma, Myan Do, Mark A. Le Gros, Charles S. Peskin, Carolyn A. Larabell, Yoichiro Mori, Samuel A. Isaacson</p>
+		  ]]></description>
+	  <pubDate>17 Jan 2020</pubDate>
+  </item>
+
+    <item>
+	  <title>
+		  Memory sequencing reveals heritable single cell gene expression programs associated with distinct cellular behaviors</title>
+	  <link><![CDATA[https://doi.org/10.1101/379016]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Sydney M. Shaffer, Benjamin L. Emert, Raul Reyes-Hueros, Christopher Coté, Guillaume Harmange, Ann E. Sizemore, Rohit Gupte, Eduardo Torre, Abhyudai Singh, Danielle S. Bassett, Arjun Raj</p>
+		  ]]></description>
+	  <pubDate>21 Dec 2019</pubDate>
+  </item>
+
+
+    <item>
+	  <title>
+		  Cell cycle dynamics of lamina associated DNA</title>
+	  <link><![CDATA[https://doi.org/10.1101/2019.12.19.881979]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Tom van Schaik, Mabel Vos, Daan Peric-Hupkes, Bas van Steensel</p>
+		  ]]></description>
+	  <pubDate>19 Dec 2019</pubDate>
+  </item>
+
   
 
 </channel>
