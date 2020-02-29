@@ -6,7 +6,15 @@
   <link>http://www.4dnucleome.org</link>
   <description>4D Nucleome pre-prints</description>
 
-
+<item>
+	  <title>
+		  Non-coding germline GATA3 variants alter chromatin topology and contribute to pathogenesis of acute lymphoblastic leukemia</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.02.23.961672]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Hongbo Yang, Hui Zhang, Yu Luan, Tingting Liu, Kathryn G Roberts, Mao-xiang Qian, Bo Zhang, Wenjian Yang, Virginia Perez-Andreu, Jie Xu, Sriranga Iyyanki, Da Kuang, Shalini C. Reshmi, Julie Gastier-Foster, Colton Smith, Ching-Hon Pui, William E Evans, Stephen P Hunger, Leonidas C. Platanias, Mary V Relling, Charles G Mullighan, Mignon L Loh, Feng Yue, Jun J Yang</p>
+		  ]]></description>
+	  <pubDate>25 Feb 2020</pubDate>
+</item>
 
  <item>
 	  <title>
@@ -36,27 +44,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Jingwei Ma, Myan Do, Mark A. Le Gros, Charles S. Peskin, Carolyn A. Larabell, Yoichiro Mori, Samuel A. Isaacson</p>
 		  ]]></description>
 	  <pubDate>17 Jan 2020</pubDate>
-  </item>
-
-    <item>
-	  <title>
-		  Memory sequencing reveals heritable single cell gene expression programs associated with distinct cellular behaviors</title>
-	  <link><![CDATA[https://doi.org/10.1101/379016]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Sydney M. Shaffer, Benjamin L. Emert, Raul Reyes-Hueros, Christopher Coté, Guillaume Harmange, Ann E. Sizemore, Rohit Gupte, Eduardo Torre, Abhyudai Singh, Danielle S. Bassett, Arjun Raj</p>
-		  ]]></description>
-	  <pubDate>21 Dec 2019</pubDate>
-  </item>
-
-
-    <item>
-	  <title>
-		  Cell cycle dynamics of lamina associated DNA</title>
-	  <link><![CDATA[https://doi.org/10.1101/2019.12.19.881979]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Tom van Schaik, Mabel Vos, Daan Peric-Hupkes, Bas van Steensel</p>
-		  ]]></description>
-	  <pubDate>19 Dec 2019</pubDate>
   </item>
 
   
