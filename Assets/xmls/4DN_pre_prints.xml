@@ -11,19 +11,19 @@
 		  Non-coding germline GATA3 variants alter chromatin topology and contribute to pathogenesis of acute lymphoblastic leukemia</title>
 	  <link><![CDATA[https://doi.org/10.1101/2020.02.23.961672]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Hongbo Yang, Hui Zhang, Yu Luan, Tingting Liu, Kathryn G Roberts, Mao-xiang Qian, Bo Zhang, Wenjian Yang, Virginia Perez-Andreu, Jie Xu, Sriranga Iyyanki, Da Kuang, Shalini C. Reshmi, Julie Gastier-Foster, Colton Smith, Ching-Hon Pui, William E Evans, Stephen P Hunger, Leonidas C. Platanias, Mary V Relling, Charles G Mullighan, Mignon L Loh, Feng Yue, Jun J Yang</p>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Yang, H., Zhang, H., Luan, Y., Liu, T., Roberts, K. G., Qian, M., Zhang, B., Yang, W., Perez-Andreu, V., Xu, J., Iyyanki, S., Kuang, D., Reshmi, S. C., Gastier-Foster, J., Smith, C., Pui, C., Evans, W. E., Hunger, S. P., Platanias, L. C., Relling, M. V., Mullighan, C. G., Loh, M. L., Yue, F., Yang, J. J.</p>
 		  ]]></description>
 	  <pubDate>25 Feb 2020</pubDate>
 </item>
 
  <item>
 	  <title>
-		  Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits</title>
-	  <link><![CDATA[https://doi.org/10.1101/406330]]></link>
+		  GAMIBHEAR: whole-genome haplotype reconstruction from Genome Architecture Mapping data</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.01.30.927061]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Paola Giusti-Rodríguez, Leina Lu, Yuchen Yang, Cheynna A Crowley, Xiaoxiao Liu, Ivan Juric, Joshua S Martin, Armen Abnousi, S. Colby Allred, NaEshia Ancalade, Nicholas J Bray, Gerome Breen, Julien Bryois, Cynthia M Bulik, James J Crowley, Jerry Guintivano, Philip R Jansen, George J Jurjus, Yan Li, Gouri Mahajan, Sarah Marzi, Jonathan Mill, Michael C O’Donovan, James C Overholser, Michael J Owen, Antonio F Pardiñas, Sirisha Pochareddy, Danielle Posthuma, Grazyna Rajkowska, Gabriel Santpere, Jeanne E Savage, Nenad Sestan, Yurae Shin, Craig A Stockmeier, James TR Walters, Shuyang Yao, Bipolar Disorder Working Group of the Psychiatric Genomics Consortium, Eating Disorders Working Group of the Psychiatric Genomics Consortium, Gregory E Crawford, Fulai Jin, Ming Hu, Yun Li, Patrick F Sullivan</p>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Markowski, J., Kempfer, R., Kukalev, A., Irastorza-Azcarate, I., Loof, G., Pombo, A., Schwarz, R. F.</p>
 		  ]]></description>
-	  <pubDate>30 Jan 2020</pubDate>
+	  <pubDate>31 Jan 2020</pubDate>
   </item>
 
  <item>
@@ -31,7 +31,7 @@
 		  Probing multi-way chromatin interaction with hypergraph representation learning</title>
 	  <link><![CDATA[https://doi.org/10.1101/2020.01.22.916171]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Ruochi Zhang, Jian Ma</p>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Zhang, R., Ma, J.</p>
 		  ]]></description>
 	  <pubDate>23 Jan 2020</pubDate>
   </item>
@@ -41,12 +41,10 @@
 		  Strong intracellular signal inactivation produces sharper and more robust signaling from cell membrane to nucleus</title>
 	  <link><![CDATA[https://doi.org/10.1101/2020.01.16.909333]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Jingwei Ma, Myan Do, Mark A. Le Gros, Charles S. Peskin, Carolyn A. Larabell, Yoichiro Mori, Samuel A. Isaacson</p>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Ma, J., Do, M., Le Gros, M. A., Peskin, C. S., Larabell, C. A., Mori, Y., Isaacson, S. A.</p>
 		  ]]></description>
 	  <pubDate>17 Jan 2020</pubDate>
   </item>
-
-  
 
 </channel>
 </rss>
