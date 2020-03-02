@@ -6,6 +6,16 @@
   <link>http://www.4dnucleome.org</link>
   <description>4D Nucleome pre-prints</description>
 
+ <item>
+	  <title>
+		  Subtype-specific epigenomic landscape and 3D genome structure in bladder cancer</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.02.26.966697]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Iyyanki, T. S., Zhang, B., Jin, Q., Yang, H., Liu, T., Wang, X., Song, F., Luan, Y., Yamashita, H., Wang, L., Warrick, J., Raman, J., Meeks, J., DeGraff, D. J., Yue, F.</p>
+		  ]]></description>
+	  <pubDate>29 Feb 2020</pubDate>
+  </item>
+
 <item>
 	  <title>
 		  Non-coding germline GATA3 variants alter chromatin topology and contribute to pathogenesis of acute lymphoblastic leukemia</title>
@@ -34,16 +44,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Zhang, R., Ma, J.</p>
 		  ]]></description>
 	  <pubDate>23 Jan 2020</pubDate>
-  </item>
- 
- <item>
-	  <title>
-		  Strong intracellular signal inactivation produces sharper and more robust signaling from cell membrane to nucleus</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.01.16.909333]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Ma, J., Do, M., Le Gros, M. A., Peskin, C. S., Larabell, C. A., Mori, Y., Isaacson, S. A.</p>
-		  ]]></description>
-	  <pubDate>17 Jan 2020</pubDate>
   </item>
 
 </channel>
