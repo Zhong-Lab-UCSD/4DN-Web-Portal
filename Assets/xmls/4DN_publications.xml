@@ -6,6 +6,17 @@
   <link>https://www.4dnucleome.org/4dn-publications.html</link>
   <description>4D Nucleome Publications</description>
   
+  <item>
+	  <title>
+		  High-resolution Repli-Seq defines the temporal choreography of initiation, elongation and termination of replication in mammalian cells</title>
+	  <link><![CDATA[https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01983-8]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/genome_biology.jpeg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Peiyao A. Zhao, Takayo Sasaki, David M. Gilbert</p>
+			  <p style="font-family:verdana;">DNA replication in mammalian cells occurs in a defined temporal order during S phase, known as the replication timing (RT) programme. Replication timing is developmentally regulated and correlated with chromatin conformation and local transcriptional potential. Here, we present RT profiles of unprecedented temporal resolution in two human embryonic stem cell lines, human colon carcinoma line HCT116, and mouse embryonic stem cells and their neural progenitor derivatives.</p>
+		  ]]></description>
+	  <pubDate>24 Mar 2020</pubDate>
+  </item>
+
     <item>
 	  <title>
 		  Co-opted transposons help perpetuate conserved higher-order chromosomal structures </title>
@@ -35,17 +46,6 @@ in 3D nucleome </title>
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/genome_biology.jpeg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">David U. Gorkin, Yunjiang Qiu, Ming Hu, Kipper Fletez-Brant, Tristin Liu, Anthony D. Schmitt, Amina Noor, Joshua Chiou, Kyle J. Gaulton, Jonathan Sebat, Yun Li, Kasper D. Hansen, Bing Ren</p>
 			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">[...] Despite the importance of 3D chromatin conformation to cellular function and human health, little is known about how 3D chromatin conformation varies in the human population, or whether DNA sequence variation between individuals influences 3D chromatin conformation. To address these questions, we perform Hi-C on lymphoblastoid cell lines from 20 individuals. We identify thousands of regions across the genome where 3D chromatin conformation varies between individuals and find that this variation is often accompanied by variation in gene expression, histone modifications, and transcription factor binding. [...]</p>]]></description>
 	  <pubDate>28 Nov 2019</pubDate>
-  </item>
-  
-  <item>
-	  <title>
-		  Gene expression amplification by nuclear speckle association</title>
-	  <link><![CDATA[https://rupress.org/jcb/article-lookup/doi/10.1083/jcb.201904046]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/jcb.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Jiah Kim, Neha Chivukula Venkata, Gabriela Andrea Hernandez Gonzalez, Nimish Khanna, Andrew S. Belmont</p>
-			  <p style="font-family:verdana;">Many active genes reproducibly position near nuclear speckles, but the functional significance of this positioning is unknown. Here we show that HSPA1B BAC transgenes and endogenous Hsp70 genes turn on 2–4 min after heat shock (HS), irrespective of their distance to speckles. However, both total HSPA1B mRNA counts and nascent transcript levels measured adjacent to the transgene are approximately twofold higher for speckle-associated alleles 15 min after HS. [...]</p>
-		  ]]></description>
-	  <pubDate>22 Nov 2019</pubDate>
   </item>
   
 
