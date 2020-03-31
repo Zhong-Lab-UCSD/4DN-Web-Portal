@@ -8,6 +8,26 @@
   
   <item>
 	  <title>
+		  Distinct features of nucleolus-associated domains in mouse embryonic stem cells</title>
+	  <link><![CDATA[https://link.springer.com/article/10.1007/s00412-020-00734-9]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/springer_link.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Aizhan Bizhanova, Aimin Yan, Jun Yu, Lihua Julie Zhu, Paul D. Kaufman</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Heterochromatin in eukaryotic interphase cells frequently localizes to the nucleolar periphery (nucleolus-associated domains (NADs)) and the nuclear lamina (lamina-associated domains (LADs)). Gene expression in somatic cell NADs is generally low, but NADs have not been characterized in mammalian stem cells. Here, we generated the first genome-wide map of NADs in mouse embryonic stem cells (mESCs) via deep sequencing of chromatin associated with biochemically purified nucleoli. [...]</p>]]></description>
+	  <pubDate>26 Mar 2020</pubDate>
+  </item>
+
+      <item>
+	  <title>
+		  Resolving the 3D Landscape of Transcription-Linked Mammalian Chromatin Folding</title>
+	  <link><![CDATA[https://www.sciencedirect.com/science/article/abs/pii/S1097276520301507?via%3Dihub]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/cell-press.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Tsung-Han S.Hsieh, Claudia Cattoglio, Elena Slobodyanyuk, Anders S.Hansen, Oliver J. Rando, Robert Tjian, Xavier Darzacq</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Whereas folding of genomes at the large scale of epigenomic compartments and topologically associating domains (TADs) is now relatively well understood, how chromatin is folded at finer scales remains largely unexplored in mammals. Here, we overcome some limitations of conventional 3C-based methods by using high-resolution Micro-C to probe links between 3D genome organization and transcriptional regulation in mouse stem cells. [...]</p>]]></description>
+	  <pubDate>25 Mar 2020</pubDate>
+  </item>
+
+  <item>
+	  <title>
 		  High-resolution Repli-Seq defines the temporal choreography of initiation, elongation and termination of replication in mammalian cells</title>
 	  <link><![CDATA[https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01983-8]]></link>
 	  <description>
@@ -17,15 +37,7 @@
 	  <pubDate>24 Mar 2020</pubDate>
   </item>
 
-    <item>
-	  <title>
-		  Co-opted transposons help perpetuate conserved higher-order chromosomal structures </title>
-	  <link><![CDATA[https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1916-8]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/genome_biology.jpeg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Mayank NK Choudhary, Ryan Z. Friedman, Julia T. Wang, Hyo Sik Jang, Xiaoyu Zhuo, Ting Wang</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Transposable elements (TEs) make up half of mammalian genomes and shape genome regulation by harboring binding sites for regulatory factors. [...] Here, we show that TEs contribute extensively to both the formation of species-specific loops in humans and mice through deposition of novel anchoring motifs, as well as to the maintenance of conserved loops across both species through CTCF binding site turnover.</p>]]></description>
-	  <pubDate>24 Jan 2020</pubDate>
-  </item>
+
 
     <item>
 	  <title>
@@ -36,16 +48,6 @@ in 3D nucleome </title>
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/genome_research.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Dechao Tian, Ruochi Zhang, Yang Zhang, Xiaopeng Zhu, Jian Ma</p>
 			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">The composition of the cell nucleus is highly heterogeneous, with different constituents forming complex interactomes. However, the global patterns of these interwoven heterogeneous interactomes remain poorly understood. Here we focus on two different interactomes, chromatin interaction network and gene regulatory network, as a proof-of-principle, to identify heterogeneous interactome modules (HIMs), each of which represents a cluster of gene loci that are in spatial contact more frequently than expected and that are regulated by the same group of transcription factors.</p>]]></description>
 	  <pubDate>24 Jan 2020</pubDate>
-  </item>
-
-  <item>
-	  <title>
-		  Common DNA sequence variation influences 3-dimensional conformation of the human genome</title>
-	  <link><![CDATA[https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1855-4]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/genome_biology.jpeg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">David U. Gorkin, Yunjiang Qiu, Ming Hu, Kipper Fletez-Brant, Tristin Liu, Anthony D. Schmitt, Amina Noor, Joshua Chiou, Kyle J. Gaulton, Jonathan Sebat, Yun Li, Kasper D. Hansen, Bing Ren</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">[...] Despite the importance of 3D chromatin conformation to cellular function and human health, little is known about how 3D chromatin conformation varies in the human population, or whether DNA sequence variation between individuals influences 3D chromatin conformation. To address these questions, we perform Hi-C on lymphoblastoid cell lines from 20 individuals. We identify thousands of regions across the genome where 3D chromatin conformation varies between individuals and find that this variation is often accompanied by variation in gene expression, histone modifications, and transcription factor binding. [...]</p>]]></description>
-	  <pubDate>28 Nov 2019</pubDate>
   </item>
   
 

@@ -8,12 +8,32 @@
 
  <item>
 	  <title>
+		  Detecting chromatin interactions along and between sister chromatids with SisterC</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.03.10.986208]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Oomen, M. E., Hedger, A. K., Watts, J. K., Dekker, J.</p>
+		  ]]></description>
+	  <pubDate>11 Mar 2020</pubDate>
+  </item>
+
+ <item>
+	  <title>
 		  SPIN reveals genome-wide landscape of nuclear compartmentalization</title>
 	  <link><![CDATA[https://doi.org/10.1101/2020.03.09.982967]]></link>
 	  <description>
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Wang, Y., Zhang, Y., Zhang, R., van Schaik, T., Zhang, L., Sasaki, T., Hupkes, D. P., Chen, Y., Gilbert, D. M., van Steensel, B., Belmont, A. S., Ma, J.</p>
 		  ]]></description>
 	  <pubDate>10 Mar 2020</pubDate>
+  </item>
+
+ <item>
+	  <title>
+		  An Improved 4’-Aminomethyltroxsalen-Based DNA Crosslinker for Biotinylation of DNA</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.02.29.971317]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Wielenberg, K., Wang, M., Yang, M., Ozer, A., Lis, J. T., Lin, H.</p>
+		  ]]></description>
+	  <pubDate>29 Feb 2020</pubDate>
   </item>
 
  <item>
@@ -38,12 +58,12 @@
 
  <item>
 	  <title>
-		  GAMIBHEAR: whole-genome haplotype reconstruction from Genome Architecture Mapping data</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.01.30.927061]]></link>
+		  Single-Cell Analysis of the 3D Topologies of Genomic Loci Using Genome Architecture Mapping</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.02.10.941047]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Markowski, J., Kempfer, R., Kukalev, A., Irastorza-Azcarate, I., Loof, G., Pombo, A., Schwarz, R. F.</p>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Welch, L. R., Baugher, C., Zhang, Y., Davis, T., Marzluff, W. F., Welch, J. D., Pombo, A.</p>
 		  ]]></description>
-	  <pubDate>31 Jan 2020</pubDate>
+	  <pubDate>13 Feb 2020</pubDate>
   </item>
 
 </channel>
