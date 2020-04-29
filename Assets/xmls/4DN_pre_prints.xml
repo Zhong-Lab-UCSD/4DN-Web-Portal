@@ -8,42 +8,52 @@
 
  <item>
 	  <title>
+		  HiTea: a computational pipeline to identify non-reference transposable element insertions in Hi-C data</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.04.27.060145]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">ain, D., Chu, C., Alver, B. H., Lee, S., Lee, E. A., Park, P. J..</p>
+		  ]]></description>
+	  <pubDate>28 Apr 2020</pubDate>
+  </item>
+
+ <item>
+	  <title>
+		  Comparison of the Hi-C, GAM and SPRITE methods by use of polymer models of chromatin</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.04.24.059915]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Fiorillo, L., Musella, F., Kempfer, R., Chiariello, A. M., Bianco, S., Kukalev, A., Irastorza-Azcarate, I., Esposito, A., Conte, M., Prisco, A., Pombo, A., Nicodemi, M..</p>
+		  ]]></description>
+	  <pubDate>25 Apr 2020</pubDate>
+  </item>
+
+ <item>
+	  <title>
+		  Single-molecule diffusometry reveals no catalysis-induced diffusion enhancement of alkaline phosphatase as proposed by FCS experiments</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.04.10.036442]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Chen, Z., Shaw, A., Wilson, H., Woringer, M., Darzacq, X., Marqusee, S., Wang, Q., Bustamante, C.</p>
+		  ]]></description>
+	  <pubDate>11 Apr 2020</pubDate>
+  </item>
+
+ <item>
+	  <title>
+		  The spatial distributions of pre-mRNAs suggest post-transcriptional splicing of specific introns within endogenous genes</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.04.06.028092]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Cote, A. J., Cote, C. J., Bayatpour, S., Drexler, H. L., Alexander, K. A., Chen, F., Wassie, A. T., Boyden, E. S., Berger, S., Churchman, L. S., Raj, A.</p>
+		  ]]></description>
+	  <pubDate>07 Apr 2020</pubDate>
+  </item>
+
+ <item>
+	  <title>
 		  Cell-type specialization in the brain is encoded by specific long-range chromatin topologies</title>
 	  <link><![CDATA[https://doi.org/10.1101/2020.04.02.020990]]></link>
 	  <description>
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Winick-Ng, W., Kukalev, A., Harabula, I., Zea Redondo, L., Meijer, M., Serebreni, L., Bianco, S., Szabo, D., Chiariello, A. M., Irastorza Azcarate, I., Fiorillo, L., Musella, F., Thieme, C., Irani, E., Torlai Triglia, E., Kolodziejczyk, A. A., Abentung, A., Apostolova, G., Paul, E. J., Franke, V., Kempfer, R., Akalin, A., Teichmann, S., Dechant, G., Ungless, M. A., Nicodemi, M., Castelo-Branco, G., Pombo, A.</p>
 		  ]]></description>
 	  <pubDate>02 Apr 2020</pubDate>
-  </item>
-
- <item>
-	  <title>
-		  CTCF Promotes Long-range Enhancer-promoter Interactions and Lineage-specific Gene Expression in Mammalian Cells</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.03.21.001693]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Kubo N., Ishii, H., Xiong, X., Bianco, S., Meitinger, F., Hu, R., Hocker, J.D., Conte, M., Gorkin, D., Yu, M., Li, B., Dixon, J.R., Hu, M., Nicodemi, M., Zhao, H., Ren, B.</p>
-		  ]]></description>
-	  <pubDate>23 Mar 2020</pubDate>
-  </item>
-
- <item>
-	  <title>
-		  Detecting chromatin interactions along and between sister chromatids with SisterC</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.03.10.986208]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Oomen, M. E., Hedger, A. K., Watts, J. K., Dekker, J.</p>
-		  ]]></description>
-	  <pubDate>11 Mar 2020</pubDate>
-  </item>
-
- <item>
-	  <title>
-		  SPIN reveals genome-wide landscape of nuclear compartmentalization</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.03.09.982967]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Wang, Y., Zhang, Y., Zhang, R., van Schaik, T., Zhang, L., Sasaki, T., Hupkes, D. P., Chen, Y., Gilbert, D. M., van Steensel, B., Belmont, A. S., Ma, J.</p>
-		  ]]></description>
-	  <pubDate>10 Mar 2020</pubDate>
   </item>
 
 </channel>
