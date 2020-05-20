@@ -8,6 +8,16 @@
   
   <item>
 	  <title>
+		  MATCHA: Probing Multi-way Chromatin Interaction with Hypergraph Representation Learning</title>
+	  <link><![CDATA[https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30147-2]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/cell-press.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Ruochi Zhang, Jian Ma</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">[...] Here, we develop an algorithm called MATCHA, based on hypergraph representation learning, where multi-way chromatin interactions are represented as hyperedges. Applications to SPRITE and ChIA-Drop data suggest that MATCHA is effective to denoise the data and make de novo predictions, which greatly enhances the data quality for analyzing the properties of multi-way chromatin interactions. [...]</p>]]></description>
+	  <pubDate>20 May 2020</pubDate>
+  </item>
+
+  <item>
+	  <title>
 		  Distinct features of nucleolus-associated domains in mouse embryonic stem cells</title>
 	  <link><![CDATA[https://link.springer.com/article/10.1007/s00412-020-00734-9]]></link>
 	  <description>
