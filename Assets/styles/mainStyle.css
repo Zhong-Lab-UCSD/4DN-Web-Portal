@@ -245,6 +245,13 @@ div#middleContainer {
 #sidebar #dataPortalSideButton:hover, #sidebar #dataPortalSideButton:active {
 	background: linear-gradient(to bottom, rgb(80, 149, 137), rgb(62, 116, 107));
 }
+#sidebar #nucleomeBrowserSideButton {
+	color: #FFF;
+	background: linear-gradient(to bottom, rgba(240, 60, 60, 0.81), rgba(241, 61, 61, 1));
+}
+#sidebar #nucleomeBrowserSideButton:hover, #sidebar #nucleomeBrowserSideButton:active {
+	background: linear-gradient(to bottom, rgb(195, 50, 50), rgb(196, 51, 51));
+}
 #sidebar #wikiSideButton {
 	color: #FFF;
 	background: linear-gradient(to bottom, rgba(193,140,91,0.81), rgba(174,123,77,1.00));
