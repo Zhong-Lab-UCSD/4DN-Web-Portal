@@ -6,6 +6,17 @@
   <link>https://www.4dnucleome.org/4dn-publications.html</link>
   <description>4D Nucleome Publications</description>
   
+  
+  <item>
+	  <title>
+		  Three-dimensional genome restructuring across timescales of activity-induced neuronal gene expression</title>
+	  <link><![CDATA[https://www.nature.com/articles/s41593-020-0634-6#Ack1]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_neuro.jpeg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Jonathan A. Beagan, Elissa D. Pastuzyn, Lindsey R. Fernandez, Michael H. Guo, Kelly Feng, Katelyn R. Titus, Harshini Chandrashekar, Jason D. Shepherd, Jennifer E. Phillips-Cremins</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Neuronal activation induces rapid transcription of immediate early genes (IEGs) and longer-term chromatin remodeling around secondary response genes (SRGs). Here, we use high-resolution chromosome-conformation-capture carbon-copy sequencing (5C-seq) to elucidate the extent to which long-range chromatin loops are altered during short- and long-term changes in neural activity. [...]</p>]]></description>
+	  <pubDate>25 May 2020</pubDate>
+  </item>
+
   <item>
 	  <title>
 		  MATCHA: Probing Multi-way Chromatin Interaction with Hypergraph Representation Learning</title>
@@ -24,27 +35,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/springer_link.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Aizhan Bizhanova, Aimin Yan, Jun Yu, Lihua Julie Zhu, Paul D. Kaufman</p>
 			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Heterochromatin in eukaryotic interphase cells frequently localizes to the nucleolar periphery (nucleolus-associated domains (NADs)) and the nuclear lamina (lamina-associated domains (LADs)). Gene expression in somatic cell NADs is generally low, but NADs have not been characterized in mammalian stem cells. Here, we generated the first genome-wide map of NADs in mouse embryonic stem cells (mESCs) via deep sequencing of chromatin associated with biochemically purified nucleoli. [...]</p>]]></description>
 	  <pubDate>26 Mar 2020</pubDate>
-  </item>
-
-      <item>
-	  <title>
-		  Resolving the 3D Landscape of Transcription-Linked Mammalian Chromatin Folding</title>
-	  <link><![CDATA[https://www.sciencedirect.com/science/article/abs/pii/S1097276520301507?via%3Dihub]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/cell-press.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Tsung-Han S.Hsieh, Claudia Cattoglio, Elena Slobodyanyuk, Anders S.Hansen, Oliver J. Rando, Robert Tjian, Xavier Darzacq</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Whereas folding of genomes at the large scale of epigenomic compartments and topologically associating domains (TADs) is now relatively well understood, how chromatin is folded at finer scales remains largely unexplored in mammals. Here, we overcome some limitations of conventional 3C-based methods by using high-resolution Micro-C to probe links between 3D genome organization and transcriptional regulation in mouse stem cells. [...]</p>]]></description>
-	  <pubDate>25 Mar 2020</pubDate>
-  </item>
-
-  <item>
-	  <title>
-		  High-resolution Repli-Seq defines the temporal choreography of initiation, elongation and termination of replication in mammalian cells</title>
-	  <link><![CDATA[https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01983-8]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/genome_biology.jpeg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Peiyao A. Zhao, Takayo Sasaki, David M. Gilbert</p>
-			  <p style="font-family:verdana;">DNA replication in mammalian cells occurs in a defined temporal order during S phase, known as the replication timing (RT) programme. Replication timing is developmentally regulated and correlated with chromatin conformation and local transcriptional potential. Here, we present RT profiles of unprecedented temporal resolution in two human embryonic stem cell lines, human colon carcinoma line HCT116, and mouse embryonic stem cells and their neural progenitor derivatives.</p>
-		  ]]></description>
-	  <pubDate>24 Mar 2020</pubDate>
   </item>
   
 
