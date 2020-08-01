@@ -7,6 +7,17 @@
   <description>4D Nucleome pre-prints</description>
 
 
+
+<item>
+	  <title>
+		  Multiplex-GAM: genome-wide identification of chromatin contacts yields insights not captured by Hi-C</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.07.31.230284]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Beagrie, R. A., Thieme, C. J., Annunziatella, C., Baugher, C., Zhang, Y., Schueler, M., Kramer, D. C., Chiariello, A. M., Bianco, S., Kukalev, A., Li, Y., Kempfer, R., Scialdone, A., Welch, L. A., Nicodemi, M., Pombo, A.</p>
+		  ]]></description>
+	  <pubDate>31 Jul 2020</pubDate>
+  </item>
+
 <item>
 	  <title>
 		  PartSeg, a Tool for Quantitative Feature Extraction From 3D Microscopy Images for Dummies</title>
