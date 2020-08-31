@@ -6,6 +6,15 @@
   <link>https://www.4dnucleome.org/4dn-publications.html</link>
   <description>4D Nucleome Publications</description>
   
+   <item>
+	  <title>
+		  Alteration of genome folding via contact domain boundary insertion</title>
+	  <link><![CDATA[https://www.nature.com/articles/s41588-020-0680-8]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_genetics.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Di Zhang, Peng Huang, Malini Sharma, Cheryl A. Keller, Belinda Giardine, Haoyue Zhang, Thomas G. Gilgenast, Jennifer E. Phillips-Cremins, Ross C. Hardison, Gerd A. Blobel</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Animal chromosomes are partitioned into contact domains. Pathogenic domain disruptions can result from chromosomal rearrangements or perturbation of architectural factors. However, such broad-scale alterations are insufficient to define the minimal requirements for domain formation. Moreover, to what extent domains can be engineered is just beginning to be explored. In an attempt to create contact domains, we inserted a 2-kb DNA sequence underlying a tissue-invariant domain boundary—containing a CTCF-binding site (CBS) and a transcription start site (TSS)—into 16 ectopic loci across 11 chromosomes, and characterized its architectural impact. [...]</p>]]></description>
+	  <pubDate>31 Aug 2020</pubDate>
+  </item>
   
   <item>
 	  <title>
@@ -25,16 +34,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/cell-press.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Ruochi Zhang, Jian Ma</p>
 			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">[...] Here, we develop an algorithm called MATCHA, based on hypergraph representation learning, where multi-way chromatin interactions are represented as hyperedges. Applications to SPRITE and ChIA-Drop data suggest that MATCHA is effective to denoise the data and make de novo predictions, which greatly enhances the data quality for analyzing the properties of multi-way chromatin interactions. [...]</p>]]></description>
 	  <pubDate>20 May 2020</pubDate>
-  </item>
-
-  <item>
-	  <title>
-		  Distinct features of nucleolus-associated domains in mouse embryonic stem cells</title>
-	  <link><![CDATA[https://link.springer.com/article/10.1007/s00412-020-00734-9]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/springer_link.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Aizhan Bizhanova, Aimin Yan, Jun Yu, Lihua Julie Zhu, Paul D. Kaufman</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Heterochromatin in eukaryotic interphase cells frequently localizes to the nucleolar periphery (nucleolus-associated domains (NADs)) and the nuclear lamina (lamina-associated domains (LADs)). Gene expression in somatic cell NADs is generally low, but NADs have not been characterized in mammalian stem cells. Here, we generated the first genome-wide map of NADs in mouse embryonic stem cells (mESCs) via deep sequencing of chromatin associated with biochemically purified nucleoli. [...]</p>]]></description>
-	  <pubDate>26 Mar 2020</pubDate>
   </item>
   
 

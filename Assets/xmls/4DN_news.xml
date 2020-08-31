@@ -7,38 +7,13 @@
   <description>4D Nucleome News and Announcements</description>
 
   <item>
-	  <title>Keystone Symposia: Higher-Order Chromatin Architecture in Time and Space</title>
-	  <link><![CDATA[https://www.keystonesymposia.org/ks/Online/Events/2020X3/Details.aspx?EventKey=2020X3]]></link>
-	  <description>
-		  The 2020 Keystone meeting is meant to highlight new frontiers across disciplines in tackling the dynamics and functional roles of the 3D genome in cellular functions across time and space in development and disease. When: March 15 - 19, 2020. Where: Whistler Conference Centre, Whistler, BC, Canada. Scientific Organizers: Jennifer E. Phillips-Cremins, Job Dekker and Stavros Lomvardas.</description>
-	  <pubDate>23 Jan 2020</pubDate>
-  </item>
-
-  <item>
-	  <title>Four new (Phase 2) 4D Nucleome RFAs are out</title>
-	  <link><![CDATA[https://commonfund.nih.gov/4dnucleome]]></link>
-	  <description>
-		  Four new 4DN RFAs have just been published today! The announcement can be seen on the NIH Common Fund Website (https://commonfund.nih.gov/4dnucleome).</description>
-	  <pubDate>25 Nov 2019</pubDate>
-  </item>
-
-  <item>
 	  <title>
-		 Outreach activity from Prof. Ting Wang at City of Hope</title>
-	  <link><![CDATA[https://youtu.be/VjRNDl5yk_c]]></link>
-	  <description>
-		  Ting Wang (Washington University): WashU Epigenome Browser: Engaging ENCODE, Roadmap Epigenomics, and 4DN.</description>
-	  <pubDate>6 Jan 2020</pubDate>
-  </item>
-  
-  <item>
-	  <title>
-		  Outreach activity from Prof. Ting Wang at City of Hope</title>
-	  <link><![CDATA[https://youtu.be/y4qLc16zir0]]></link>
-	  <description>
-		  Ting Wang (Washington University): WashU Epigenome Browser: Hands on demo.</description>
-	  <pubDate>6 Jan 2020</pubDate>
-  </item>
+		  Two protocols approved by the Steering Committee this month are available on the 4DN Portal Protocol Repository!</title><link><![CDATA[https://4dnucleome.org/protocols.html]]></link>
+	  <description>4DN Steering Committee has approved two protocols: 1) iMARGI - protocol for mapping of chromatin-associated RNAs, 2) PLAC-seq/HiChIP/in situ ChIA-PET - protocols to detect and quantify chromatin contacts anchored at genomic regions associated with specific DNA binding proteins or histone modifications.
+	  </description>
+	  <pubDate>18 Aug 2020</pubDate>
+  </item> 
+
   
   <item>
 	  <title>
