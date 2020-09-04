@@ -8,10 +8,26 @@
 
   <item>
 	  <title>
-		  Two protocols approved by the Steering Committee this month are available on the 4DN Portal Protocol Repository!</title><link><![CDATA[https://4dnucleome.org/protocols.html]]></link>
-	  <description>4DN Steering Committee has approved two protocols: 1) iMARGI - protocol for mapping of chromatin-associated RNAs, 2) PLAC-seq/HiChIP/in situ ChIA-PET - protocols to detect and quantify chromatin contacts anchored at genomic regions associated with specific DNA binding proteins or histone modifications.
+		  PLAC-seq/HiChIP/in situ ChIA-PET protocols are available on the 4DN Portal Protocol Repository!</title><link><![CDATA[https://4dnucleome.org/protocols.html]]></link>
+	  <description>PLAC-seq/HiChIP/in situ ChIA-PET protocols to detect and quantify chromatin contacts anchored at genomic regions associated with specific DNA binding proteins or histone modifications are now approved by the Steering Committee.
 	  </description>
 	  <pubDate>18 Aug 2020</pubDate>
+  </item> 
+
+  <item>
+	  <title>
+		  iMARGI protocol is available on the 4DN Portal Protocol Repository!</title><link><![CDATA[https://4dnucleome.org/protocols.html]]></link>
+	  <description>in situ Mapping of RNA-chromatin interactions (iMARGI) protocol for mapping of chromatin-associated RNAs is now approved by the Steering Committee.
+	  </description>
+	  <pubDate>18 Aug 2020</pubDate>
+  </item> 
+
+    <item>
+	  <title>
+		  Check the new Nucleome Browser!</title><link><![CDATA[http://vis.nucleome.org/]]></link>
+	  <description>Nucleome Browser is a multimodal, interactive data visualization and exploration platform to integrate genomic, imaging, and 3D structure data.
+	  </description>
+	  <pubDate>1 Jul 2020</pubDate>
   </item> 
 
   
