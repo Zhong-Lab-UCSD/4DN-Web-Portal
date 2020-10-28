@@ -6,6 +6,16 @@
   <link>https://www.4dnucleome.org/4dn-publications.html</link>
   <description>4D Nucleome Publications</description>
   
+     <item>
+	  <title>
+		  Stress-induced RNA–chromatin interactions promote endothelial dysfunction</title>
+	  <link><![CDATA[https://www.nature.com/articles/s41467-020-18957-w]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_comm.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Riccardo Calandrelli, Lixia Xu, Yingjun Luo, Weixin Wu, Xiaochen Fan, Tri Nguyen, Chien-Ju Chen, Kiran Sriram, Xiaofang Tang, Andrew B. Burns, Rama Natarajan, Zhen Bouman Chen, Sheng Zhong</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Chromatin-associated RNA (caRNA) has been proposed as a type of epigenomic modifier. Here, we test whether environmental stress can induce cellular dysfunction through modulating RNA-chromatin interactions. We induce endothelial cell (EC) dysfunction with high glucose and TNFα (H + T), that mimic the common stress in diabetes mellitus. We characterize the H + T-induced changes in gene expression by single cell (sc)RNA-seq, DNA interactions by Hi-C, and RNA-chromatin interactions by iMARGI. [...] Taken together, caRNA-mediated dysregulation of gene expression modulates EC dysfunction, a crucial mechanism underlying numerous diseases.</p>]]></description>
+	  <pubDate>15 Oct 2020</pubDate>
+  </item>
+
    <item>
 	  <title>
 		  Multi-contact 3C reveals that the human genome during interphase is largely not entangled</title>
@@ -34,26 +44,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/acs_logo.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Ipek Tasan, Christina Jean Su, Behnam Enghiad, Meng Zhang, Shekhar Mishra, Huimin Zhao</p>
 			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Tools for live cell imaging of multiple non-repetitive genomic loci in mammalian cells are necessary to study chromatin dynamics. Here, we report a new system based on two chromosomally integrated orthogonal irregular repeat arrays and particularly a new general strategy to construct irregular repeat arrays. [...]</p>]]></description>
 	  <pubDate>21 Aug 2020</pubDate>
-  </item>
-  
-  <item>
-	  <title>
-		  Three-dimensional genome restructuring across timescales of activity-induced neuronal gene expression</title>
-	  <link><![CDATA[https://www.nature.com/articles/s41593-020-0634-6#Ack1]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_neuro.jpeg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Jonathan A. Beagan, Elissa D. Pastuzyn, Lindsey R. Fernandez, Michael H. Guo, Kelly Feng, Katelyn R. Titus, Harshini Chandrashekar, Jason D. Shepherd, Jennifer E. Phillips-Cremins</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Neuronal activation induces rapid transcription of immediate early genes (IEGs) and longer-term chromatin remodeling around secondary response genes (SRGs). Here, we use high-resolution chromosome-conformation-capture carbon-copy sequencing (5C-seq) to elucidate the extent to which long-range chromatin loops are altered during short- and long-term changes in neural activity. [...]</p>]]></description>
-	  <pubDate>25 May 2020</pubDate>
-  </item>
-
-  <item>
-	  <title>
-		  MATCHA: Probing Multi-way Chromatin Interaction with Hypergraph Representation Learning</title>
-	  <link><![CDATA[https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30147-2]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/cell-press.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Ruochi Zhang, Jian Ma</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">[...] Here, we develop an algorithm called MATCHA, based on hypergraph representation learning, where multi-way chromatin interactions are represented as hyperedges. Applications to SPRITE and ChIA-Drop data suggest that MATCHA is effective to denoise the data and make de novo predictions, which greatly enhances the data quality for analyzing the properties of multi-way chromatin interactions. [...]</p>]]></description>
-	  <pubDate>20 May 2020</pubDate>
   </item>
   
 

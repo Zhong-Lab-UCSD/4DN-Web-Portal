@@ -75,6 +75,8 @@
           </div>
           <div class="topMenuItem"> <a href="../policies.html">Policies</a> </div>
           <div class="topMenuItem"> <a href="../outreach.html">Outreach</a> </div>
+		  <div class="topMenuItem"> <a href="../4dn-kickoff-meeting-2020.html">2020 4DN Phase-II Kick-off Meeting</a> </div>
+			<!--
           <div class="topMenuItem"> 2019 4DN-ASCB Meeting
             <div class="subMenu">
               <div> <a href="../4dn-ascb-meeting-2019.html">Meeting Home</a> </div>
@@ -86,6 +88,7 @@
               <div> <a href="../4dn-ascb-meeting-2019-committee.html">Planning Committee Members</a> </div>
             </div>
           </div>
+			-->
           <div class="topMenuItem"> Contacts
             <div class="subMenu">
               <div> <a href="../centers-and-teams.html">4DN Centers and Teams</a> </div>

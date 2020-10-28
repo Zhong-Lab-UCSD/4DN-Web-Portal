@@ -9,63 +9,83 @@
 
 <item>
 	  <title>
-		  Micromanipulation of prophase I chromosomes from mouse spermatocytes reveals high stiffness and gel-like chromatin organization</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.08.31.276402]]></link>
+		  HiCRep.py: Fast comparison of Hi-C contact matrices in Python</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.10.27.357756]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Marko, J. F., Qiao, H., Liu, N., Biggs, R. J., Peng, Y.</p>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Lin, D., Sanders, J., Noble, W. S.</p>
 		  ]]></description>
-	  <pubDate>1 Sep 2020</pubDate>
+	  <pubDate>28 Oct 2020</pubDate>
   </item>
 
 <item>
 	  <title>
-		  Homeotic Regulation of Olfactory Receptor Choice via NFI-dependent Heterochromatic Silencing and Genomic Compartmentalization</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.08.30.274035]]></link>
+		  DNA-loop extruding SMC complexes can traverse one another in vivo</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.10.26.356329]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Bashkirova, E., Monahan, K., Campbell, C. E., Osinski, J. M., Tan, L., Schieren, I., Barnea, G., Xie, S., Gronostajski, R. M., Lomvardas, S.</p>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Brandão, H. B., Ren, Z., Karaboja, X., Mirny, L. A., Wang, X.</p>
 		  ]]></description>
-	  <pubDate>30 Aug 2020</pubDate>
+	  <pubDate>27 Oct 2020</pubDate>
   </item>
 
 <item>
 	  <title>
-		  A dual mechanism of enhancer activation by FOXA pioneer factors induces endodermal organ fates</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.08.28.263020]]></link>
+		  Deep learning enables fast and dense single-molecule localization with high accuracy</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.10.26.355164]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Geusz, R. J., Wang, A., Lam, D. K., Vinckier, N. K., Alysandratos, K.-D., Roberts, D. A., Wang, J., Kefalopoulou, S., Qiu, Y., Chiou, J., Gaulton, K. J., Ren, B., Kotton, D. N., Sander, M.</p>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Speiser, A., Müller, L.-R., Matti, U., Obara, C. J., Legant, W. R., Kreshuk, A., Macke, J. H., Ries, J., Turaga, S. C.</p>
 		  ]]></description>
-	  <pubDate>29 Aug 2020</pubDate>
+	  <pubDate>26 Oct 2020</pubDate>
   </item>
 
 <item>
 	  <title>
-		  RNA promotes the formation of spatial compartments in the nucleus</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.08.25.267435]]></link>
+		  MCM complexes are barriers that restrict cohesin-mediated loop extrusion</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.10.15.340356]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Quinodoz, S. A., Bhat, P., Ollikainen, N., Jachowicz, J. W., Banerjee, A. K., Chovanec, P., Blanco, M. R., Chow, A., Markaki, Y., Plath, K., Guttman, M.</p>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Dequeker, B. J. H., Brandao, H. B., Scherr, M. J., Gassler, J., Powell, S., Gaspar, I., Flyamer, I. M., Tang, W., Stocsits, R., Davidson, I. F., Peters, J.-M., Duderstadt, K. E., Mirny, L. A., Tachibana, K.</p>
 		  ]]></description>
-	  <pubDate>25 Aug 2020</pubDate>
+	  <pubDate>15 Oct 2020</pubDate>
+  </item>
+
+<item>
+	  <title>
+		  HP1α is a chromatin crosslinker that controls nuclear and mitotic chromosome mechanics</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.10.09.331900]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Strom, A. R., Biggs, R. J., Banigan, E. J., Wang, X., Chiu, K., Herman, C., Collado, J., Yue, F., Ritland Politz, J. C., Tait, L. J., Scalzo, D., Telling, A., Groudine, M., Brangwynne, C. P., Marko, J., Stephens, A. D.</p>
+		  ]]></description>
+	  <pubDate>09 Oct 2020</pubDate>
+  </item>
+
+<item>
+	  <title>
+		  Automated CUT&Tag profiling of chromatin heterogeneity in mixed-lineage leukemia</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.10.06.328948]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Janssens, D., Meers, M. P., Wu, S. J., Babaeva, E., Meshinchi, S., Sarthy, J. F., Ahmad, K., Henikoff, S.</p>
+		  ]]></description>
+	  <pubDate>08 Oct 2020</pubDate>
   </item>
 
 
 <item>
 	  <title>
-		  Epigenetic memory as a time integral over prior history of Polycomb phase separation</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.08.19.254706]]></link>
+		  Coarse-Grained Modelling of DNA Plectoneme Pinning in the Presence of Base-Pair Mismatches</title>
+	  <link><![CDATA[https://doi.org/10.1101/2019.12.20.885533]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Eeftens, J. M., Kapoor, M., Brangwynne, C. P.</p>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Desai, P. R., Brahmachari, S., Marko, J. F., Das, S., Neuman, K. C.</p>
 		  ]]></description>
-	  <pubDate>19 Aug 2020</pubDate>
+	  <pubDate>04 Oct 2020</pubDate>
   </item>
 
 <item>
 	  <title>
-		  A single-cell method to map higher-order 3D genome organization in thousands of individual cells reveals structural heterogeneity in mouse ES cells</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.08.11.242081]]></link>
+		  PYMEVisualize: an open-source tool for exploring 3D super-resolution data</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.09.29.315671]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Arrastia, M. V., Jachowicz, J. W., Ollikainen, N., Curtis, M. S., Lai, C., Quinodoz, S., Selck, D. A., Guttman, M., Ismagilov, R. F.</p>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Marin, Z., Graff, M., Barentine, A. E. S., Soeller, C., Chung, K. K. H., Fuentes, L. A., Baddeley, D.</p>
 		  ]]></description>
-	  <pubDate>12 Aug 2020</pubDate>
+	  <pubDate>30 Sep 2020</pubDate>
   </item>
  
 
