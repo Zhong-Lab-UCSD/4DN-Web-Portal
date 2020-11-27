@@ -6,6 +6,16 @@
   <link>https://www.4dnucleome.org/4dn-publications.html</link>
   <description>4D Nucleome Publications</description>
   
+   <item>
+	  <title>
+		  A map of cis-regulatory elements and 3D genome structures in zebrafish</title>
+	  <link><![CDATA[https://www.nature.com/articles/s41586-020-2962-9]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Hongbo Yang, Yu Luan, Tingting Liu, Hyung Joo Lee, Li Fang, Yanli Wang, Xiaotao Wang, Bo Zhang, Qiushi Jin, Khai Chung Ang, Xiaoyun Xing, Juan Wang, Jie Xu, Fan Song, Iyyanki Sriranga, Chachrit Khunsriraksakul, Tarik Salameh, Daofeng Li, Mayank N. K. Choudhary, Jacek Topczewski, Kai Wang, Glenn S. Gerhard, Ross C. Hardison, Ting Wang, Keith C. Cheng, Feng Yue</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">The zebrafish (Danio rerio) has been widely used in the study of human disease and development, and about 70% of the protein-coding genes are conserved between the two species1. However, studies in zebrafish remain constrained by the sparse annotation of functional control elements in the zebrafish genome. Here we performed RNA sequencing, assay for transposase-accessible chromatin using sequencing (ATAC-seq), chromatin immunoprecipitation with sequencing, whole-genome bisulfite sequencing, and chromosome conformation capture (Hi-C) experiments in up to eleven adult and two embryonic tissues to generate a comprehensive map of transcriptomes, cis-regulatory elements, heterochromatin, methylomes and 3D genome organization in the zebrafish Tübingen reference strain. [...]</p>]]></description>
+	  <pubDate>25 Nov 2020</pubDate>
+  </item>
+
      <item>
 	  <title>
 		  Stress-induced RNA–chromatin interactions promote endothelial dysfunction</title>
@@ -24,26 +34,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_structural_molecular.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Filipe Tavares-Cadete, Davood Norouzi, Bastiaan Dekker, Yu Liu, Job Dekker</p>
 			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">During interphase, the eukaryotic genome is organized into chromosome territories that are spatially segregated into compartment domains. The extent to which interacting domains or chromosomes are entangled is not known. We analyze series of co-occurring chromatin interactions using multi-contact 3C (MC-3C) in human cells to provide insights into the topological entanglement of chromatin. [...]</p>]]></description>
 	  <pubDate>14 Sep 2020</pubDate>
-  </item>
-
-   <item>
-	  <title>
-		  Alteration of genome folding via contact domain boundary insertion</title>
-	  <link><![CDATA[https://www.nature.com/articles/s41588-020-0680-8]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_genetics.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Di Zhang, Peng Huang, Malini Sharma, Cheryl A. Keller, Belinda Giardine, Haoyue Zhang, Thomas G. Gilgenast, Jennifer E. Phillips-Cremins, Ross C. Hardison, Gerd A. Blobel</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Animal chromosomes are partitioned into contact domains. Pathogenic domain disruptions can result from chromosomal rearrangements or perturbation of architectural factors. However, such broad-scale alterations are insufficient to define the minimal requirements for domain formation. Moreover, to what extent domains can be engineered is just beginning to be explored. In an attempt to create contact domains, we inserted a 2-kb DNA sequence underlying a tissue-invariant domain boundary—containing a CTCF-binding site (CBS) and a transcription start site (TSS)—into 16 ectopic loci across 11 chromosomes, and characterized its architectural impact. [...]</p>]]></description>
-	  <pubDate>31 Aug 2020</pubDate>
-  </item>
-
-     <item>
-	  <title>
-		  Two-Color Imaging of Non-repetitive Endogenous Loci in Human Cells</title>
-	  <link><![CDATA[https://pubs.acs.org/doi/10.1021/acssynbio.0c00295]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/acs_logo.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Ipek Tasan, Christina Jean Su, Behnam Enghiad, Meng Zhang, Shekhar Mishra, Huimin Zhao</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Tools for live cell imaging of multiple non-repetitive genomic loci in mammalian cells are necessary to study chromatin dynamics. Here, we report a new system based on two chromosomally integrated orthogonal irregular repeat arrays and particularly a new general strategy to construct irregular repeat arrays. [...]</p>]]></description>
-	  <pubDate>21 Aug 2020</pubDate>
   </item>
   
 

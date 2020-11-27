@@ -9,83 +9,42 @@
 
 <item>
 	  <title>
-		  HiCRep.py: Fast comparison of Hi-C contact matrices in Python</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.10.27.357756]]></link>
+		  Chromatin Fiber Folding Represses Transcription and Loop Extrusion in Quiescent Cells</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.11.24.396713]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Lin, D., Sanders, J., Noble, W. S.</p>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Swygert, S. G., Lin, D., Portillo-Ledesma, S., Lin, P.-Y., Hunt, D. R., Kao, C.-F., Schlick, T., Noble, W. S., Tsukiyama, T.</p>
 		  ]]></description>
-	  <pubDate>28 Oct 2020</pubDate>
+	  <pubDate>24 Nov 2020</pubDate>
   </item>
 
 <item>
 	  <title>
-		  DNA-loop extruding SMC complexes can traverse one another in vivo</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.10.26.356329]]></link>
+		  Single-cell landscape of nuclear configuration and gene expression during stem cell differentiation and X inactivation</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.11.20.390765]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Brandão, H. B., Ren, Z., Karaboja, X., Mirny, L. A., Wang, X.</p>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Bonora, G., Ramani, V., Singh, R., Fang, H., Jackson, D., Srivatsan, S., Qiu, R., Lee, C., Trapnell, C., Shendure, J., Duan, Z., Deng, X., Noble, W. S., Disteche, C. M.</p>
 		  ]]></description>
-	  <pubDate>27 Oct 2020</pubDate>
+	  <pubDate>20 Nov 2020</pubDate>
+  </item>
+
+  <item>
+	  <title>
+		  Transcriptional Network Orchestrating Regional Patterning of Cortical Progenitors</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.11.03.366914]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Ypsilanti, A. R., Pattabiraman, K., Catta-Preta, R., Golonzhka, O., Lindtner, S., Tang, K., Jones, I., Abnousi, A., Juric, I., Hu, M., Shen, Y., Dickel, D. E., Visel, A., Pennachio, L. A., Hawrylycz, M., Thompson, C., Zeng, H., Barozzi, I., Nord, A. S., Rubenstein, J. L. R.</p>
+		  ]]></description>
+	  <pubDate>04 Nov 2020</pubDate>
   </item>
 
 <item>
 	  <title>
-		  Deep learning enables fast and dense single-molecule localization with high accuracy</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.10.26.355164]]></link>
+		  HiC-ACT: Improved Detection of Chromatin Interactions from Hi-C Data via Aggregated Cauchy Test</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.10.28.359869]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Speiser, A., Müller, L.-R., Matti, U., Obara, C. J., Legant, W. R., Kreshuk, A., Macke, J. H., Ries, J., Turaga, S. C.</p>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Lagler, T. M., Yang, Y., Abnousi, A., Hu, M., Li, Y.</p>
 		  ]]></description>
-	  <pubDate>26 Oct 2020</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  MCM complexes are barriers that restrict cohesin-mediated loop extrusion</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.10.15.340356]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Dequeker, B. J. H., Brandao, H. B., Scherr, M. J., Gassler, J., Powell, S., Gaspar, I., Flyamer, I. M., Tang, W., Stocsits, R., Davidson, I. F., Peters, J.-M., Duderstadt, K. E., Mirny, L. A., Tachibana, K.</p>
-		  ]]></description>
-	  <pubDate>15 Oct 2020</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  HP1α is a chromatin crosslinker that controls nuclear and mitotic chromosome mechanics</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.10.09.331900]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Strom, A. R., Biggs, R. J., Banigan, E. J., Wang, X., Chiu, K., Herman, C., Collado, J., Yue, F., Ritland Politz, J. C., Tait, L. J., Scalzo, D., Telling, A., Groudine, M., Brangwynne, C. P., Marko, J., Stephens, A. D.</p>
-		  ]]></description>
-	  <pubDate>09 Oct 2020</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Automated CUT&Tag profiling of chromatin heterogeneity in mixed-lineage leukemia</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.10.06.328948]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Janssens, D., Meers, M. P., Wu, S. J., Babaeva, E., Meshinchi, S., Sarthy, J. F., Ahmad, K., Henikoff, S.</p>
-		  ]]></description>
-	  <pubDate>08 Oct 2020</pubDate>
-  </item>
-
-
-<item>
-	  <title>
-		  Coarse-Grained Modelling of DNA Plectoneme Pinning in the Presence of Base-Pair Mismatches</title>
-	  <link><![CDATA[https://doi.org/10.1101/2019.12.20.885533]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Desai, P. R., Brahmachari, S., Marko, J. F., Das, S., Neuman, K. C.</p>
-		  ]]></description>
-	  <pubDate>04 Oct 2020</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  PYMEVisualize: an open-source tool for exploring 3D super-resolution data</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.09.29.315671]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Marin, Z., Graff, M., Barentine, A. E. S., Soeller, C., Chung, K. K. H., Fuentes, L. A., Baddeley, D.</p>
-		  ]]></description>
-	  <pubDate>30 Sep 2020</pubDate>
+	  <pubDate>29 Oct 2020</pubDate>
   </item>
  
 
