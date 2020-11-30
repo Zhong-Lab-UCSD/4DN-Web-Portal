@@ -8,6 +8,16 @@
   
    <item>
 	  <title>
+		  Trans- and cis-acting effects of Firre on epigenetic features of the inactive X chromosome</title>
+	  <link><![CDATA[https://www.nature.com/articles/s41467-020-19879-3]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_comm.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">He Fang, Giancarlo Bonora, Jordan P. Lewandowski, Jitendra Thakur, Galina N. Filippova, Steven Henikoff, Jay Shendure, Zhijun Duan, John L. Rinn, Xinxian Deng, William S. Noble, Christine M. Disteche</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Firre encodes a lncRNA involved in nuclear organization. Here, we show that Firre RNA expressed from the active X chromosome maintains histone H3K27me3 enrichment on the inactive X chromosome (Xi) in somatic cells. This trans-acting effect involves SUZ12, reflecting interactions between Firre RNA and components of the Polycomb repressive complexes. Without Firre RNA, H3K27me3 decreases on the Xi and the Xi-perinucleolar location is disrupted, possibly due to decreased CTCF binding on the Xi. [...]</p>]]></description>
+	  <pubDate>27 Nov 2020</pubDate>
+  </item>
+
+   <item>
+	  <title>
 		  A map of cis-regulatory elements and 3D genome structures in zebrafish</title>
 	  <link><![CDATA[https://www.nature.com/articles/s41586-020-2962-9]]></link>
 	  <description>
@@ -24,16 +34,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_comm.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Riccardo Calandrelli, Lixia Xu, Yingjun Luo, Weixin Wu, Xiaochen Fan, Tri Nguyen, Chien-Ju Chen, Kiran Sriram, Xiaofang Tang, Andrew B. Burns, Rama Natarajan, Zhen Bouman Chen, Sheng Zhong</p>
 			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Chromatin-associated RNA (caRNA) has been proposed as a type of epigenomic modifier. Here, we test whether environmental stress can induce cellular dysfunction through modulating RNA-chromatin interactions. We induce endothelial cell (EC) dysfunction with high glucose and TNFα (H + T), that mimic the common stress in diabetes mellitus. We characterize the H + T-induced changes in gene expression by single cell (sc)RNA-seq, DNA interactions by Hi-C, and RNA-chromatin interactions by iMARGI. [...] Taken together, caRNA-mediated dysregulation of gene expression modulates EC dysfunction, a crucial mechanism underlying numerous diseases.</p>]]></description>
 	  <pubDate>15 Oct 2020</pubDate>
-  </item>
-
-   <item>
-	  <title>
-		  Multi-contact 3C reveals that the human genome during interphase is largely not entangled</title>
-	  <link><![CDATA[https://www.nature.com/articles/s41594-020-0506-5]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_structural_molecular.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Filipe Tavares-Cadete, Davood Norouzi, Bastiaan Dekker, Yu Liu, Job Dekker</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">During interphase, the eukaryotic genome is organized into chromosome territories that are spatially segregated into compartment domains. The extent to which interacting domains or chromosomes are entangled is not known. We analyze series of co-occurring chromatin interactions using multi-contact 3C (MC-3C) in human cells to provide insights into the topological entanglement of chromatin. [...]</p>]]></description>
-	  <pubDate>14 Sep 2020</pubDate>
   </item>
   
 
