@@ -2,10 +2,29 @@
 <rss version="2.0">
 <channel>
 
-  <title><![CDATA[<p style="font-size:18px; font-family:Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif; margin: 0 -10px;"><strong>Latest 4DN Pre-prints</strong> <a target="_blank" href="https://beta.4dnucleome.org/Assets/xmls/4DN_pre_prints.xml"><img src="https://beta.4dnucleome.org/Assets/images/icons/Feed-icon.svg" style="height: 20px; float: right;"></a></p>]]></title>
+  <title><![CDATA[<p style="font-size:18px; font-family:Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif; margin: 0 -10px;"><strong>Latest 4DN Pre-prints</strong> <a target="_blank" href="https://4dnucleome.org/Assets/xmls/4DN_pre_prints.xml"><img src="https://4dnucleome.org/Assets/images/icons/Feed-icon.svg" style="height: 20px; float: right;"></a></p>]]></title>
   <link>http://www.4dnucleome.org</link>
   <description>4D Nucleome pre-prints</description>
 
+<item>
+	  <title>
+		  SPICEMIX: Integrative single-cell spatial modeling for inferring cell identity</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.11.29.383067]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Chidester, B., Zhou, T., Ma, J.</p>
+		  ]]></description>
+	  <pubDate>30 Nov 2020</pubDate>
+  </item>
+
+<item>
+	  <title>
+		  DANGO: Predicting higher-order genetic interactions</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.11.26.400739]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Zhang, R., Ma, J., Ma, J.</p>
+		  ]]></description>
+	  <pubDate>27 Nov 2020</pubDate>
+  </item>
 
 <item>
 	  <title>
@@ -35,16 +54,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Ypsilanti, A. R., Pattabiraman, K., Catta-Preta, R., Golonzhka, O., Lindtner, S., Tang, K., Jones, I., Abnousi, A., Juric, I., Hu, M., Shen, Y., Dickel, D. E., Visel, A., Pennachio, L. A., Hawrylycz, M., Thompson, C., Zeng, H., Barozzi, I., Nord, A. S., Rubenstein, J. L. R.</p>
 		  ]]></description>
 	  <pubDate>04 Nov 2020</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  HiC-ACT: Improved Detection of Chromatin Interactions from Hi-C Data via Aggregated Cauchy Test</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.10.28.359869]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Lagler, T. M., Yang, Y., Abnousi, A., Hu, M., Li, Y.</p>
-		  ]]></description>
-	  <pubDate>29 Oct 2020</pubDate>
   </item>
  
 

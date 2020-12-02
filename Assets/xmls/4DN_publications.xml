@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 
-  <title><![CDATA[<p style="font-size:18px; font-family:Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif; margin: 0 -10px;"><strong>Latest 4DN Publications</strong> <a target="_blank" href="https://beta.4dnucleome.org/Assets/xmls/4DN_publications.xml"><img src="https://beta.4dnucleome.org/Assets/images/icons/Feed-icon.svg" style="height: 20px; float: right;"></a></p>]]></title>
+  <title><![CDATA[<p style="font-size:18px; font-family:Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif; margin: 0 -10px;"><strong>Latest 4DN Publications</strong> <a target="_blank" href="https://4dnucleome.org/Assets/xmls/4DN_publications.xml"><img src="https://4dnucleome.org/Assets/images/icons/Feed-icon.svg" style="height: 20px; float: right;"></a></p>]]></title>
   <link>https://www.4dnucleome.org/4dn-publications.html</link>
   <description>4D Nucleome Publications</description>
   
