@@ -8,6 +8,16 @@
 
 <item>
 	  <title>
+		  Multiscale and integrative single-cell Hi-C analysis with Higashi</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.12.13.422537]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Zhang, R., Zhou, T., Ma, J.</p>
+		  ]]></description>
+	  <pubDate>15 Dec 2020</pubDate>
+  </item>
+
+<item>
+	  <title>
 		  SPICEMIX: Integrative single-cell spatial modeling for inferring cell identity</title>
 	  <link><![CDATA[https://doi.org/10.1101/2020.11.29.383067]]></link>
 	  <description>
