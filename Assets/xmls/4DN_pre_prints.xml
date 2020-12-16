@@ -8,6 +8,16 @@
 
 <item>
 	  <title>
+		  SnapHiC: a computational pipeline to map chromatin contacts from single cell Hi-C data</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.12.13.422543]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Yu, M., Abnousi, A., Zhang, Y., Li, G., Lee, L., Chen, Z., Fang, R., Wen, J., Sun, Q., Li, Y., Ren, B., Hu, M.</p>
+		  ]]></description>
+	  <pubDate>15 Dec 2020</pubDate>
+  </item>
+
+<item>
+	  <title>
 		  Multiscale and integrative single-cell Hi-C analysis with Higashi</title>
 	  <link><![CDATA[https://doi.org/10.1101/2020.12.13.422537]]></link>
 	  <description>
