@@ -8,6 +8,26 @@
   
    <item>
 	  <title>
+		  TSA-seq reveals a largely conserved genome organization relative to nuclear speckles with small position changes tightly correlated with gene expression changes</title>
+	  <link><![CDATA[https://genome.cshlp.org/content/early/2020/12/18/gr.266239.120]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/genome_research.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Liguo Zhang, Yang Zhang, Yu Chen, Omid Gholamalamdari, Yuchuan Wang, Jian Ma, Andrew S. Belmont</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">TSA-seq mapping suggests that gene distance to nuclear speckles is more deterministic and predictive of gene expression levels than gene radial positioning. Gene expression correlates inversely with distance to nuclear speckles, with chromosome regions of unusually high expression located at the apex of chromosome loops protruding from the nuclear periphery into the interior. Genomic distances to the nearest lamina-associated domain are larger for loop apexes mapping closest to nuclear speckles, suggesting the possibility of conservation of speckle-associated regions. To facilitate comparison of genome organization by TSA-seq, we reduced required cell numbers 10-20-fold for TSA-seq by deliberately saturating protein-labeling while preserving distance mapping by the still unsaturated DNA-labeling. [...]</p>]]></description>
+	  <pubDate>17 Dec 2020</pubDate>
+  </item>
+
+   <item>
+	  <title>
+		  Close to the edge: Heterochromatin at the nucleolar and nuclear peripheries</title>
+	  <link><![CDATA[https://www.sciencedirect.com/science/article/abs/pii/S1874939920302492]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/elsevier.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Aizhan Bizhanova, Paul D. Kaufman</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Chromatin is a dynamic structure composed of DNA, RNA, and proteins, regulating storage and expression of the genetic material in the nucleus. Heterochromatin plays a crucial role in driving the three-dimensional arrangement of the interphase genome, and in preserving genome stability by maintaining a subset of the genome in a silent state. Spatial genome organization contributes to normal patterns of gene function and expression, and is therefore of broad interest. Mammalian heterochromatin, the focus of this review, mainly localizes at the nuclear periphery, forming Lamina-associated domains (LADs), and at the nucleolar periphery, forming Nucleolus-associated domains (NADs). [...]</p>]]></description>
+	  <pubDate>29 Nov 2020</pubDate>
+  </item>
+
+   <item>
+	  <title>
 		  Trans- and cis-acting effects of Firre on epigenetic features of the inactive X chromosome</title>
 	  <link><![CDATA[https://www.nature.com/articles/s41467-020-19879-3]]></link>
 	  <description>
@@ -24,16 +44,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Hongbo Yang, Yu Luan, Tingting Liu, Hyung Joo Lee, Li Fang, Yanli Wang, Xiaotao Wang, Bo Zhang, Qiushi Jin, Khai Chung Ang, Xiaoyun Xing, Juan Wang, Jie Xu, Fan Song, Iyyanki Sriranga, Chachrit Khunsriraksakul, Tarik Salameh, Daofeng Li, Mayank N. K. Choudhary, Jacek Topczewski, Kai Wang, Glenn S. Gerhard, Ross C. Hardison, Ting Wang, Keith C. Cheng, Feng Yue</p>
 			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">The zebrafish (Danio rerio) has been widely used in the study of human disease and development, and about 70% of the protein-coding genes are conserved between the two species1. However, studies in zebrafish remain constrained by the sparse annotation of functional control elements in the zebrafish genome. Here we performed RNA sequencing, assay for transposase-accessible chromatin using sequencing (ATAC-seq), chromatin immunoprecipitation with sequencing, whole-genome bisulfite sequencing, and chromosome conformation capture (Hi-C) experiments in up to eleven adult and two embryonic tissues to generate a comprehensive map of transcriptomes, cis-regulatory elements, heterochromatin, methylomes and 3D genome organization in the zebrafish Tübingen reference strain. [...]</p>]]></description>
 	  <pubDate>25 Nov 2020</pubDate>
-  </item>
-
-     <item>
-	  <title>
-		  Stress-induced RNA–chromatin interactions promote endothelial dysfunction</title>
-	  <link><![CDATA[https://www.nature.com/articles/s41467-020-18957-w]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_comm.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Riccardo Calandrelli, Lixia Xu, Yingjun Luo, Weixin Wu, Xiaochen Fan, Tri Nguyen, Chien-Ju Chen, Kiran Sriram, Xiaofang Tang, Andrew B. Burns, Rama Natarajan, Zhen Bouman Chen, Sheng Zhong</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Chromatin-associated RNA (caRNA) has been proposed as a type of epigenomic modifier. Here, we test whether environmental stress can induce cellular dysfunction through modulating RNA-chromatin interactions. We induce endothelial cell (EC) dysfunction with high glucose and TNFα (H + T), that mimic the common stress in diabetes mellitus. We characterize the H + T-induced changes in gene expression by single cell (sc)RNA-seq, DNA interactions by Hi-C, and RNA-chromatin interactions by iMARGI. [...] Taken together, caRNA-mediated dysregulation of gene expression modulates EC dysfunction, a crucial mechanism underlying numerous diseases.</p>]]></description>
-	  <pubDate>15 Oct 2020</pubDate>
   </item>
   
 
