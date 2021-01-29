@@ -8,6 +8,16 @@
   
    <item>
 	  <title>
+		  SPIN reveals genome-wide landscape of nuclear compartmentalization</title>
+	  <link><![CDATA[https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02253-3]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/genome_biology.jpeg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Yuchuan Wang, Yang Zhang, Ruochi Zhang, Tom van Schaik, Liguo Zhang, Takayo Sasaki, Daniel Peric-Hupkes, Yu Chen, David M. Gilbert, Bas van Steensel, Andrew S. Belmont, Jian Ma</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">We report SPIN, an integrative computational method to reveal genome-wide intranuclear chromosome positioning and nuclear compartmentalization relative to multiple nuclear structures, which are pivotal for modulating genome function. As a proof-of-principle, we use SPIN to integrate nuclear compartment mapping (TSA-seq and DamID) and chromatin interaction data (Hi-C) from K562 cells to identify 10 spatial compartmentalization states genome-wide relative to nuclear speckles, lamina, and putative associations with nucleoli. These SPIN states show novel patterns of genome spatial organization and their relation to other 3D genome features and genome function (transcription and replication timing). SPIN provides critical insights into nuclear spatial and functional compartmentalization.</p>]]></description>
+	  <pubDate>14 Jan 2021</pubDate>
+  </item>
+
+   <item>
+	  <title>
 		  TSA-seq reveals a largely conserved genome organization relative to nuclear speckles with small position changes tightly correlated with gene expression changes</title>
 	  <link><![CDATA[https://genome.cshlp.org/content/early/2020/12/18/gr.266239.120]]></link>
 	  <description>
@@ -34,16 +44,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_comm.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">He Fang, Giancarlo Bonora, Jordan P. Lewandowski, Jitendra Thakur, Galina N. Filippova, Steven Henikoff, Jay Shendure, Zhijun Duan, John L. Rinn, Xinxian Deng, William S. Noble, Christine M. Disteche</p>
 			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Firre encodes a lncRNA involved in nuclear organization. Here, we show that Firre RNA expressed from the active X chromosome maintains histone H3K27me3 enrichment on the inactive X chromosome (Xi) in somatic cells. This trans-acting effect involves SUZ12, reflecting interactions between Firre RNA and components of the Polycomb repressive complexes. Without Firre RNA, H3K27me3 decreases on the Xi and the Xi-perinucleolar location is disrupted, possibly due to decreased CTCF binding on the Xi. [...]</p>]]></description>
 	  <pubDate>27 Nov 2020</pubDate>
-  </item>
-
-   <item>
-	  <title>
-		  A map of cis-regulatory elements and 3D genome structures in zebrafish</title>
-	  <link><![CDATA[https://www.nature.com/articles/s41586-020-2962-9]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Hongbo Yang, Yu Luan, Tingting Liu, Hyung Joo Lee, Li Fang, Yanli Wang, Xiaotao Wang, Bo Zhang, Qiushi Jin, Khai Chung Ang, Xiaoyun Xing, Juan Wang, Jie Xu, Fan Song, Iyyanki Sriranga, Chachrit Khunsriraksakul, Tarik Salameh, Daofeng Li, Mayank N. K. Choudhary, Jacek Topczewski, Kai Wang, Glenn S. Gerhard, Ross C. Hardison, Ting Wang, Keith C. Cheng, Feng Yue</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">The zebrafish (Danio rerio) has been widely used in the study of human disease and development, and about 70% of the protein-coding genes are conserved between the two species1. However, studies in zebrafish remain constrained by the sparse annotation of functional control elements in the zebrafish genome. Here we performed RNA sequencing, assay for transposase-accessible chromatin using sequencing (ATAC-seq), chromatin immunoprecipitation with sequencing, whole-genome bisulfite sequencing, and chromosome conformation capture (Hi-C) experiments in up to eleven adult and two embryonic tissues to generate a comprehensive map of transcriptomes, cis-regulatory elements, heterochromatin, methylomes and 3D genome organization in the zebrafish Tübingen reference strain. [...]</p>]]></description>
-	  <pubDate>25 Nov 2020</pubDate>
   </item>
   
 

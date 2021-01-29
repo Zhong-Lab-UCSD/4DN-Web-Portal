@@ -6,15 +6,35 @@
   <link>http://www.4dnucleome.org</link>
   <description>4D Nucleome pre-prints</description>
 
+
+<item>
+	  <title>
+		  Cohesin-mediated loop anchors confine the location of human replication origins</title>
+	  <link><![CDATA[https://doi.org/10.1101/2021.01.05.425437]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Emerson, D. J., Zhao, P. A., Klein, K., Ge, C., Zhou, L., Sasaki, T., Yang, L., Venvev, S. V., Gibcus, J. H., Dekker, J., Gilbert, D. M., Phillips-Cremins, J. E.</p>
+		  ]]></description>
+	  <pubDate>06 Jan 2021</pubDate>
+  </item>
+
 <item>
 	  <title>
 		  Systematic evaluation of chromosome conformation capture assays</title>
 	  <link><![CDATA[https://doi.org/10.1101/2020.12.26.424448]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Akgol Oksuz, B., Yang, L., Abraham, S., Venev, S. V., Krietenstein, N., Parsi, K. M., Ozadam, H., Oomen, M. E., Nand, A., Mao, H., Genga, R. M. J., Maehr, R., Rando, O., Mirny, L., Gibcus, J. H., Dekker, J.
-</p>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Akgol Oksuz, B., Yang, L., Abraham, S., Venev, S. V., Krietenstein, N., Parsi, K. M., Ozadam, H., Oomen, M. E., Nand, A., Mao, H., Genga, R. M. J., Maehr, R., Rando, O., Mirny, L., Gibcus, J. H., Dekker, J.</p>
 		  ]]></description>
 	  <pubDate>27 Dec 2020</pubDate>
+  </item>
+
+  <item>
+	  <title>
+		  Mechanical frustration of phase separation in the cell nucleus by chromatin</title>
+	  <link><![CDATA[https://doi.org/10.1101/2020.12.24.424222]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Zhang, Y., Lee, D. S. W., Meir, Y., Brangwynne, C. P., Wingreen, N. S.</p>
+		  ]]></description>
+	  <pubDate>24 Dec 2020</pubDate>
   </item>
 
 <item>
@@ -55,36 +75,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Zhang, R., Zhou, T., Ma, J.</p>
 		  ]]></description>
 	  <pubDate>15 Dec 2020</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  SPICEMIX: Integrative single-cell spatial modeling for inferring cell identity</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.11.29.383067]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Chidester, B., Zhou, T., Ma, J.</p>
-		  ]]></description>
-	  <pubDate>30 Nov 2020</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  DANGO: Predicting higher-order genetic interactions</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.11.26.400739]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Zhang, R., Ma, J., Ma, J.</p>
-		  ]]></description>
-	  <pubDate>27 Nov 2020</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  3D super-resolution fluorescence microscopy maps the variable molecular architecture of the Nuclear Pore Complex</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.11.27.386599]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Jimenez Sabinina, V., Hossain, M. J., Heriche, J.-K., Hoess, P., Nijmeijer, B., Mosalaganti, S., Kueblbeck, M., Callegari, A., Szymborska, A., Beck, M., Ries, J., Ellenberg, J.</p>
-		  ]]></description>
-	  <pubDate>27 Nov 2020</pubDate>
   </item>
  
 
