@@ -6,6 +6,16 @@
   <link>http://www.4dnucleome.org</link>
   <description>4D Nucleome pre-prints</description>
 
+<item>
+	  <title>
+		  Disruption of nuclear architecture as a cause of COVID-19 induced anosmia</title>
+	  <link><![CDATA[https://doi.org/10.1101/2021.02.09.430314]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Zazhytska, M., Kodra, A., Hoagland, D. A., Fullard, J., Shayya, H. J., Omer, A., Firestein, S., Gong, Q., Canoll, P., Goldman, J. E., Roussos, P., tenOever, B. R., Overdevest, J. B., Lomvardas, S.</p>
+		  ]]></description>
+	  <pubDate>09 Feb 2021</pubDate>
+  </item>
+
 
 <item>
 	  <title>
@@ -35,46 +45,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Zhang, Y., Lee, D. S. W., Meir, Y., Brangwynne, C. P., Wingreen, N. S.</p>
 		  ]]></description>
 	  <pubDate>24 Dec 2020</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Multi-omics analysis of chromatin accessibility and interactions with transcriptome by HiCAR</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.11.02.366062]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Wei, X., Xiang, Y., Shan, R., Peters, D. T., Sun, T., Lin, X., Li, W., Diao, Y.</p>
-		  ]]></description>
-	  <pubDate>19 Dec 2020</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Simple biochemical features underlie transcriptional activation domain diversity and dynamic, fuzzy binding to Mediator</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.12.18.423551]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Sanborn, A. L., Yeh, B. T., Feigerle, J. T., Hao, C. V., Townshend, R. J. L., Aiden, E. L., Dror, R. O., Kornberg, R. D.</p>
-		  ]]></description>
-	  <pubDate>18 Dec 2020</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  SnapHiC: a computational pipeline to map chromatin contacts from single cell Hi-C data</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.12.13.422543]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Yu, M., Abnousi, A., Zhang, Y., Li, G., Lee, L., Chen, Z., Fang, R., Wen, J., Sun, Q., Li, Y., Ren, B., Hu, M.</p>
-		  ]]></description>
-	  <pubDate>15 Dec 2020</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Multiscale and integrative single-cell Hi-C analysis with Higashi</title>
-	  <link><![CDATA[https://doi.org/10.1101/2020.12.13.422537]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Zhang, R., Zhou, T., Ma, J.</p>
-		  ]]></description>
-	  <pubDate>15 Dec 2020</pubDate>
   </item>
  
 
