@@ -8,6 +8,26 @@
   
    <item>
 	  <title>
+		  Chromatin tracing and multiplexed imaging of nucleome architectures (MINA) and RNAs in single mammalian cells and tissue</title>
+	  <link><![CDATA[https://www.nature.com/articles/s41596-021-00518-0]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_protocols.jpeg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Miao Liu, Bing Yang, Mengwei Hu, Jonathan S. D. Radda, Yanbo Chen, Shengyan Jin, Yubao Cheng, Siyuan Wang</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">The genome is hierarchically organized into several 3D architectures, including chromatin loops, domains, compartments and regions associated with nuclear lamina and nucleoli. Changes in these architectures have been associated with normal development, aging and a wide range of diseases. Despite its critical importance, understanding how the genome is spatially organized in single cells, how organization varies in different cell types in mammalian tissue and how organization affects gene expression remains a major challenge. Previous approaches have been limited by a lack of capacity to directly trace chromatin folding in 3D and to simultaneously measure genomic organization in relation to other nuclear components and gene expression in the same single cells. We have developed an image-based 3D genomics technique termed ‘chromatin tracing’, which enables direct 3D tracing of chromatin folding along individual chromosomes in single cells. [...]</p>]]></description>
+	  <pubDate>26 Apr 2021</pubDate>
+  </item>
+
+   <item>
+	  <title>
+		  Integrated spatial genomics reveals global architecture of single nuclei</title>
+	  <link><![CDATA[https://www.nature.com/articles/s41586-020-03126-2]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Yodai Takei, Jina Yun, Shiwei Zheng, Noah Ollikainen, Nico Pierson, Jonathan White, Sheel Shah, Julian Thomassie, Shengbao Suo, Chee-Huat Linus Eng, Mitchell Guttman, Guo-Cheng Yuan, Long Cai</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Identifying the relationships between chromosome structures, nuclear bodies, chromatin states and gene expression is an overarching goal of nuclear-organization studies. Because individual cells appear to be highly variable at all these levels, it is essential to map different modalities in the same cells. Here we report the imaging of 3,660 chromosomal loci in single mouse embryonic stem (ES) cells using DNA seqFISH+, along with 17 chromatin marks and subnuclear structures by sequential immunofluorescence and the expression profile of 70 RNAs. [...]</p>]]></description>
+	  <pubDate>27 Jan 2021</pubDate>
+  </item>
+
+   <item>
+	  <title>
 		  SPIN reveals genome-wide landscape of nuclear compartmentalization</title>
 	  <link><![CDATA[https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02253-3]]></link>
 	  <description>

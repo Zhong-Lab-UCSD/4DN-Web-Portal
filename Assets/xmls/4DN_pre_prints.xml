@@ -8,42 +8,52 @@
 
 <item>
 	  <title>
+		  Integrated spatial genomics in tissues reveals invariant and cell type dependent nuclear architecture</title>
+	  <link><![CDATA[http://biorxiv.org/cgi/content/short/2021.04.26.441547]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Takei, Y., Zheng, S., Yun, J., Shah, S., Pierson, N., White, J., Schindler, S., Tischbirek, C., Yuan, G.-C., Cai, L.</p>
+		  ]]></description>
+	  <pubDate>27 Apr 2021</pubDate>
+  </item>
+
+<item>
+	  <title>
+		  Towards community-driven metadata standards for light microscopy: tiered specifications extending the OME model</title>
+	  <link><![CDATA[http://biorxiv.org/cgi/content/short/2021.04.25.441198]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Hammer, M., Huisman, M., Rigano, A., Boehm, U., Chambers, J. J., Gaudreault, N., North, A. J., Pimentel, J. A., Sudar, D., Bajcsy, P., Brown, C. M., Corbett, A. D., Faklaris, O., Lacoste, J., Laude, A., Nelson, G., Nitschke, R., Farzam, F., Smith, C., Grunwald, D., Strambio-De-Castillia, C.</p>
+		  ]]></description>
+	  <pubDate>26 Apr 2021</pubDate>
+  </item>
+
+<item>
+	  <title>
+		  Stripenn detects architectural stripes from chromatin conformation data using computer vision</title>
+	  <link><![CDATA[http://biorxiv.org/cgi/content/short/2021.04.16.440239]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Yoon, S., Vahedi, G.</p>
+		  ]]></description>
+	  <pubDate>18 Apr 2021</pubDate>
+  </item>
+
+  <item>
+	  <title>
+		  Quantification of durable CRISPR-based gene silencing activity</title>
+	  <link><![CDATA[http://biorxiv.org/cgi/content/short/2021.03.31.436355]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Nakamura, M., Ivec, A., Gao, Y., Qi, L. S.</p>
+		  ]]></description>
+	  <pubDate>31 Mar 2021</pubDate>
+  </item>
+
+<item>
+	  <title>
 		  Polymer physics and machine learning reveal a combinatorial code linking chromatin 3D architecture to 1D epigenetics</title>
 	  <link><![CDATA[https://doi.org/10.1101/2021.03.01.433416]]></link>
 	  <description>
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Esposito, A., Bianco, S., Chiariello, A. M., Abraham, A., Fiorillo, L., Conte, M., Campanile, R., Nicodemi, M.</p>
 		  ]]></description>
 	  <pubDate>01 Mar 2021</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Disruption of nuclear architecture as a cause of COVID-19 induced anosmia</title>
-	  <link><![CDATA[https://doi.org/10.1101/2021.02.09.430314]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Zazhytska, M., Kodra, A., Hoagland, D. A., Fullard, J., Shayya, H. J., Omer, A., Firestein, S., Gong, Q., Canoll, P., Goldman, J. E., Roussos, P., tenOever, B. R., Overdevest, J. B., Lomvardas, S.</p>
-		  ]]></description>
-	  <pubDate>09 Feb 2021</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Genome-wide variability in recombination activity is associated with meiotic chromatin organization</title>
-	  <link><![CDATA[https://doi.org/10.1101/2021.01.06.425599]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Jin, X., Fudenberg, G., Pollard, K. S.</p>
-		  ]]></description>
-	  <pubDate>07 Jan 2021</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Cohesin-mediated loop anchors confine the location of human replication origins</title>
-	  <link><![CDATA[https://doi.org/10.1101/2021.01.05.425437]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Emerson, D. J., Zhao, P. A., Klein, K., Ge, C., Zhou, L., Sasaki, T., Yang, L., Venvev, S. V., Gibcus, J. H., Dekker, J., Gilbert, D. M., Phillips-Cremins, J. E.</p>
-		  ]]></description>
-	  <pubDate>06 Jan 2021</pubDate>
   </item>
  
 
