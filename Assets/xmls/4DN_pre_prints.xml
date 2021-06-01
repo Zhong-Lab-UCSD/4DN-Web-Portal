@@ -8,6 +8,26 @@
 
 <item>
 	  <title>
+		  Micro-Meta App: an interactive software tool to facilitate the collection of microscopy metadata based on community-driven specifications</title>
+	  <link><![CDATA[https://www.biorxiv.org/content/10.1101/2021.05.31.446382]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Rigano, A., Ehmsen, S., Ozturk, S. U., Ryan, J., Balashov, A., Hammer, M., Kirli, K., Bellve, K., Boehm, U., Brown, C. M., Chambers, J. J., Coleman, R. A., Cosolo, A., Faklaris, O., Fogarty, K., Guilbert, T., Hamacher, A. B., Itano, M. S., Keeley, D. P., Kunis, S., Lacoste, J., Laude, A., Ma, W., Marcello, M., Montero-Llopis, P., Nelson, G., Nitschke, R., Pimentel, J. A., Weidtkamp-Peters, S., Park, P. J., Alver, B., Grunwald, D., Strambio-De-Castillia, C.</p>
+		  ]]></description>
+	  <pubDate>31 May 2021</pubDate>
+  </item>
+
+<item>
+	  <title>
+		  Cell-type specialization in the brain is encoded by specific long-range chromatin topologies</title>
+	  <link><![CDATA[https://www.biorxiv.org/content/10.1101/2020.04.02.020990v3]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Winick-Ng, W., Kukalev, A., Harabula, I., Zea Redondo, L., Meijer, M., Serebreni, L., Bianco, S., Szabo, D., Chiariello, A. M., Irastorza Azcarate, I., Fiorillo, L., Musella, F., Thieme, C., Irani, E., Torlai Triglia, E., Kolodziejczyk, A. A., Abentung, A., Apostolova, G., Paul, E. J., Franke, V., Kempfer, R., Akalin, A., Teichmann, S., Dechant, G., Ungless, M. A., Nicodemi, M., Castelo-Branco, G., Pombo, A.</p>
+		  ]]></description>
+	  <pubDate>12 May 2021</pubDate>
+  </item>
+
+<item>
+	  <title>
 		  Integrated spatial genomics in tissues reveals invariant and cell type dependent nuclear architecture</title>
 	  <link><![CDATA[http://biorxiv.org/cgi/content/short/2021.04.26.441547]]></link>
 	  <description>
@@ -45,26 +65,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Yoon, S., Vahedi, G.</p>
 		  ]]></description>
 	  <pubDate>18 Apr 2021</pubDate>
-  </item>
-
-  <item>
-	  <title>
-		  Quantification of durable CRISPR-based gene silencing activity</title>
-	  <link><![CDATA[http://biorxiv.org/cgi/content/short/2021.03.31.436355]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Nakamura, M., Ivec, A., Gao, Y., Qi, L. S.</p>
-		  ]]></description>
-	  <pubDate>31 Mar 2021</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Polymer physics and machine learning reveal a combinatorial code linking chromatin 3D architecture to 1D epigenetics</title>
-	  <link><![CDATA[https://doi.org/10.1101/2021.03.01.433416]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Esposito, A., Bianco, S., Chiariello, A. M., Abraham, A., Fiorillo, L., Conte, M., Campanile, R., Nicodemi, M.</p>
-		  ]]></description>
-	  <pubDate>01 Mar 2021</pubDate>
   </item>
  
 
