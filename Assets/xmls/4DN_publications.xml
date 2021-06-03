@@ -8,6 +8,16 @@
   
    <item>
 	  <title>
+		  Genome-wide detection of enhancer-hijacking events from chromatin interaction data in rearranged genomes</title>
+	  <link><![CDATA[https://www.nature.com/articles/s41592-021-01164-w]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_methods.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Xiaotao Wang, Jie Xu, Baozhen Zhang, Ye Hou, Fan Song, Huijue Lyu, Feng Yue</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Recent efforts have shown that structural variations (SVs) can disrupt three-dimensional genome organization and induce enhancer hijacking, yet no computational tools exist to identify such events from chromatin interaction data. Here, we develop NeoLoopFinder, a computational framework to identify the chromatin interactions induced by SVs, including interchromosomal translocations, large deletions and inversions. [...]</p>]]></description>
+	  <pubDate>03 June 2021</pubDate>
+  </item>
+
+   <item>
+	  <title>
 		  Chromatin architecture transitions from zebrafish sperm through early embryogenesis</title>
 	  <link><![CDATA[https://genome.cshlp.org/content/early/2021/05/18/gr.269860.120.long]]></link>
 	  <description>
