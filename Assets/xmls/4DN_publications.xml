@@ -8,6 +8,16 @@
   
    <item>
 	  <title>
+		  Deep learning connects DNA traces to transcription to reveal predictive features beyond enhancer–promoter contact</title>
+	  <link><![CDATA[https://www.nature.com/articles/s41467-021-23831-4]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_comm.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Aparna R. Rajpurkar, Leslie J. Mateo, Sedona E. Murphy, Alistair N. Boettiger</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Chromatin architecture plays an important role in gene regulation. Recent advances in super-resolution microscopy have made it possible to measure chromatin 3D structure and transcription in thousands of single cells. However, leveraging these complex data sets with a computationally unbiased method has been challenging. Here, we present a deep learning-based approach to better understand to what degree chromatin structure relates to transcriptional state of individual cells. [...]</p>]]></description>
+	  <pubDate>08 June 2021</pubDate>
+  </item>
+
+   <item>
+	  <title>
 		  Genome-wide detection of enhancer-hijacking events from chromatin interaction data in rearranged genomes</title>
 	  <link><![CDATA[https://www.nature.com/articles/s41592-021-01164-w]]></link>
 	  <description>
