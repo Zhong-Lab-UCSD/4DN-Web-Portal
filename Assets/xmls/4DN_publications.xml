@@ -8,6 +8,16 @@
   
    <item>
 	  <title>
+		  RNA m6A modification orchestrates a LINE-1–host interaction that facilitates retrotransposition and contributes to long gene vulnerability</title>
+	  <link><![CDATA[https://www.nature.com/articles/s41422-021-00515-8]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/cell_research.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Feng Xiong, Ruoyu Wang, Joo-Hyung Lee, Shenglan Li, Shin-Fu Chen, Zian Liao, Lana Al Hasani, Phuoc T. Nguyen, Xiaoyu Zhu, Joanna Krakowiak, Dung-Fang Lee, Leng Han, Kuang-Lei Tsai, Ying Liu, Wenbo Li</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">The molecular basis underlying the interaction between retrotransposable elements (RTEs) and the human genome remains poorly understood. Here, we profiled N6-methyladenosine (m6A) deposition on nascent RNAs in human cells by developing a new method MINT-Seq, which revealed that many classes of RTE RNAs, particularly intronic LINE-1s (L1s), are strongly methylated. These m6A-marked intronic L1s (MILs) are evolutionarily young, sense-oriented to hosting genes, and are bound by a dozen RNA binding proteins (RBPs) that are putative novel readers of m6A-modified RNAs, including a nuclear matrix protein SAFB. Notably, m6A positively controls the expression of both autonomous L1s and co-transcribed L1 relics, promoting L1 retrotransposition. [...]</p>]]></description>
+	  <pubDate>09 June 2021</pubDate>
+  </item>
+
+   <item>
+	  <title>
 		  Deep learning connects DNA traces to transcription to reveal predictive features beyond enhancer–promoter contact</title>
 	  <link><![CDATA[https://www.nature.com/articles/s41467-021-23831-4]]></link>
 	  <description>
@@ -54,26 +64,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_genetics.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Hui Huang, Quan Zhu, Adam Jussila, Yuanyuan Han, Bogdan Bintu, Colin Kern, Mattia Conte, Yanxiao Zhang, Simona Bianco, Andrea M. Chiariello, Miao Yu, Rong Hu, Melodi Tastemel, Ivan Juric, Ming Hu, Mario Nicodemi, Xiaowei Zhuang, Bing Ren</p>
 			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Insulators play a critical role in spatiotemporal gene regulation in animals. The evolutionarily conserved CCCTC-binding factor (CTCF) is required for insulator function in mammals, but not all of its binding sites act as insulators. Here we explore the sequence requirements of CTCF-mediated transcriptional insulation using a sensitive insulator reporter in mouse embryonic stem cells. We find that insulation potency depends on the number of CTCF-binding sites in tandem. Furthermore, CTCF-mediated insulation is dependent on upstream flanking sequences at its binding sites. CTCF-binding sites at topologically associating domain boundaries are more likely to function as insulators than those outside topologically associating domain boundaries, independently of binding strength. We demonstrate that insulators form local chromatin domain boundaries and weaken enhancer–promoter contacts. Taken together, our results provide genetic, molecular and structural evidence connecting chromatin topology to the action of insulators in the mammalian genome.</p>]]></description>
 	  <pubDate>17 May 2021</pubDate>
-  </item>
-
-   <item>
-	  <title>
-		  Genetic and spatial organization of the unusual chromosomes of the dinoflagellate <i>Symbiodinium microadriaticum</i></title>
-	  <link><![CDATA[https://www.nature.com/articles/s41588-021-00841-y]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_genetics.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Ankita Nand, Ye Zhan, Octavio R. Salazar, Manuel Aranda, Christian R. Voolstra, Job Dekker</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Dinoflagellates are main primary producers in the oceans, the cause of algal blooms and endosymbionts of marine invertebrates. Much remains to be understood about their biology, including their peculiar crystalline chromosomes. We assembled 94 chromosome-scale scaffolds of the genome of the coral endosymbiont Symbiodinium microadriaticum and analyzed their organization. Genes are enriched towards the ends of chromosomes and are arranged in alternating unidirectional blocks. Some chromosomes are enriched for genes involved in specific biological processes. The chromosomes fold as linear rods and each is composed of a series of structural domains separated by boundaries. Domain boundaries are positioned at sites where transcription of two gene blocks converges and disappear when cells are treated with chemicals that block transcription, indicating correlations between gene orientation, transcription and chromosome folding. The description of the genetic and spatial organization of the S. microadriaticum genome provides a foundation for deeper exploration of the extraordinary biology of dinoflagellates and their chromosomes.</p>]]></description>
-	  <pubDate>29 Apr 2021</pubDate>
-  </item>
-
-   <item>
-	  <title>
-		  Chromatin tracing and multiplexed imaging of nucleome architectures (MINA) and RNAs in single mammalian cells and tissue</title>
-	  <link><![CDATA[https://www.nature.com/articles/s41596-021-00518-0]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_protocols.jpeg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Miao Liu, Bing Yang, Mengwei Hu, Jonathan S. D. Radda, Yanbo Chen, Shengyan Jin, Yubao Cheng, Siyuan Wang</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">The genome is hierarchically organized into several 3D architectures, including chromatin loops, domains, compartments and regions associated with nuclear lamina and nucleoli. Changes in these architectures have been associated with normal development, aging and a wide range of diseases. Despite its critical importance, understanding how the genome is spatially organized in single cells, how organization varies in different cell types in mammalian tissue and how organization affects gene expression remains a major challenge. Previous approaches have been limited by a lack of capacity to directly trace chromatin folding in 3D and to simultaneously measure genomic organization in relation to other nuclear components and gene expression in the same single cells. We have developed an image-based 3D genomics technique termed ‘chromatin tracing’, which enables direct 3D tracing of chromatin folding along individual chromosomes in single cells. [...]</p>]]></description>
-	  <pubDate>26 Apr 2021</pubDate>
   </item>
   
 
