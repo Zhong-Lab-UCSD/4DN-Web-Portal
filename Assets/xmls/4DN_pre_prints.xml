@@ -8,6 +8,26 @@
 
 <item>
 	  <title>
+		  Three-dimensional organization of chromatin associated RNAs and their role in chromatin architecture in human cells</title>
+	  <link><![CDATA[https://www.biorxiv.org/content/10.1101/2021.06.10.447969]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Calandrelli, R., Wen, X., Nguyen, T. C., Chen, C.-J., Qi, Z., Chen, W., Yan, Z., Wu, W., Zaleta-Rivera, K., Hu, R., Yu, M., Wang, Y., Ma, J., Ren, B., Zhong, S.</p>
+		  ]]></description>
+	  <pubDate>11 Jun 2021</pubDate>
+  </item>
+
+  <item>
+	  <title>
+		  Systematic reconstruction of the cellular trajectories of mammalian embryogenesis</title>
+	  <link><![CDATA[https://www.biorxiv.org/content/10.1101/2021.06.08.447626]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Qiu, C., Cao, J., Li, T., Srivatsan, S., Huang, X., Calderon, D., Noble, W. S., Disteche, C. M., Spielmann, M., Moens, C. B., Trapnell, C., Shendure, J.</p>
+		  ]]></description>
+	  <pubDate>9 Jun 2021</pubDate>
+  </item>
+
+<item>
+	  <title>
 		  Micro-Meta App: an interactive software tool to facilitate the collection of microscopy metadata based on community-driven specifications</title>
 	  <link><![CDATA[https://www.biorxiv.org/content/10.1101/2021.05.31.446382]]></link>
 	  <description>
@@ -24,47 +44,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Winick-Ng, W., Kukalev, A., Harabula, I., Zea Redondo, L., Meijer, M., Serebreni, L., Bianco, S., Szabo, D., Chiariello, A. M., Irastorza Azcarate, I., Fiorillo, L., Musella, F., Thieme, C., Irani, E., Torlai Triglia, E., Kolodziejczyk, A. A., Abentung, A., Apostolova, G., Paul, E. J., Franke, V., Kempfer, R., Akalin, A., Teichmann, S., Dechant, G., Ungless, M. A., Nicodemi, M., Castelo-Branco, G., Pombo, A.</p>
 		  ]]></description>
 	  <pubDate>12 May 2021</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Integrated spatial genomics in tissues reveals invariant and cell type dependent nuclear architecture</title>
-	  <link><![CDATA[http://biorxiv.org/cgi/content/short/2021.04.26.441547]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Takei, Y., Zheng, S., Yun, J., Shah, S., Pierson, N., White, J., Schindler, S., Tischbirek, C., Yuan, G.-C., Cai, L.</p>
-		  ]]></description>
-	  <pubDate>27 Apr 2021</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Towards community-driven metadata standards for light microscopy: tiered specifications extending the OME model</title>
-	  <link><![CDATA[http://biorxiv.org/cgi/content/short/2021.04.25.441198]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Hammer, M., Huisman, M., Rigano, A., Boehm, U., Chambers, J. J., Gaudreault, N., North, A. J., Pimentel, J. A., Sudar, D., Bajcsy, P., Brown, C. M., Corbett, A. D., Faklaris, O., Lacoste, J., Laude, A., Nelson, G., Nitschke, R., Farzam, F., Smith, C., Grunwald, D., Strambio-De-Castillia, C.</p>
-		  ]]></description>
-	  <pubDate>26 Apr 2021</pubDate>
-  </item>
-
-  <item>
-	  <title>
-		  A perspective on Microscopy Metadata: data provenance and quality control</title>
-	  <link><![CDATA[https://arxiv.org/abs/1910.11370]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Maximiliaan Huisman, Mathias Hammer, Alex Rigano, Ulrike Boehm, James J. Chambers, Nathalie Gaudreault, Alison J. North, Jaime A. Pimentel, Damir Sudar, Peter Bajcsy, Claire M. Brown, Alexander D. Corbett, Orestis Faklaris, Judith Lacoste, Alex Laude, Glyn Nelson, Roland Nitschke, David Grunwald, Caterina Strambio-De-Castillia
-</p>
-		  ]]></description>
-	  <pubDate>26 Apr 2021</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Stripenn detects architectural stripes from chromatin conformation data using computer vision</title>
-	  <link><![CDATA[http://biorxiv.org/cgi/content/short/2021.04.16.440239]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Yoon, S., Vahedi, G.</p>
-		  ]]></description>
-	  <pubDate>18 Apr 2021</pubDate>
   </item>
  
 
