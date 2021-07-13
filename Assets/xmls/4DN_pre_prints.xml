@@ -8,12 +8,32 @@
 
 <item>
 	  <title>
+		  Mapping the nuclear microenvironment of genes at agenome-wide scale</title>
+	  <link><![CDATA[https://www.biorxiv.org/content/10.1101/2021.07.11.451976]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Yildirim, A., Hua, N., Boninsegna, L., Polles, G., Gong, K., Hao, S., Li, W., Zhou, X. J., Alber, F.</p>
+		  ]]></description>
+	  <pubDate>12 Jul 2021</pubDate>
+  </item>
+
+<item>
+	  <title>
 		  Macrophage inflammatory and regenerative response periodicity is programmed by cell cycle and chromatin state</title>
 	  <link><![CDATA[https://www.biorxiv.org/content/10.1101/2021.06.24.449850]]></link>
 	  <description>
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Daniel, B., Belk, J. A., Meier, S. L., Chen, A. Y., Sandor, K., Qi, Y., Kitano, H., Wheeler, J. R., Foster, D. S., Januszyk, M. S., Longaker, M. T., Chang, H. Y., Satpathy, A. T.</p>
 		  ]]></description>
 	  <pubDate>25 Jun 2021</pubDate>
+  </item>
+
+  <item>
+	  <title>
+		  ShinyArchR.UiO: User-friendly, integrative and open-source tool for visualisation of single-cell ATAC-seq data using ArchR</title>
+	  <link><![CDATA[https://www.biorxiv.org/content/10.1101/2021.06.21.449316]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Sharma, A., Akshay, A., Rogne, M., Eskeland, R.</p>
+		  ]]></description>
+	  <pubDate>22 Jun 2021</pubDate>
   </item>
 
 
