@@ -8,6 +8,27 @@
 
 <item>
 	  <title>
+		  Spatiotemporal co-dependency between macrophages and exhausted CD8+ T cells in cancer</title>
+	  <link><![CDATA[https://www.biorxiv.org/content/10.1101/2021.09.27.461866]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Kersten, K., Hu, K. H., Combes, A. J., Samad, B., Harwin, T., Ray, A., Rao, A. A., Cai, E., Marchuk, K., Artichoker, J., Courau, T., Shi, Q., Belk, J., Satpathy, A. T., Krummel, M. F.</p>
+		  ]]></description>
+	  <pubDate>28 Sep 2021</pubDate>
+  </item>
+
+<item>
+	  <title>
+		  Mapping the nuclear microenvironment of genes at agenome-wide scale</title>
+	  <link><![CDATA[https://www.biorxiv.org/content/10.1101/2021.09.27.461389]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Pai, J. A., Chow, A., Sauter, J., Mattar, M., Rizvi, H., Woo, H. J., Shah, N., Uddin, F., Quintanal-Villalonga, A., Chan, J. M., Manoj, P., Allaj, V., Baine, M., Chaft, J. E., Plodkowski, A. J., Won, H., Wells, D., Donoghue, M. T. A., de Stanchina, E., Sen, T., Wolchok, J. D., Houck-Loomis, B., Merghoub, T., Rudin, C. M., Satpathy, A. T., Hellmann, M. D.</p>
+		  ]]></description>
+	  <pubDate>27 Sep 2021</pubDate>
+  </item>
+
+
+<item>
+	  <title>
 		  Pairs and Pairix: a file format and a tool for efficient storage and retrieval for Hi-C read pairs</title>
 	  <link><![CDATA[https://www.biorxiv.org/content/10.1101/2021.08.24.457552]]></link>
 	  <description>
@@ -55,26 +76,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Spracklin, G., Abdennur, N. A., Imakaev, M., Chowdhury, N., Pradhan, S., Mirny, L., Dekker, J.</p>
 		  ]]></description>
 	  <pubDate>06 Aug 2021</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  SARS-CoV-2 Restructures the Host Chromatin Architecture</title>
-	  <link><![CDATA[https://www.biorxiv.org/content/10.1101/2021.07.20.453146]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Wang, R., Lee, J.-H., Xiong, F., Kim, J., Al Hasani, L., Yuan, X., Shivshankar, P., Krakowiak, J., Qi, C., Wang, Y., Eltzschig, H. K., Li, W.</p>
-		  ]]></description>
-	  <pubDate>21 Jul 2021</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Mapping the nuclear microenvironment of genes at agenome-wide scale</title>
-	  <link><![CDATA[https://www.biorxiv.org/content/10.1101/2021.07.11.451976]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Yildirim, A., Hua, N., Boninsegna, L., Polles, G., Gong, K., Hao, S., Li, W., Zhou, X. J., Alber, F.</p>
-		  ]]></description>
-	  <pubDate>12 Jul 2021</pubDate>
   </item>
  
 
