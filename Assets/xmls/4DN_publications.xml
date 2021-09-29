@@ -6,6 +6,18 @@
   <link>https://www.4dnucleome.org/4dn-publications.html</link>
   <description>4D Nucleome Publications</description>
   
+  
+	<item>
+	  <title>
+		  Single-cell landscape of nuclear configuration and gene expression during stem cell differentiation and X inactivation</title>
+	  <link><![CDATA[https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02432-w]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/genome_biology.jpeg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Giancarlo Bonora, Vijay Ramani, Ritambhara Singh, He Fang, Dana L. Jackson, Sanjay Srivatsan, Ruolan Qiu, Choli Lee, Cole Trapnell, Jay Shendure, Zhijun Duan, Xinxian Deng, William S. Noble, Christine M. Disteche </p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Mammalian development is associated with extensive changes in gene expression, chromatin accessibility, and nuclear structure. Here, we follow such changes associated with mouse embryonic stem cell differentiation and X inactivation by integrating, for the first time, allele-specific data from these three modalities obtained by high-throughput single-cell RNA-seq, ATAC-seq, and Hi-C. [...]</p>]]></description>
+	  <pubDate>27 Sep 2021</pubDate>
+  </item>
+
+
 	<item>
 	  <title>
 		  Systematic evaluation of chromosome conformation capture assays</title>
@@ -24,46 +36,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_biotech.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Mary V. Arrastia, Joanna W. Jachowicz, Noah Ollikainen, Matthew S. Curtis, Charlotte Lai, Sofia A. Quinodoz, David A. Selck, Rustem F. Ismagilov, Mitchell Guttman</p>
 			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Although three-dimensional (3D) genome organization is central to many aspects of nuclear function, it has been difficult to measure at the single-cell level. To address this, we developed ‘single-cell split-pool recognition of interactions by tag extension’ (scSPRITE). scSPRITE uses split-and-pool barcoding to tag DNA fragments in the same nucleus and their 3D spatial arrangement. Because scSPRITE measures multiway DNA contacts, it generates higher-resolution maps within an individual cell than can be achieved by proximity ligation. [...]</p>]]></description>
 	  <pubDate>23 Aug 2021</pubDate>
-  </item>
-
-   <item>
-	  <title>
-		  HP1α is a chromatin crosslinker that controls nuclear and mitotic chromosome mechanics</title>
-	  <link><![CDATA[https://www.nature.com/articles/s41422-021-00515-8]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/elife.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Amy R Strom, Ronald J Biggs, Edward J Banigan, Xiaotao Wang, Katherine Chiu, Cameron Herman, Jimena Collado, Feng Yue, Joan C Ritland Politz, Leah J Tait, David Scalzo, Agnes Telling, Mark Groudine, Clifford P Brangwynne, John F Marko, Andrew D Stephens</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Chromatin, which consists of DNA and associated proteins, contains genetic information and is a mechanical component of the nucleus. Heterochromatic histone methylation controls nucleus and chromosome stiffness, but the contribution of heterochromatin protein HP1α (CBX5) is unknown. We used a novel HP1α auxin-inducible degron human cell line to rapidly degrade HP1α. Degradation did not alter transcription, local chromatin compaction, or histone methylation, but did decrease chromatin stiffness. [...]</p>]]></description>
-	  <pubDate>09 Jun 2021</pubDate>
-  </item>
-
-   <item>
-	  <title>
-		  RNA m6A modification orchestrates a LINE-1–host interaction that facilitates retrotransposition and contributes to long gene vulnerability</title>
-	  <link><![CDATA[https://www.nature.com/articles/s41422-021-00515-8]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/cell_research.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Feng Xiong, Ruoyu Wang, Joo-Hyung Lee, Shenglan Li, Shin-Fu Chen, Zian Liao, Lana Al Hasani, Phuoc T. Nguyen, Xiaoyu Zhu, Joanna Krakowiak, Dung-Fang Lee, Leng Han, Kuang-Lei Tsai, Ying Liu, Wenbo Li</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">The molecular basis underlying the interaction between retrotransposable elements (RTEs) and the human genome remains poorly understood. Here, we profiled N6-methyladenosine (m6A) deposition on nascent RNAs in human cells by developing a new method MINT-Seq, which revealed that many classes of RTE RNAs, particularly intronic LINE-1s (L1s), are strongly methylated. These m6A-marked intronic L1s (MILs) are evolutionarily young, sense-oriented to hosting genes, and are bound by a dozen RNA binding proteins (RBPs) that are putative novel readers of m6A-modified RNAs, including a nuclear matrix protein SAFB. Notably, m6A positively controls the expression of both autonomous L1s and co-transcribed L1 relics, promoting L1 retrotransposition. [...]</p>]]></description>
-	  <pubDate>09 Jun 2021</pubDate>
-  </item>
-
-   <item>
-	  <title>
-		  Deep learning connects DNA traces to transcription to reveal predictive features beyond enhancer–promoter contact</title>
-	  <link><![CDATA[https://www.nature.com/articles/s41467-021-23831-4]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_comm.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Aparna R. Rajpurkar, Leslie J. Mateo, Sedona E. Murphy, Alistair N. Boettiger</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Chromatin architecture plays an important role in gene regulation. Recent advances in super-resolution microscopy have made it possible to measure chromatin 3D structure and transcription in thousands of single cells. However, leveraging these complex data sets with a computationally unbiased method has been challenging. Here, we present a deep learning-based approach to better understand to what degree chromatin structure relates to transcriptional state of individual cells. [...]</p>]]></description>
-	  <pubDate>08 Jun 2021</pubDate>
-  </item>
-
-   <item>
-	  <title>
-		  Genome-wide detection of enhancer-hijacking events from chromatin interaction data in rearranged genomes</title>
-	  <link><![CDATA[https://www.nature.com/articles/s41592-021-01164-w]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_methods.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Xiaotao Wang, Jie Xu, Baozhen Zhang, Ye Hou, Fan Song, Huijue Lyu, Feng Yue</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Recent efforts have shown that structural variations (SVs) can disrupt three-dimensional genome organization and induce enhancer hijacking, yet no computational tools exist to identify such events from chromatin interaction data. Here, we develop NeoLoopFinder, a computational framework to identify the chromatin interactions induced by SVs, including interchromosomal translocations, large deletions and inversions. [...]</p>]]></description>
-	  <pubDate>03 Jun 2021</pubDate>
   </item>
   
 
