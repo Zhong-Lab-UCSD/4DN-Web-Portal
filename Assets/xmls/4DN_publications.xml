@@ -6,7 +6,27 @@
   <link>https://www.4dnucleome.org/4dn-publications.html</link>
   <description>4D Nucleome Publications</description>
   
-  
+    <item>
+	  <title>
+		  Multiscale and integrative single-cell Hi-C analysis with Higashi</title>
+	  <link><![CDATA[https://www.nature.com/articles/s41587-021-01034-y]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_biotech.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Ruochi Zhang, Tianming Zhou & Jian Ma</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Single-cell Hi-C (scHi-C) can identify cell-to-cell variability of three-dimensional (3D) chromatin organization, but the sparseness of measured interactions poses an analysis challenge. Here we report Higashi, an algorithm based on hypergraph representation learning that can incorporate the latent correlations among single cells to enhance overall imputation of contact maps. Higashi outperforms existing methods for embedding and imputation of scHi-C data and is able to identify multiscale 3D genome features in single cells, such as compartmentalization and TAD-like domain boundaries, allowing refined delineation of their cell-to-cell variability. [...]</p>]]></description>
+	  <pubDate>11 Oct 2021</pubDate>
+  </item>
+
+
+   <item>
+	  <title>
+		  BRD4 orchestrates genome folding to promote neural crest differentiation</title>
+	  <link><![CDATA[https://www.nature.com/articles/s41588-021-00934-8]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_genetics.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Ricardo Linares-Saldana, Wonho Kim, Nikhita A. Bolar, Haoyue Zhang, Bailey A. Koch-Bojalad, Sora Yoon, Parisha P. Shah, Ashley Karnay, Daniel S. Park, Jennifer M. Luppino, Son C. Nguyen, Arun Padmanabhan, Cheryl L. Smith, Andrey Poleshko, Qiaohong Wang, Li Li, Deepak Srivastava, Golnaz Vahedi, Gwang Hyeon Eom, Gerd A. Blobel, Eric F. Joyce & Rajan Jain</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Higher-order chromatin structure regulates gene expression, and mutations in proteins mediating genome folding underlie developmental disorders known as cohesinopathies. However, the relationship between three-dimensional genome organization and embryonic development remains unclear. Here we define a role for bromodomain-containing protein 4 (BRD4) in genome folding, and leverage it to understand the importance of genome folding in neural crest progenitor differentiation. [...]</p>]]></description>
+	  <pubDate>05 Oct 2021</pubDate>
+  </item>
+
 	<item>
 	  <title>
 		  Single-cell landscape of nuclear configuration and gene expression during stem cell differentiation and X inactivation</title>
@@ -26,16 +46,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_methods.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Betul Akgol Oksuz, Liyan Yang, Sameer Abraham, Sergey V. Venev, Nils Krietenstein, Krishna Mohan Parsi, Hakan Ozadam, Marlies E. Oomen, Ankita Nand, Hui Mao, Ryan M. J. Genga, Rene Maehr, Oliver J. Rando, Leonid A. Mirny, Johan H. Gibcus, Job Dekker</p>
 			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Chromosome conformation capture (3C) assays are used to map chromatin interactions genome-wide. Chromatin interaction maps provide insights into the spatial organization of chromosomes and the mechanisms by which they fold. Hi-C and Micro-C are widely used 3C protocols that differ in key experimental parameters including cross-linking chemistry and chromatin fragmentation strategy. To understand how the choice of experimental protocol determines the ability to detect and quantify aspects of chromosome folding we have performed a systematic evaluation of 3C experimental parameters. We identified optimal protocol variants for either loop or compartment detection, optimizing fragment size and cross-linking chemistry. [...]</p>]]></description>
 	  <pubDate>03 Sep 2021</pubDate>
-  </item>
-
-   <item>
-	  <title>
-		  Single-cell measurement of higher-order 3D genome organization with scSPRITE</title>
-	  <link><![CDATA[https://www.nature.com/articles/s41587-021-00998-1]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_biotech.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Mary V. Arrastia, Joanna W. Jachowicz, Noah Ollikainen, Matthew S. Curtis, Charlotte Lai, Sofia A. Quinodoz, David A. Selck, Rustem F. Ismagilov, Mitchell Guttman</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Although three-dimensional (3D) genome organization is central to many aspects of nuclear function, it has been difficult to measure at the single-cell level. To address this, we developed ‘single-cell split-pool recognition of interactions by tag extension’ (scSPRITE). scSPRITE uses split-and-pool barcoding to tag DNA fragments in the same nucleus and their 3D spatial arrangement. Because scSPRITE measures multiway DNA contacts, it generates higher-resolution maps within an individual cell than can be achieved by proximity ligation. [...]</p>]]></description>
-	  <pubDate>23 Aug 2021</pubDate>
   </item>
   
 
