@@ -6,6 +6,16 @@
   <link>https://www.4dnucleome.org/4dn-publications.html</link>
   <description>4D Nucleome Publications</description>
   
+	<item>
+	  <title>
+		  Cell-type specialization is encoded by specific chromatin topologies</title>
+	  <link><![CDATA[https://www.nature.com/articles/s41586-021-04081-2]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Warren Winick-Ng, Alexander Kukalev, Izabela Harabula, Luna Zea-Redondo, Dominik Szabó, Mandy Meijer, Leonid Serebreni, Yingnan Zhang, Simona Bianco, Andrea M. Chiariello, Ibai Irastorza-Azcarate, Christoph J. Thieme, Thomas M. Sparks, Sílvia Carvalho, Luca Fiorillo, Francesco Musella, Ehsan Irani, Elena Torlai Triglia, Aleksandra A. Kolodziejczyk, Andreas Abentung, Galina Apostolova, Eleanor J. Paul, Vedran Franke, Rieke Kempfer, Altuna Akalin, Sarah A. Teichmann, Georg Dechant, Mark A. Ungless, Mario Nicodemi, Lonnie Welch, Gonçalo Castelo-Branco, Ana Pombo</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">The three-dimensional (3D) structure of chromatin is intrinsically associated with gene regulation and cell function. Methods based on chromatin conformation capture have mapped chromatin structures in neuronal systems such as in vitro differentiated neurons, neurons isolated through fluorescence-activated cell sorting from cortical tissues pooled from different animals and from dissociated whole hippocampi. However, changes in chromatin organization captured by imaging, such as the relocation of Bdnf away from the nuclear periphery after activation, are invisible with such approaches. Here we developed immunoGAM, an extension of genome architecture mapping (GAM), to map 3D chromatin topology genome-wide in specific brain cell types, without tissue disruption, from single animals. [...]</p>]]></description>
+	  <pubDate>17 Nov 2021</pubDate>
+  </item>
+
     <item>
 	  <title>
 		  Multiscale and integrative single-cell Hi-C analysis with Higashi</title>
@@ -25,27 +35,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_genetics.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Ricardo Linares-Saldana, Wonho Kim, Nikhita A. Bolar, Haoyue Zhang, Bailey A. Koch-Bojalad, Sora Yoon, Parisha P. Shah, Ashley Karnay, Daniel S. Park, Jennifer M. Luppino, Son C. Nguyen, Arun Padmanabhan, Cheryl L. Smith, Andrey Poleshko, Qiaohong Wang, Li Li, Deepak Srivastava, Golnaz Vahedi, Gwang Hyeon Eom, Gerd A. Blobel, Eric F. Joyce, Rajan Jain</p>
 			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Higher-order chromatin structure regulates gene expression, and mutations in proteins mediating genome folding underlie developmental disorders known as cohesinopathies. However, the relationship between three-dimensional genome organization and embryonic development remains unclear. Here we define a role for bromodomain-containing protein 4 (BRD4) in genome folding, and leverage it to understand the importance of genome folding in neural crest progenitor differentiation. [...]</p>]]></description>
 	  <pubDate>05 Oct 2021</pubDate>
-  </item>
-
-	<item>
-	  <title>
-		  Single-cell landscape of nuclear configuration and gene expression during stem cell differentiation and X inactivation</title>
-	  <link><![CDATA[https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02432-w]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/genome_biology.jpeg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Giancarlo Bonora, Vijay Ramani, Ritambhara Singh, He Fang, Dana L. Jackson, Sanjay Srivatsan, Ruolan Qiu, Choli Lee, Cole Trapnell, Jay Shendure, Zhijun Duan, Xinxian Deng, William S. Noble, Christine M. Disteche </p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Mammalian development is associated with extensive changes in gene expression, chromatin accessibility, and nuclear structure. Here, we follow such changes associated with mouse embryonic stem cell differentiation and X inactivation by integrating, for the first time, allele-specific data from these three modalities obtained by high-throughput single-cell RNA-seq, ATAC-seq, and Hi-C. [...]</p>]]></description>
-	  <pubDate>27 Sep 2021</pubDate>
-  </item>
-
-
-	<item>
-	  <title>
-		  Systematic evaluation of chromosome conformation capture assays</title>
-	  <link><![CDATA[https://www.nature.com/articles/s41592-021-01248-7]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_methods.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Betul Akgol Oksuz, Liyan Yang, Sameer Abraham, Sergey V. Venev, Nils Krietenstein, Krishna Mohan Parsi, Hakan Ozadam, Marlies E. Oomen, Ankita Nand, Hui Mao, Ryan M. J. Genga, Rene Maehr, Oliver J. Rando, Leonid A. Mirny, Johan H. Gibcus, Job Dekker</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Chromosome conformation capture (3C) assays are used to map chromatin interactions genome-wide. Chromatin interaction maps provide insights into the spatial organization of chromosomes and the mechanisms by which they fold. Hi-C and Micro-C are widely used 3C protocols that differ in key experimental parameters including cross-linking chemistry and chromatin fragmentation strategy. To understand how the choice of experimental protocol determines the ability to detect and quantify aspects of chromosome folding we have performed a systematic evaluation of 3C experimental parameters. We identified optimal protocol variants for either loop or compartment detection, optimizing fragment size and cross-linking chemistry. [...]</p>]]></description>
-	  <pubDate>03 Sep 2021</pubDate>
   </item>
   
 
