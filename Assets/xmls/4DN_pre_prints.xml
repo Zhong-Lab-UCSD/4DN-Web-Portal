@@ -6,6 +6,50 @@
   <link>http://www.4dnucleome.org</link>
   <description>4D Nucleome pre-prints</description>
 
+<item>
+	  <title>
+		  Divergent clonal differentiation trajectories of T cell exhaustion
+</title>
+	  <link><![CDATA[https://doi.org/10.1101/2021.12.16.472900]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Daniel, B., Yost, K. E., Sandor, K., Xia, Y., Qi, Y., Hiam-Galvez, K. J., Meier, S. L., Belk, J., Giles, J. R., Wherry, E. J., Chang, H., Egawa, T., Satpathy, A.</p>
+		  ]]></description>
+	  <pubDate>17 Dec 2021</pubDate>
+  </item>
+
+<item>
+	  <title>
+		  Single-fiber nucleosome density shapes the regulatory output of a mammalian chromatin remodeling enzyme
+</title>
+	  <link><![CDATA[https://doi.org/10.1101/2021.12.10.472156]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Abdulhay, N. J., Hsieh, L. J., McNally, C. P., Ketavarapu, M., Kasinathan, S., Nanda, A. S., Ostrowski, M. S., Wu, K., Moore, C. M., Goodarzi, H., Narlikar, G. J., Ramani, V.</p>
+		  ]]></description>
+	  <pubDate>11 Dec 2021</pubDate>
+  </item>
+
+<item>
+	  <title>
+		  Chromatin interaction aware gene regulatory modeling with graph attention networks
+</title>
+	  <link><![CDATA[https://doi.org/10.1101/2021.03.31.437978]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Karbalayghareh, A., Sahin, M., Leslie, C. S.</p>
+		  ]]></description>
+	  <pubDate>10 Dec 2021</pubDate>
+  </item>
+
+
+<item>
+	  <title>
+		  CRISPR Cas13-based tools to track and manipulate endogenous telomeric repeat-containing RNAs in living cells
+</title>
+	  <link><![CDATA[https://doi.org/10.1101/2021.12.03.471109]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Xu, M., Chigumira, T., Chen, Z., Tones, J., Zhao, R., Dahl, K. N., Chenoweth, D. M., Zhang, H.</p>
+		  ]]></description>
+	  <pubDate>04 Dec 2021</pubDate>
+  </item>
 
 <item>
 	  <title>
@@ -36,46 +80,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Conte, M., Irani, E., Chiariello, A. M., Abraham, A., Bianco, S., Esposito, A., Nicodemi, M.</p>
 		  ]]></description>
 	  <pubDate>02 Nov 2021</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  CTCF blocks anti-sense transcription initiation at divergent gene promoters</title>
-	  <link><![CDATA[https://doi.org/10.1101/2021.10.30.465508]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Luan, J., Syrett, C. M., Vermunt, M. W., Cote, A., Tome, J. M., Zhang, H., Huang, A., Luppino, J. M., Keller, C. A., Giardine, B. M., Zhang, S., Dunagin, M. C., Zhang, Z., Joyce, E. F., Lis, J. T., Raj, A., Hardison, R. C., Blobel, G. A.</p>
-		  ]]></description>
-	  <pubDate>30 Oct 2021</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Kinetic principles underlying pioneer function of GAGA transcription factor in live cells</title>
-	  <link><![CDATA[https://doi.org/10.1101/2021.10.21.465351]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Tang, X., Li, T., Liu, S., Wisniewski, J., Zheng, Q., Lavis, L., Rong, Y., Wu, C.</p>
-		  ]]></description>
-	  <pubDate>23 Oct 2021</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  The 4D Nucleome Data Portal: a resource for searching and visualizing curated nucleomics data</title>
-	  <link><![CDATA[https://www.biorxiv.org/content/10.1101/2021.10.14.464435]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Reiff, S. B., Schroeder, A. J., Kirli, K., Cosolo, A., Bakker, C., Mercado, L., Lee, S. B., Veit, A. D., Balashov, A. K., Vitzthum, C., Ronchetti, W., Pitman, K. M., Johnson, J., Ehmsen, S. R., Kerpedjiev, P., Abdennur, N. A., Imakaev, M., Ozturk, S. U., Camoglu, U., Mirny, L., Gehlenborg, N., Alver, B. H., Park, P. J.</p>
-		  ]]></description>
-	  <pubDate>15 Oct 2021</pubDate>
-  </item>
-
-  <item>
-	  <title>
-		  Optogenetic control of the Bicoid morphogen reveals fast and slow modes of gap gene regulation</title>
-	  <link><![CDATA[https://www.biorxiv.org/content/10.1101/2021.10.13.464280]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Singh, A. P., Wu, P., Ryabichko, S., Raimundo, J., Swan, M., Wieschaus, E., Gregor, T., Toettcher, J. E.</p>
-		  ]]></description>
-	  <pubDate>14 Oct 2021</pubDate>
   </item>
  
 
