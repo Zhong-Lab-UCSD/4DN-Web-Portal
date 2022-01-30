@@ -6,6 +6,26 @@
   <link>https://www.4dnucleome.org/4dn-publications.html</link>
   <description>4D Nucleome Publications</description>
   
+  	<item>
+	  <title>
+		  Mapping Replication Timing in Single Mammalian Cells</title>
+	  <link><![CDATA[https://currentprotocols.onlinelibrary.wiley.com/doi/epdf/10.1002/cpz1.334]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/current_protocols.jpeg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Daniel A Bartlett, Vishnu Dileep, Timour Baslan, David M Gilbert</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Replication timing (RT) is the temporal order in which genomic DNA is replicated during S phase. Early and late replication correlate with transcriptionally active and inactive chromatin compartments, but mechanistic links between large-scale chromosome structure, transcription, and replication are still enigmatic. A proper RT program is necessary to maintain the global epigenome that defines cell identity, suggesting that RT is critical for epigenome integrity by facilitating the assembly of different types of chromatin at different times during S phase. [...] Here, we describe an improved single-cell Repli-seq protocol that uses degenerate oligonucleotide-primed PCR (DOP-PCR) for uniform whole-genome amplification and uniquely barcoded primers that permit early pooling of single-cell samples into a single library preparation. We also provide a bioinformatics platform for analysis of the data. [...]</p>]]></description>
+	  <pubDate>02 Jan 2022</pubDate>
+  </item>
+  
+	<item>
+	  <title>
+		  Stress as a Chromatin Landscape Architect</title>
+	  <link><![CDATA[https://www.frontiersin.org/articles/10.3389/fcell.2021.790138/full]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/frontiers-logo.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Anastassiia Vertii</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">The exponential development of methods investigating different levels of spatial genome organization leads to the appreciation of the chromatin landscape's contribution to gene regulation and cell fate. Multiple levels of 3D chromatin organization include chromatin loops and topologically associated domains, followed by euchromatin and heterochromatin compartments, chromatin domains associated with nuclear bodies, and culminate with the chromosome territories. 3D chromatin architecture is exposed to multiple factors such as cell division and stress, including but not limited to mechanical, inflammatory, and environmental challenges. How exactly the stress exposure shapes the chromatin landscape is a new and intriguing area of research. In this mini-review, the developments that motivate the exploration of this field are discussed.</p>]]></description>
+	  <pubDate>14 Dec 2021</pubDate>
+  </item>
+
 	<item>
 	  <title>
 		  Cell-type specialization is encoded by specific chromatin topologies</title>
@@ -14,27 +34,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Warren Winick-Ng, Alexander Kukalev, Izabela Harabula, Luna Zea-Redondo, Dominik Szabó, Mandy Meijer, Leonid Serebreni, Yingnan Zhang, Simona Bianco, Andrea M. Chiariello, Ibai Irastorza-Azcarate, Christoph J. Thieme, Thomas M. Sparks, Sílvia Carvalho, Luca Fiorillo, Francesco Musella, Ehsan Irani, Elena Torlai Triglia, Aleksandra A. Kolodziejczyk, Andreas Abentung, Galina Apostolova, Eleanor J. Paul, Vedran Franke, Rieke Kempfer, Altuna Akalin, Sarah A. Teichmann, Georg Dechant, Mark A. Ungless, Mario Nicodemi, Lonnie Welch, Gonçalo Castelo-Branco, Ana Pombo</p>
 			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">The three-dimensional (3D) structure of chromatin is intrinsically associated with gene regulation and cell function. Methods based on chromatin conformation capture have mapped chromatin structures in neuronal systems such as in vitro differentiated neurons, neurons isolated through fluorescence-activated cell sorting from cortical tissues pooled from different animals and from dissociated whole hippocampi. However, changes in chromatin organization captured by imaging, such as the relocation of Bdnf away from the nuclear periphery after activation, are invisible with such approaches. Here we developed immunoGAM, an extension of genome architecture mapping (GAM), to map 3D chromatin topology genome-wide in specific brain cell types, without tissue disruption, from single animals. [...]</p>]]></description>
 	  <pubDate>17 Nov 2021</pubDate>
-  </item>
-
-    <item>
-	  <title>
-		  Multiscale and integrative single-cell Hi-C analysis with Higashi</title>
-	  <link><![CDATA[https://www.nature.com/articles/s41587-021-01034-y]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_biotech.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Ruochi Zhang, Tianming Zhou, Jian Ma</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Single-cell Hi-C (scHi-C) can identify cell-to-cell variability of three-dimensional (3D) chromatin organization, but the sparseness of measured interactions poses an analysis challenge. Here we report Higashi, an algorithm based on hypergraph representation learning that can incorporate the latent correlations among single cells to enhance overall imputation of contact maps. Higashi outperforms existing methods for embedding and imputation of scHi-C data and is able to identify multiscale 3D genome features in single cells, such as compartmentalization and TAD-like domain boundaries, allowing refined delineation of their cell-to-cell variability. [...]</p>]]></description>
-	  <pubDate>11 Oct 2021</pubDate>
-  </item>
-
-
-   <item>
-	  <title>
-		  BRD4 orchestrates genome folding to promote neural crest differentiation</title>
-	  <link><![CDATA[https://www.nature.com/articles/s41588-021-00934-8]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_genetics.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Ricardo Linares-Saldana, Wonho Kim, Nikhita A. Bolar, Haoyue Zhang, Bailey A. Koch-Bojalad, Sora Yoon, Parisha P. Shah, Ashley Karnay, Daniel S. Park, Jennifer M. Luppino, Son C. Nguyen, Arun Padmanabhan, Cheryl L. Smith, Andrey Poleshko, Qiaohong Wang, Li Li, Deepak Srivastava, Golnaz Vahedi, Gwang Hyeon Eom, Gerd A. Blobel, Eric F. Joyce, Rajan Jain</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Higher-order chromatin structure regulates gene expression, and mutations in proteins mediating genome folding underlie developmental disorders known as cohesinopathies. However, the relationship between three-dimensional genome organization and embryonic development remains unclear. Here we define a role for bromodomain-containing protein 4 (BRD4) in genome folding, and leverage it to understand the importance of genome folding in neural crest progenitor differentiation. [...]</p>]]></description>
-	  <pubDate>05 Oct 2021</pubDate>
   </item>
   
 

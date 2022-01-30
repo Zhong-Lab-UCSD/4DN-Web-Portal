@@ -6,6 +6,40 @@
   <link>http://www.4dnucleome.org</link>
   <description>4D Nucleome pre-prints</description>
 
+
+
+<item>
+	  <title>
+		  Exploring genomic data coupled with 3D chromatin structures using the WashU Epigenome Browser
+</title>
+	  <link><![CDATA[https://doi.org/10.1101/2022.01.18.476849]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Li, D., Purushotham, D., Harrison, J. K., Wang, T.</p>
+		  ]]></description>
+	  <pubDate>21 Jan 2022</pubDate>
+  </item>
+
+<item>
+	  <title>
+		  Massively parallel genomic perturbations with multi-target CRISPR reveal new insights on Cas9 activity and DNA damage responses at endogenous sites</title>
+	  <link><![CDATA[https://doi.org/10.1101/2022.01.18.476836]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Zou, R. S., Marin-Gonzalez, A., Liu, Y., Liu, H. B., Shen, L., Dveirin, R., Luo, J. X. J., Kalhor, R., Ha, T.</p>
+		  ]]></description>
+	  <pubDate>20 Jan 2022</pubDate>
+  </item>
+
+<item>
+	  <title>
+		  Reliance of neuronal gene expression on cohesin scales with chromatin loop length</title>
+	  <link><![CDATA[https://doi.org/10.1101/2021.02.24.432639]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Calderon, L., Weiss, F. D., Beagan, J. A., Oliveira, M. S., Wang, Y.-F., Carroll, T., Dharmalingam, G., Gong, W., Tossell, K., de Paola, V., Whilding, C., Ungless, M. A., Fisher, A. G., Phillips-Cremins, J. E., Merkenschlager, M.</p>
+		  ]]></description>
+	  <pubDate>02 Jan 2022</pubDate>
+  </item>
+
+
 <item>
 	  <title>
 		  Divergent clonal differentiation trajectories of T cell exhaustion
@@ -38,9 +72,8 @@
 		  ]]></description>
 	  <pubDate>10 Dec 2021</pubDate>
   </item>
-
-
-<item>
+ 
+ <item>
 	  <title>
 		  CRISPR Cas13-based tools to track and manipulate endogenous telomeric repeat-containing RNAs in living cells
 </title>
@@ -50,38 +83,6 @@
 		  ]]></description>
 	  <pubDate>04 Dec 2021</pubDate>
   </item>
-
-<item>
-	  <title>
-		  Allelic correlation is a marker of tradeoffs between barriers to transmission of expression variability and signal responsiveness in genetic networks
-</title>
-	  <link><![CDATA[https://doi.org/10.1101/2021.11.26.470134]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Boe, R. H., Ayyappan, V., Schuh, L., Raj, A.</p>
-		  ]]></description>
-	  <pubDate>26 Nov 2021</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Single-Cell Multiomics Defines Tolerogenic Extrathymic Aire-Expressing Populations with Unique Homology to Thymic Epithelium</title>
-	  <link><![CDATA[https://doi.org/10.1101/2021.11.05.467513]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Wang, J., Lareau, C. A., Bautista, J. L., Gupta, A. R., Sandor, K., Germino, J., Yin, Y., Arvedson, M. P., Reeder, G. C., Cramer, N. T., Xie, F., Ntranos, V., Satpathy, A. T., Anderson, M. S., Gardner, J. M.</p>
-		  ]]></description>
-	  <pubDate>06 Nov 2021</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Loop-extrusion and polymer phase-separation can co-exist at the single-molecule level to shape chromatin folding</title>
-	  <link><![CDATA[https://doi.org/10.1101/2021.11.02.466589]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Conte, M., Irani, E., Chiariello, A. M., Abraham, A., Bianco, S., Esposito, A., Nicodemi, M.</p>
-		  ]]></description>
-	  <pubDate>02 Nov 2021</pubDate>
-  </item>
- 
 
 </channel>
 </rss>
