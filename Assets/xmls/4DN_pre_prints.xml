@@ -6,7 +6,38 @@
   <link>http://www.4dnucleome.org</link>
   <description>4D Nucleome pre-prints</description>
 
+<item>
+	  <title>
+		  Nucleome Browser: An integrative and multimodal data navigation platform for 4D Nucleome
+</title>
+	  <link><![CDATA[https://doi.org/10.1101/2022.02.21.481225]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Zhu, X., Zhang, Y., Wang, Y., Tian, D., Belmont, A. S., Swedlow, J. R., Ma, J.</p>
+		  ]]></description>
+	  <pubDate>22 Feb 2022</pubDate>
+  </item>
 
+<item>
+	  <title>
+		  Quantitative fate mapping: Reconstructing progenitor field dynamics via retrospective lineage barcoding
+</title>
+	  <link><![CDATA[https://doi.org/10.1101/2022.02.13.480215]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Fang, W., Bell, C. M., Sapirstein, A., Asami, S., Leeper, K., Zack, D. J., Ji, H., Kalhor, R.</p>
+		  ]]></description>
+	  <pubDate>14 Feb 2022</pubDate>
+  </item>
+
+<item>
+	  <title>
+		  Widespread contribution of transposable elements to the rewiring of mammalian 3D genomes and gene regulation
+</title>
+	  <link><![CDATA[https://doi.org/10.1101/2022.02.01.475239]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Choudhary, M. N., Quaid, K., Xing, X., Schmidt, H., Wang, T.</p>
+		  ]]></description>
+	  <pubDate>03 Feb 2022</pubDate>
+  </item>
 
 <item>
 	  <title>
@@ -39,50 +70,6 @@
 	  <pubDate>02 Jan 2022</pubDate>
   </item>
 
-
-<item>
-	  <title>
-		  Divergent clonal differentiation trajectories of T cell exhaustion
-</title>
-	  <link><![CDATA[https://doi.org/10.1101/2021.12.16.472900]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Daniel, B., Yost, K. E., Sandor, K., Xia, Y., Qi, Y., Hiam-Galvez, K. J., Meier, S. L., Belk, J., Giles, J. R., Wherry, E. J., Chang, H., Egawa, T., Satpathy, A.</p>
-		  ]]></description>
-	  <pubDate>17 Dec 2021</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Single-fiber nucleosome density shapes the regulatory output of a mammalian chromatin remodeling enzyme
-</title>
-	  <link><![CDATA[https://doi.org/10.1101/2021.12.10.472156]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Abdulhay, N. J., Hsieh, L. J., McNally, C. P., Ketavarapu, M., Kasinathan, S., Nanda, A. S., Ostrowski, M. S., Wu, K., Moore, C. M., Goodarzi, H., Narlikar, G. J., Ramani, V.</p>
-		  ]]></description>
-	  <pubDate>11 Dec 2021</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Chromatin interaction aware gene regulatory modeling with graph attention networks
-</title>
-	  <link><![CDATA[https://doi.org/10.1101/2021.03.31.437978]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Karbalayghareh, A., Sahin, M., Leslie, C. S.</p>
-		  ]]></description>
-	  <pubDate>10 Dec 2021</pubDate>
-  </item>
- 
- <item>
-	  <title>
-		  CRISPR Cas13-based tools to track and manipulate endogenous telomeric repeat-containing RNAs in living cells
-</title>
-	  <link><![CDATA[https://doi.org/10.1101/2021.12.03.471109]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Xu, M., Chigumira, T., Chen, Z., Tones, J., Zhao, R., Dahl, K. N., Chenoweth, D. M., Zhang, H.</p>
-		  ]]></description>
-	  <pubDate>04 Dec 2021</pubDate>
-  </item>
 
 </channel>
 </rss>
