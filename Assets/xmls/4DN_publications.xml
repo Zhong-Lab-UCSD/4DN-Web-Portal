@@ -6,6 +6,16 @@
   <link>https://www.4dnucleome.org/4dn-publications.html</link>
   <description>4D Nucleome Publications</description>
   
+    	<item>
+	  <title>
+		  Stripenn detects architectural stripes from chromatin conformation data using computer vision</title>
+	  <link><![CDATA[https://www.nature.com/articles/s41467-022-29258-9]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_comm.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Sora Yoon, Aditi Chandra, Golnaz Vahedi </p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Architectural stripes tend to form at genomic regions harboring genes with salient roles in cell identity and function. Therefore, the accurate identification and quantification of these features are essential for understanding lineage-specific gene regulation. Here, we present Stripenn, an algorithm rooted in computer vision to systematically detect and quantitate architectural stripes from chromatin conformation measurements using various technologies. We demonstrate that Stripenn outperforms existing methods and highlight its biological applications in the context of B and T lymphocytes. By comparing stripes across distinct cell types and different species, we find that these chromatin features are highly conserved and form at genes with prominent roles in cell-type-specific processes. In summary, Stripenn is a computational method that borrows concepts from widely used image processing techniques to demarcate and quantify architectural stripes.</p>]]></description>
+	  <pubDate>24 Mar 2022</pubDate>
+  </item>
+
 
     <item>
 	  <title>
@@ -40,15 +50,7 @@
   </item>
 
 
-  	<item>
-	  <title>
-		  Mapping Replication Timing in Single Mammalian Cells</title>
-	  <link><![CDATA[https://currentprotocols.onlinelibrary.wiley.com/doi/epdf/10.1002/cpz1.334]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/current_protocols.jpeg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Daniel A Bartlett, Vishnu Dileep, Timour Baslan, David M Gilbert</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Replication timing (RT) is the temporal order in which genomic DNA is replicated during S phase. Early and late replication correlate with transcriptionally active and inactive chromatin compartments, but mechanistic links between large-scale chromosome structure, transcription, and replication are still enigmatic. A proper RT program is necessary to maintain the global epigenome that defines cell identity, suggesting that RT is critical for epigenome integrity by facilitating the assembly of different types of chromatin at different times during S phase. [...] Here, we describe an improved single-cell Repli-seq protocol that uses degenerate oligonucleotide-primed PCR (DOP-PCR) for uniform whole-genome amplification and uniquely barcoded primers that permit early pooling of single-cell samples into a single library preparation. We also provide a bioinformatics platform for analysis of the data. [...]</p>]]></description>
-	  <pubDate>02 Jan 2022</pubDate>
-  </item>
+
   
 
 </channel>
