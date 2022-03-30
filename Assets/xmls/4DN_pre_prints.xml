@@ -6,6 +6,18 @@
   <link>http://www.4dnucleome.org</link>
   <description>4D Nucleome pre-prints</description>
 
+
+<item>
+	  <title>
+		  A spatial genome aligner for multiplexed DNA-FISH
+</title>
+	  <link><![CDATA[https://doi.org/10.1101/2022.03.25.485845]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Jia, B. B., Jussila, A. P., Kern, J. C., Zhu, Q., Ren, B.</p>
+		  ]]></description>
+	  <pubDate>27 Mar 2022</pubDate>
+  </item>
+
 <item>
 	  <title>
 		  clampFISH 2.0 enables rapid, scalable amplified RNA detection in situ
