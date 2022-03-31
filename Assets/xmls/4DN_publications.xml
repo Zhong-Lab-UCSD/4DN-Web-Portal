@@ -19,37 +19,45 @@
 
     <item>
 	  <title>
-		  Multi-color super-resolution imaging to study human coronavirus RNA during cellular infection</title>
-	  <link><![CDATA[https://www.sciencedirect.com/science/article/pii/S2667237522000224?via%3Dihub]]></link>
+		  Polymer physics reveals a combinatorial code linking 3D chromatin architecture to 1D chromatin states</title>
+	  <link><![CDATA[https://www.cell.com/cell-reports/fulltext/S2211-1247(22)00349-7]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/cell_reports_methods.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Jiarui Wang, Mengting Han, Anish R. Roy, Haifeng Wang, Leonhard Möckl, Leiping Zeng, W.E. Moerner, Lei S. Qi</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the third human coronavirus within 20 years that gave rise to a life-threatening disease and the first to reach pandemic spread. To make therapeutic headway against current and future coronaviruses, the biology of coronavirus RNA during infection must be precisely understood. Here, we present a robust and generalizable framework combining high-throughput confocal and super-resolution microscopy imaging to study coronavirus infection at the nanoscale. [...]</p>]]></description>
-	  <pubDate>28 Feb 2022</pubDate>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/cell_reports_methods.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Andrea Esposito, Simona Bianco, Andrea M. Chiariello, Alex Abraham, Luca Fiorillo, Mattia Conte, Raffaele Campanile, Mario Nicodemi</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">The mammalian genome has a complex, functional 3D organization. However, it remains largely unknown how DNA contacts are orchestrated by chromatin organizers. Here, we infer from only Hi-C the cell-type-spe- cific arrangement of DNA binding sites sufficient to recapitulate, through polymer physics, contact patterns genome wide. Our model is validated by its predictions in a set of duplications at Sox9 against available in- dependent data.</p>]]></description>
+	  <pubDate>29 Mar 2022</pubDate>
   </item>
 
 
     <item>
 	  <title>
-		  Mitochondrial variant enrichment from high-throughput single-cell RNA sequencing resolves clonal populations</title>
-	  <link><![CDATA[https://www.nature.com/articles/s41587-022-01210-8]]></link>
+		  Innovative computational approaches shed light on genetic mechanisms underlying cognitive impairment among children born extremely preterm</title>
+	  <link><![CDATA[https://jneurodevdisorders.biomedcentral.com/articles/10.1186/s11689-022-09429-x]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_biotech.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Tyler E. Miller, Caleb A. Lareau, Julia A. Verga, Erica A. K. DePasquale, Vincent Liu, Daniel Ssozi, Katalin Sandor, Yajie Yin, Leif S. Ludwig, Chadi A. El Farran, Duncan M. Morgan, Ansuman T. Satpathy, Gabriel K. Griffin, Andrew A. Lane, J. Christopher Love, Bradley E. Bernstein, Vijay G. Sankaran, Peter van Galen </p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">The combination of single-cell transcriptomics with mitochondrial DNA variant detection can be used to establish lineage relationships in primary human cells, but current methods are not scalable to interrogate complex tissues. Here, we combine common 3′ single-cell RNA-sequencing protocols with mitochondrial transcriptome enrichment to increase coverage by more than 50-fold, enabling high-confidence mutation detection. The method successfully identifies skewed immune-cell expansions in primary human clonal hematopoiesis.</p>]]></description>
-	  <pubDate>24 Feb 2022</pubDate>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/springer_link.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Weifang Liu, Quan Sun, Le Huang, Arjun Bhattacharya, Geoffery W. Wang, Xianming Tan, Karl C. K. Kuban, Robert M. Joseph, T. Michael O'Shea, Rebecca C. Fry, Yun Li, Hudson P. Santos Jr</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Although survival rates for infants born extremely preterm (gestation < 28 weeks) have improved significantly in recent decades, neurodevelopmental impairment remains a major concern. Children born extremely preterm remain at high risk for cognitive impairment from early childhood to adulthood. However, there is limited evidence on genetic factors associated with cognitive impairment in this population. [...] We conducted a novel computational analysis by utilizing an LPA-inferred phenotype with genetics data for the first time. This study suggests that rs11829294 and its LD buddies have potential regulatory roles on genes that could impact neurocognitive impairment for extreme preterm born children.</p>]]></description>
+	  <pubDate>3 Mar 2022</pubDate>
   </item>
 
   
   	<item>
 	  <title>
-		  HiCAR is a robust and sensitive method to analyze open-chromatin-associated genome organization</title>
+		  Non-cell-autonomous disruption of nuclear architecture as a potential cause of COVID-19-induced anosmia</title>
 	  <link><![CDATA[https://www.cell.com/molecular-cell/fulltext/S1097-2765(22)00098-3]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/molecular_cell.jpeg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Xiaolin Wei, Yu Xiang, Derek T. Peters, Choiselle Marius, Tongyu Sun, Ruocheng Shan, Jianhong Ou, Xin Lin, Feng Yue, Wei Li, Kevin W. Southerland, Yarui Diao</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">The long-range interactions of cis-regulatory elements (cREs) play a central role in gene regulation. cREs can be characterized as accessible chromatin sequences. However, it remains technically challenging to comprehensively identify their spatial interactions. Here, we report a new method HiCAR (Hi-C on accessible regulatory DNA), which utilizes Tn5 transposase and chromatin proximity ligation, for the analysis of open-chromatin-anchored interactions with low-input cells. By applying HiCAR in human embryonic stem cells and lymphoblastoid cells, we demonstrate that HiCAR identifies high-resolution chromatin contacts with an efficiency comparable with that of in situ Hi-C over all distance ranges. Interestingly, we found that the “poised” gene promoters exhibit silencer-like function to repress the expression of distal genes via promoter-promoter interactions. Lastly, we applied HiCAR to 30,000 primary human muscle stem cells and demonstrated that HiCAR is capable of analyzing chromatin accessibility and looping using low-input primary cells and clinical samples.</p>]]></description>
-	  <pubDate>22 Feb 2022</pubDate>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/cell-press.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Marianna Zazhytska, Albana Kodra, Daisy A. Hoagland, Justin Frere, John F. Fullard, Hani Shayya, Natalie G. McArthur, Rasmus Moeller, Skyler Uhl Arina D. Omer,7 Max E. Gottesman, Stuart Firestein, Qizhi Gong, Peter D. Canoll, James E. Goldman, Panos Roussos, Benjamin R. tenOever, Jonathan B. Overdevest, Stavros Lomvardas</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">SARS-CoV-2 infects less than 1% of cells in the human body, yet it can cause severe damage in a variety of organs. Thus, deciphering the non-cell-autonomous effects of SARS-CoV-2 infection is imperative for understanding the cellular and molecular disruption it elicits. Neurological and cognitive defects are among the least understood symptoms of COVID-19 patients, with olfactory dysfunction being their most common sensory deficit. Here, we show that both in humans and hamsters, SARS-CoV-2 infection causes widespread downregulation of olfactory receptors (ORs) and of their signaling components.</p>]]></description>
+	  <pubDate>17 Mar 2022</pubDate>
   </item>
 
-
+  	<item>
+	  <title>
+		  Systematic reconstruction of cellular trajectories across mouse embryogenesis</title>
+	  <link><![CDATA[https://www.nature.com/articles/s41588-022-01018-x]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_genetics.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Chengxiang Qiu, Junyue Cao, Beth K. Martin, Tony Li, Ian C. Welsh, Sanjay Srivatsan, Xingfan Huang, Diego Calderon, William Stafford Noble, Christine M. Disteche, Stephen A. Murray, Malte Spielmann, Cecilia B. Moens, Cole Trapnell, Jay Shendure</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Mammalian embryogenesis is characterized by rapid cellular proliferation and diversification. Within a few weeks, a single-cell zygote gives rise to millions of cells expressing a panoply of molecular programs. Although intensively studied, a comprehensive delineation of the major cellular trajectories that comprise mammalian development in vivo remains elusive. Here, we set out to integrate several single-cell RNA-sequencing (scRNA-seq) datasets that collectively span mouse gastrulation and organogenesis, supplemented with new profiling of ~150,000 nuclei from approximately embryonic day 8.5 (E8.5) embryos staged in one-somite increments.</p>]]></description>
+	  <pubDate>14 Mar 2022</pubDate>
+  </item>
 
   
 
