@@ -8,55 +8,55 @@
   
     	<item>
 	  <title>
-		  Stripenn detects architectural stripes from chromatin conformation data using computer vision</title>
-	  <link><![CDATA[https://www.nature.com/articles/s41467-022-29258-9]]></link>
+		  Cell type determination for cardiac differentiation occurs soon after seeding of human-induced pluripotent stem cells</title>
+	  <link><![CDATA[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8985385/]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_comm.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Sora Yoon, Aditi Chandra, Golnaz Vahedi </p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Architectural stripes tend to form at genomic regions harboring genes with salient roles in cell identity and function. Therefore, the accurate identification and quantification of these features are essential for understanding lineage-specific gene regulation. Here, we present Stripenn, an algorithm rooted in computer vision to systematically detect and quantitate architectural stripes from chromatin conformation measurements using various technologies. We demonstrate that Stripenn outperforms existing methods and highlight its biological applications in the context of B and T lymphocytes. By comparing stripes across distinct cell types and different species, we find that these chromatin features are highly conserved and form at genes with prominent roles in cell-type-specific processes. In summary, Stripenn is a computational method that borrows concepts from widely used image processing techniques to demarcate and quantify architectural stripes.</p>]]></description>
-	  <pubDate>24 Mar 2022</pubDate>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/genome_biology.jpeg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Connie L. Jiang, Yogesh Goyal, Naveen Jain, Qiaohong Wang, Rachel E. Truitt, Allison J. Coté, Benjamin Emert, Ian A. Mellis, Karun Kiani, Wenli Yang, Rajan Jain, Arjun Raj</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Cardiac differentiation of human-induced pluripotent stem (hiPS) cells consistently produces a mixed population of cardiomyocytes and non-cardiac cell types, even when using well-characterized protocols. We sought to determine whether different cell types might result from intrinsic differences in hiPS cells prior to the onset of differentiation. Altogether, our results show that while substantial heterogeneity exists in the initial hiPS cell population, it is not responsible for the variability observed in differentiated outcomes; instead, factors specifying the various cell types likely act during a window that begins shortly after the seeding of hiPS cells for differentiation.</p>]]></description>
+	  <pubDate>5 Apr 2022</pubDate>
   </item>
 
 
     <item>
 	  <title>
-		  Polymer physics reveals a combinatorial code linking 3D chromatin architecture to 1D chromatin states</title>
-	  <link><![CDATA[https://www.cell.com/cell-reports/fulltext/S2211-1247(22)00349-7]]></link>
+		  Cohesin-dependence of neuronal gene expression relates to chromatin loop length</title>
+	  <link><![CDATA[https://elifesciences.org/articles/76539]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/cell_reports_methods.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Andrea Esposito, Simona Bianco, Andrea M. Chiariello, Alex Abraham, Luca Fiorillo, Mattia Conte, Raffaele Campanile, Mario Nicodemi</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">The mammalian genome has a complex, functional 3D organization. However, it remains largely unknown how DNA contacts are orchestrated by chromatin organizers. Here, we infer from only Hi-C the cell-type-spe- cific arrangement of DNA binding sites sufficient to recapitulate, through polymer physics, contact patterns genome wide. Our model is validated by its predictions in a set of duplications at Sox9 against available in- dependent data.</p>]]></description>
-	  <pubDate>29 Mar 2022</pubDate>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/elife.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Lesly Calderon, Felix D Weiss, Jonathan A Beagan, Marta S Oliveira, Radina Georgieva, Yi-Fang Wang, Thomas S Carroll, Gopuraja Dharmalingam, Wanfeng Gong, Kyoko Tossell, Vincenzo de Paola, Chad Whilding, Mark A Ungless, Amanda G Fisher, Jennifer E Phillips-Cremins, Matthias Merkenschlager</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Cohesin and CTCF are major drivers of 3D genome organization, but their role in neurons is still emerging. Here we show a prominent role for cohesin in the expression of genes that facilitate neuronal maturation and homeostasis. Unexpectedly, we observed two major classes of activity-regulated genes with distinct reliance on cohesin in mouse primary cortical neurons. Immediate early genes remained fully inducible by KCl and BDNF, and short-range enhancer-promoter contacts at the Immediate early gene Fos formed robustly in the absence of cohesin. In contrast, cohesin was required for full expression of a subset of secondary response genes characterised by long-range chromatin contacts.</p>]]></description>
+	  <pubDate>26 Apr 2022</pubDate>
   </item>
 
 
     <item>
 	  <title>
-		  Innovative computational approaches shed light on genetic mechanisms underlying cognitive impairment among children born extremely preterm</title>
-	  <link><![CDATA[https://jneurodevdisorders.biomedcentral.com/articles/10.1186/s11689-022-09429-x]]></link>
+		  Multiplexed genome regulation in vivo with hyper-efficient Cas12a</title>
+	  <link><![CDATA[https://www.nature.com/articles/s41556-022-00870-7]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/springer_link.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Weifang Liu, Quan Sun, Le Huang, Arjun Bhattacharya, Geoffery W. Wang, Xianming Tan, Karl C. K. Kuban, Robert M. Joseph, T. Michael O'Shea, Rebecca C. Fry, Yun Li, Hudson P. Santos Jr</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Although survival rates for infants born extremely preterm (gestation < 28 weeks) have improved significantly in recent decades, neurodevelopmental impairment remains a major concern. Children born extremely preterm remain at high risk for cognitive impairment from early childhood to adulthood. However, there is limited evidence on genetic factors associated with cognitive impairment in this population. [...] We conducted a novel computational analysis by utilizing an LPA-inferred phenotype with genetics data for the first time. This study suggests that rs11829294 and its LD buddies have potential regulatory roles on genes that could impact neurocognitive impairment for extreme preterm born children.</p>]]></description>
-	  <pubDate>3 Mar 2022</pubDate>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_cell_bio.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Lucie Y. Guo, Jing Bian, Alexander E. Davis, Pingting Liu, Hannah R. Kempton, Xiaowei Zhang, Augustine Chemparathy, Baokun Gu, Xueqiu Lin, Draven A. Rane, Xiaoshu Xu, Ryan M. Jamiolkowski, Yang Hu, Sui Wang, Lei S. Qi </p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Multiplexed modulation of endogenous genes is crucial for sophisticated gene therapy and cell engineering. CRISPR–Cas12a systems enable versatile multiple-genomic-loci targeting by processing numerous CRISPR RNAs (crRNAs) from a single transcript; however, their low efficiency has hindered in vivo applications. Through structure-guided protein engineering, we developed a hyper-efficient Lachnospiraceae bacterium Cas12a variant, termed hyperCas12a, with its catalytically dead version hyperdCas12a showing significantly enhanced efficacy for gene activation, particularly at low concentrations of crRNA.</p>]]></description>
+	  <pubDate>12 Apr 2022</pubDate>
   </item>
 
   
   	<item>
 	  <title>
-		  Non-cell-autonomous disruption of nuclear architecture as a potential cause of COVID-19-induced anosmia</title>
-	  <link><![CDATA[https://www.cell.com/molecular-cell/fulltext/S1097-2765(22)00098-3]]></link>
+		  Modular and mechanistic changes across stages of colorectal cancer</title>
+	  <link><![CDATA[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9022252/]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/cell-press.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Marianna Zazhytska, Albana Kodra, Daisy A. Hoagland, Justin Frere, John F. Fullard, Hani Shayya, Natalie G. McArthur, Rasmus Moeller, Skyler Uhl Arina D. Omer,7 Max E. Gottesman, Stuart Firestein, Qizhi Gong, Peter D. Canoll, James E. Goldman, Panos Roussos, Benjamin R. tenOever, Jonathan B. Overdevest, Stavros Lomvardas</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">SARS-CoV-2 infects less than 1% of cells in the human body, yet it can cause severe damage in a variety of organs. Thus, deciphering the non-cell-autonomous effects of SARS-CoV-2 infection is imperative for understanding the cellular and molecular disruption it elicits. Neurological and cognitive defects are among the least understood symptoms of COVID-19 patients, with olfactory dysfunction being their most common sensory deficit. Here, we show that both in humans and hamsters, SARS-CoV-2 infection causes widespread downregulation of olfactory receptors (ORs) and of their signaling components.</p>]]></description>
-	  <pubDate>17 Mar 2022</pubDate>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/bmc-cancer.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Sara Rahiminejad, Mano R. Maurya, Kavitha Mukund, Shankar Subramaniam</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">While mechanisms contributing to the progression and metastasis of colorectal cancer (CRC) are well studied, cancer stage-specific mechanisms have been less comprehensively explored. This is the focus of this manuscript. Here, we report molecular and modular networks for various stages of CRC, providing a pseudo-temporal view of the mechanistic changes associated with the disease. Our analysis highlighted similarities at both functional and topological levels, across stages. We further identified stage-specific mechanisms and biomarkers potentially contributing to the progression of CRC.</p>]]></description>
+	  <pubDate>21 Apr 2022</pubDate>
   </item>
 
   	<item>
 	  <title>
-		  Systematic reconstruction of cellular trajectories across mouse embryogenesis</title>
-	  <link><![CDATA[https://www.nature.com/articles/s41588-022-01018-x]]></link>
+		  WashU Epigenome Browser update 2022</title>
+	  <link><![CDATA[https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac238/6567479?login=true]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_genetics.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Chengxiang Qiu, Junyue Cao, Beth K. Martin, Tony Li, Ian C. Welsh, Sanjay Srivatsan, Xingfan Huang, Diego Calderon, William Stafford Noble, Christine M. Disteche, Stephen A. Murray, Malte Spielmann, Cecilia B. Moens, Cole Trapnell, Jay Shendure</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Mammalian embryogenesis is characterized by rapid cellular proliferation and diversification. Within a few weeks, a single-cell zygote gives rise to millions of cells expressing a panoply of molecular programs. Although intensively studied, a comprehensive delineation of the major cellular trajectories that comprise mammalian development in vivo remains elusive. Here, we set out to integrate several single-cell RNA-sequencing (scRNA-seq) datasets that collectively span mouse gastrulation and organogenesis, supplemented with new profiling of ~150,000 nuclei from approximately embryonic day 8.5 (E8.5) embryos staged in one-somite increments.</p>]]></description>
-	  <pubDate>14 Mar 2022</pubDate>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/oxford.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Daofeng Li, Deepak Purushotham, Jessica K Harrison, Silas Hsu, Xiaoyu Zhuo, Changxu Fan, Shane Liu, Vincent Xu, Samuel Chen, Jason Xu, Shinyi Ouyang, Angela S Wu, Ting Wang</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">WashU Epigenome Browser (https://epigenomegateway.wustl.edu/browser/) is a web-based genomic data exploration tool that provides visualization, integration, and analysis of epigenomic datasets. The newly renovated user interface and functions have enabled researchers to engage with the browser and genomic data more efficiently and effectively since 2018. Here, we introduce a new integrated panel design in the browser that allows users to interact with 1D (genomic features), 2D (such as Hi-C), 3D (genome structure), and 4D (time series) data in a single web page</p>]]></description>
+	  <pubDate>12 Apr 2022</pubDate>
   </item>
 
   

@@ -7,7 +7,72 @@
   <description>4D Nucleome pre-prints</description>
 
 
+
 <item>
+	  <title>
+		  CONCERT: Genome-wide prediction of sequence elements that modulate DNA replication timing
+</title>
+	  <link><![CDATA[https://doi.org/10.1101/2022.04.21.488684]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Yang, Y., Wang, Y., Zhang, Y., Ma, J.</p>
+		  ]]></description>
+	  <pubDate>22 Apr 2022</pubDate>
+  </item>
+
+<item>
+	  <title>
+		  Genome-wide CRISPR screens of T cell exhaustion identify chromatin remodeling factors that limit T cell persistence
+</title>
+	  <link><![CDATA[https://doi.org/10.1101/2022.04.20.488974]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Belk, J., Yao, W., Ly, N., Freitas, K., Chen, Y.-T., Shi, Q., Valencia, A., Shifrut, E., Kale, N., Yost, K., Duffy, C., Hwee, M., Miao, Z., Ashworth, A., Mackall, C., Marson, A., Carnevale, J., Vardhana, S., Satpathy, A.</p>
+		  ]]></description>
+	  <pubDate>21 Apr 2022</pubDate>
+  </item>
+
+<item>
+	  <title>
+		  NIPBL and WAPL balance cohesin activity to regulate chromatin folding and gene expression
+</title>
+	  <link><![CDATA[https://doi.org/10.1101/2022.04.19.488785]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Luppino, J. M., Field, A., Nguyen, S. C., Park, D. S., Shah, P. P., Lan, Y., Yunker, R., Jain, R., Adelman, K., Joyce, E. F.</p>
+		  ]]></description>
+	  <pubDate>19 Apr 2022</pubDate>
+  </item>
+
+<item>
+	  <title>
+		  Dynamic chromatin organization and regulatory interactions in human endothelial cell differentiation
+</title>
+	  <link><![CDATA[https://doi.org/10.1101/2022.04.15.488491]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Alavattam, K. G., Mitzelfelt, K. A., Bonora, G., Fields, P. A., Yang, X., Chiu, H. S., Pabon, L., Bertero, A., Palpant, N. J., Noble, W. S., Murry, C. E.</p>
+		  ]]></description>
+	  <pubDate>16 Apr 2022</pubDate>
+  </item>
+
+<item>
+	  <title>
+		  Reducing peptide sequence bias in quantitative mass spectrometry data with machine learning</title>
+	  <link><![CDATA[https://doi.org/10.1101/2022.04.11.487945]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Dincer, A. B., Lu, Y., Schweppe, D., Oh, S., Noble, W. S.</p>
+		  ]]></description>
+	  <pubDate>12 Apr 2022</pubDate>
+  </item>
+
+<item>
+	  <title>
+		  High-throughput Oligopaint screen identifies druggable regulators of genome folding</title>
+	  <link><![CDATA[https://doi.org/10.1101/2022.04.08.487672]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Park, D. S., Nguyen, S. C., Isenhart, R., Shah, P. P., Kim, W., Barnett, R. J., Chandra, A., Luppino, J. M., Harke, J., Wai, M., Yang, R., Lan, Y., Yoon, S., Yunker, R., Vahedi, G., Phillips-Cremins, J. E., Jain, R., Joyce, E. F.</p>
+		  ]]></description>
+	  <pubDate>10 Apr 2022</pubDate>
+  </item>
+
+  <item>
 	  <title>
 		  A spatial genome aligner for multiplexed DNA-FISH
 </title>
@@ -41,69 +106,6 @@
 	  <pubDate>15 Mar 2022</pubDate>
   </item>
 
-<item>
-	  <title>
-		  Nucleome Browser: An integrative and multimodal data navigation platform for 4D Nucleome
-</title>
-	  <link><![CDATA[https://doi.org/10.1101/2022.02.21.481225]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Zhu, X., Zhang, Y., Wang, Y., Tian, D., Belmont, A. S., Swedlow, J. R., Ma, J.</p>
-		  ]]></description>
-	  <pubDate>22 Feb 2022</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Quantitative fate mapping: Reconstructing progenitor field dynamics via retrospective lineage barcoding
-</title>
-	  <link><![CDATA[https://doi.org/10.1101/2022.02.13.480215]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Fang, W., Bell, C. M., Sapirstein, A., Asami, S., Leeper, K., Zack, D. J., Ji, H., Kalhor, R.</p>
-		  ]]></description>
-	  <pubDate>14 Feb 2022</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Widespread contribution of transposable elements to the rewiring of mammalian 3D genomes and gene regulation
-</title>
-	  <link><![CDATA[https://doi.org/10.1101/2022.02.01.475239]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Choudhary, M. N., Quaid, K., Xing, X., Schmidt, H., Wang, T.</p>
-		  ]]></description>
-	  <pubDate>03 Feb 2022</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Exploring genomic data coupled with 3D chromatin structures using the WashU Epigenome Browser
-</title>
-	  <link><![CDATA[https://doi.org/10.1101/2022.01.18.476849]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Li, D., Purushotham, D., Harrison, J. K., Wang, T.</p>
-		  ]]></description>
-	  <pubDate>21 Jan 2022</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Massively parallel genomic perturbations with multi-target CRISPR reveal new insights on Cas9 activity and DNA damage responses at endogenous sites</title>
-	  <link><![CDATA[https://doi.org/10.1101/2022.01.18.476836]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Zou, R. S., Marin-Gonzalez, A., Liu, Y., Liu, H. B., Shen, L., Dveirin, R., Luo, J. X. J., Kalhor, R., Ha, T.</p>
-		  ]]></description>
-	  <pubDate>20 Jan 2022</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Reliance of neuronal gene expression on cohesin scales with chromatin loop length</title>
-	  <link><![CDATA[https://doi.org/10.1101/2021.02.24.432639]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Calderon, L., Weiss, F. D., Beagan, J. A., Oliveira, M. S., Wang, Y.-F., Carroll, T., Dharmalingam, G., Gong, W., Tossell, K., de Paola, V., Whilding, C., Ungless, M. A., Fisher, A. G., Phillips-Cremins, J. E., Merkenschlager, M.</p>
-		  ]]></description>
-	  <pubDate>02 Jan 2022</pubDate>
-  </item>
 
 
 </channel>
