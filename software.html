@@ -333,6 +333,12 @@
                   CNV-driven biases.</td>
               </tr>
               <tr>
+                <td label="name"><a class="ex1" target="_blank"
+                    href="https://github.com/Noble-Lab/edison">Edison</a></td>
+                <td label="dataType">Genome sequences (FASTA) or genome assemblies (AGP)</td>
+                <td>Edison uses a graph based edit distance calculation to find the lowest number of edits needed to reorganize one genome into another. It was developed in the context of measuring scaffolding accuracy, and given a reference genome, it can determine how well scaffolds are able to organize contigs into their appropriate locations in chromosomes.</td>
+              </tr>
+              <tr>
                 <td label="name"><a class="ex1" target="_blank" href="https://epialign.ucsd.edu/">EpiAlignment</a></td>
                 <td label="dataType">Bigwig, Genome annotations</td>
                 <td>EpiAlignment is a dynamic programming algorithm for chromosomal similarity search, which is able to
@@ -505,9 +511,9 @@
               </tr>
               <tr>
                 <td label="name"><a class="ex1" target="_blank"
-                    href="https://genome.cshlp.org/content/early/2017/08/30/gr.220640.117">HiCRep</a></td>
+                    href="https://github.com/Noble-Lab/hicrep">HiCRep.py</a></td>
                 <td label="dataType">Hi-C</td>
-                <td>HiCRep is a software to evaluate reproducibility of Hi-C data.</td>
+                <td>HiCRep.py is an efficient python implementation of the HiCRep framework for evaluating the reproducibility of Hi-C matrices.</td>
               </tr>
               <tr>
                 <td label="name"><a class="ex1" target="_blank"
@@ -654,6 +660,12 @@
                   from Hi-C) for chromosome-scale de novo genome assembly.</td>
               </tr>
               <tr>
+                <td label="name"><a class="ex1" target="_blank"
+                    href="https://pypi.org/project/lsmmdma/">LSMMD-MA</a></td>
+                <td label="dataType">scRNA; scATAC; scHiC; visual cell sorting imaging and sequencing (sciRNA; sciATAC; sciHiC;)</td>
+                <td>LSMMD-MA is a large-scale Python implementation of the MMD-MA method for multimodal data integration. By reformulating the MMD-MA optimization problem using linear algebra and solving it with KeOps, a CUDA framework for symbolic matrix computation in Python, LSMMD-MA scales to a million cells in each modality, two orders of magnitude greater than existing implementations.</td>
+              </tr>
+              <tr>
                 <td label="name"><a class="ex1" target="_blank" href="https://github.com/dphansti/mango">Mango</a></td>
                 <td label="dataType">ChIA-PET</td>
                 <td>A complete ChIA-PET data analysis pipeline that provides statistical confidence estimates for
@@ -724,15 +736,18 @@
               </tr>
               <tr>
                 <td label="name"><a class="ex1" target="_blank"
-                    href="http://cbio.ensmp.fr/~nvaroquaux/pastis/">PASTIS</a></td>
+                    href="http://hiclib.github.io/pastis/">PASTIS</a></td>
                 <td label="dataType">Hi-C</td>
-                <td>Novel approach to infer a consensus three-dimensional structure of a genome from Hi-C data. The
-                  method incorporates a statistical model
-                  of the contact counts, assuming that the counts between two loci follow a Poisson distribution whose
-                  intensity decreases with the physical distances
-                  between the loci.</td>
+                <td>PASTIS is a software tool for inferring a consensus model of 3D genome architecture from Hi-C data. It can model multiple chromosomes at once and can model haploid or diploid genomes. </td>
               </tr>
               <tr>
+                <tr>
+                  <td label="name"><a class="ex1" target="_blank"
+                      href="https://github.com/Noble-Lab/Polarbear">Polarbear</a></td>
+                  <td label="dataType">scRNA-seq and scATAC-seq (co-assay and single-assay)</td>
+                  <td>Polarbear is a semi-supervised deep neural network method for single cell cross-modality translation.</td>
+                </tr>
+                <tr>
                 <td label="name"><a class="ex1" target="_blank"
                     href="http://bioconductor.org/packages/release/bioc/html/R3CPET.html">R3CPET</a></td>
                 <td label="dataType">ChIA-PET</td>
@@ -746,6 +761,13 @@
                   href="https://github.com/HuMingLab/snapHiC">SnapHiC</a></td>
               <td label="dataType">Hi-C</td>
               <td>SnapHiC: Single nucleus analysis pipeline for Hi-C data is a tool to identifying chromatin loops from single cell Hi-C data.
+              </td>
+            </tr>
+            <tr>
+              <td label="name"><a class="ex1" target="_blank"
+                  href="https://github.com/Noble-Lab/synmatch">Synmatch</a></td>
+              <td label="dataType">single-cell multi-omics data: scRNA, scATAC, scHi-C, scMethyl, etc.</td>
+              <td>Synmatch is a software tool for finding a direct matching of cells from different single-cell measurements. It takes as input two matrices of single-cell profiles measuring different cellular properties, such as gene expression and chromatin accessibility, and outputs a matching of the cells across the datasets. The key idea behind Synmatch is that the same cell, when measured in two different modalities, is likely to have similar sets of neighboring cells in the two spaces. This intuition is used to formulate the matching problem as a supermodular optimization over the neighborhood structure of the two modalities, and the problem is solved by a fast greedy heuristic which scales to thousands of cells. The two modalities need not share any features, Synmatch operates in an entirely unsupervised manner.
               </td>
             </tr>
               <tr>
