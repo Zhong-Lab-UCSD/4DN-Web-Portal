@@ -8,55 +8,65 @@
   
     <item>
 	  <title>
-		  Cell type determination for cardiac differentiation occurs soon after seeding of human-induced pluripotent stem cells</title>
-	  <link><![CDATA[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8985385/]]></link>
+		  The 4D Nucleome Data Portal as a resource for searching and visualizing curated nucleomics data</title>
+	  <link><![CDATA[https://www.nature.com/articles/s41467-022-29697-4]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/genome_biology.jpeg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Connie L. Jiang, Yogesh Goyal, Naveen Jain, Qiaohong Wang, Rachel E. Truitt, Allison J. Coté, Benjamin Emert, Ian A. Mellis, Karun Kiani, Wenli Yang, Rajan Jain, Arjun Raj</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Cardiac differentiation of human-induced pluripotent stem (hiPS) cells consistently produces a mixed population of cardiomyocytes and non-cardiac cell types, even when using well-characterized protocols. We sought to determine whether different cell types might result from intrinsic differences in hiPS cells prior to the onset of differentiation. Altogether, our results show that while substantial heterogeneity exists in the initial hiPS cell population, it is not responsible for the variability observed in differentiated outcomes; instead, factors specifying the various cell types likely act during a window that begins shortly after the seeding of hiPS cells for differentiation.</p>]]></description>
-	  <pubDate>5 Apr 2022</pubDate>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_comm.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Sarah B. Reiff, Andrew J. Schroeder, Koray Kirli, Andrea Cosolo, Clara Bakker, Soohyun Lee, Alexander D. Veit, Alexander K. Balashov, Carl Vitzthum, William Ronchetti, Kent M. Pitman, Jeremy Johnson, Shannon R. Ehmsen, Peter Kerpedjiev, Nezar Abdennur, Maxim Imakaev, Serkan Utku Öztürk, Uğur Çamoğlu, Leonid A. Mirny, Nils Gehlenborg, Burak H. Alver, Peter J. Park </p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">The 4D Nucleome (4DN) Network aims to elucidate the complex structure and organization of chromosomes in the nucleus and the impact of their disruption in disease biology. We present the 4DN Data Portal (https://data.4dnucleome.org/), a repository for datasets generated in the 4DN network and relevant external datasets. Datasets were generated with a wide range of experiments, including chromosome conformation capture assays such as Hi-C and other innovative sequencing and microscopy-based assays probing chromosome architecture. All together, the 4DN data portal hosts more than 1800 experiment sets and 36000 files. Results of sequencing-based assays from different laboratories are uniformly processed and quality-controlled. The portal interface allows easy browsing, filtering, and bulk downloads, and the integrated HiGlass genome browser allows interactive visualization and comparison of multiple datasets. The 4DN data portal represents a primary resource for chromosome contact and other nuclear architecture data for the scientific community.</p>]]></description>
+	  <pubDate>2 May 2022</pubDate>
   </item>
 
 
     <item>
 	  <title>
-		  Cohesin-dependence of neuronal gene expression relates to chromatin loop length</title>
-	  <link><![CDATA[https://elifesciences.org/articles/76539]]></link>
+		  Chromatin interaction-aware gene regulatory modeling with graph attention networks</title>
+	  <link><![CDATA[https://genome.cshlp.org/content/32/5/930.long]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/elife.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Lesly Calderon, Felix D Weiss, Jonathan A Beagan, Marta S Oliveira, Radina Georgieva, Yi-Fang Wang, Thomas S Carroll, Gopuraja Dharmalingam, Wanfeng Gong, Kyoko Tossell, Vincenzo de Paola, Chad Whilding, Mark A Ungless, Amanda G Fisher, Jennifer E Phillips-Cremins, Matthias Merkenschlager</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Cohesin and CTCF are major drivers of 3D genome organization, but their role in neurons is still emerging. Here we show a prominent role for cohesin in the expression of genes that facilitate neuronal maturation and homeostasis. Unexpectedly, we observed two major classes of activity-regulated genes with distinct reliance on cohesin in mouse primary cortical neurons. Immediate early genes remained fully inducible by KCl and BDNF, and short-range enhancer-promoter contacts at the Immediate early gene Fos formed robustly in the absence of cohesin. In contrast, cohesin was required for full expression of a subset of secondary response genes characterised by long-range chromatin contacts.</p>]]></description>
-	  <pubDate>26 Apr 2022</pubDate>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/genome_research.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Alireza Karbalayghareh, Merve Sahin, Christina S. Leslie</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Linking distal enhancers to genes and modeling their impact on target gene expression are longstanding unresolved problems in regulatory genomics and critical for interpreting noncoding genetic variation. Here, we present a new deep learning approach called GraphReg that exploits 3D interactions from chromosome conformation capture assays to predict gene expression from 1D epigenomic data or genomic DNA sequence. By using graph attention networks to exploit the connectivity of distal elements up to 2 Mb away in the genome, GraphReg more faithfully models gene regulation and more accurately predicts gene expression levels than the state-of-the-art deep learning methods for this task. [...]</p>]]></description>
+	  <pubDate>1 May 2022</pubDate>
   </item>
 
 
     <item>
 	  <title>
-		  Multiplexed genome regulation in vivo with hyper-efficient Cas12a</title>
-	  <link><![CDATA[https://www.nature.com/articles/s41556-022-00870-7]]></link>
+		  Transcriptional coupling of distant regulatory genes in living embryos</title>
+	  <link><![CDATA[https://www.nature.com/articles/s41586-022-04680-7]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_cell_bio.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Lucie Y. Guo, Jing Bian, Alexander E. Davis, Pingting Liu, Hannah R. Kempton, Xiaowei Zhang, Augustine Chemparathy, Baokun Gu, Xueqiu Lin, Draven A. Rane, Xiaoshu Xu, Ryan M. Jamiolkowski, Yang Hu, Sui Wang, Lei S. Qi </p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Multiplexed modulation of endogenous genes is crucial for sophisticated gene therapy and cell engineering. CRISPR–Cas12a systems enable versatile multiple-genomic-loci targeting by processing numerous CRISPR RNAs (crRNAs) from a single transcript; however, their low efficiency has hindered in vivo applications. Through structure-guided protein engineering, we developed a hyper-efficient Lachnospiraceae bacterium Cas12a variant, termed hyperCas12a, with its catalytically dead version hyperdCas12a showing significantly enhanced efficacy for gene activation, particularly at low concentrations of crRNA.</p>]]></description>
-	  <pubDate>12 Apr 2022</pubDate>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Michal Levo, João Raimundo, Xin Yang Bing, Zachary Sisco, Philippe J. Batut, Sergey Ryabichko, Thomas Gregor, Michael S. Levine</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">The prevailing view of metazoan gene regulation is that individual genes are independently regulated by their own dedicated sets of transcriptional enhancers. Past studies have reported long-range gene–gene associations1,2,3, but their functional importance in regulating transcription remains unclear. Here we used quantitative single-cell live imaging methods to provide a demonstration of co-dependent transcriptional dynamics of genes separated by large genomic distances in living Drosophila embryos. We find extensive physical and functional associations of distant paralogous genes, including co-regulation by shared enhancers and co-transcriptional initiation over distances of nearly 250 kilobases. [...]</p>]]></description>
+	  <pubDate>4 May 2022</pubDate>
   </item>
 
   
   	<item>
 	  <title>
-		  Modular and mechanistic changes across stages of colorectal cancer</title>
-	  <link><![CDATA[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9022252/]]></link>
+		  DNA tension-modulated translocation and loop extrusion by SMC complexes revealed by molecular dynamics simulations</title>
+	  <link><![CDATA[https://academic.oup.com/nar/article/50/9/4974/6574674?login=false]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/bmc-cancer.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Sara Rahiminejad, Mano R. Maurya, Kavitha Mukund, Shankar Subramaniam</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">While mechanisms contributing to the progression and metastasis of colorectal cancer (CRC) are well studied, cancer stage-specific mechanisms have been less comprehensively explored. This is the focus of this manuscript. Here, we report molecular and modular networks for various stages of CRC, providing a pseudo-temporal view of the mechanistic changes associated with the disease. Our analysis highlighted similarities at both functional and topological levels, across stages. We further identified stage-specific mechanisms and biomarkers potentially contributing to the progression of CRC.</p>]]></description>
-	  <pubDate>21 Apr 2022</pubDate>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/oxford.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Stefanos K Nomidis, Enrico Carlon, Stephan Gruber, John F Marko</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Structural Maintenance of Chromosomes (SMC) complexes play essential roles in genome organization across all domains of life. To determine how the activities of these large (≈50 nm) complexes are controlled by ATP binding and hydrolysis, we developed a molecular dynamics model that accounts for conformational motions of the SMC and DNA. The model combines DNA loop capture with an ATP-induced 'power stroke' to translocate the SMC complex along DNA. This process is sensitive to DNA tension: at low tension (0.1 pN), the model makes loop-capture steps of average 60 nm and up to 200 nm along DNA (larger than the complex itself), while at higher tension, a distinct inchworm-like translocation mode appears. By tethering DNA to an experimentally-observed additional binding site ('safety belt'), the model SMC complex can perform loop extrusion (LE). [...]</p>]]></description>
+	  <pubDate>20 May 2022</pubDate>
   </item>
 
   	<item>
 	  <title>
-		  WashU Epigenome Browser update 2022</title>
-	  <link><![CDATA[https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac238/6567479?login=true]]></link>
+		  The Impact of Space and Time on the Functional Output of the Genome</title>
+	  <link><![CDATA[https://cshperspectives.cshlp.org/content/14/4/a040378.long]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/oxford.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Daofeng Li, Deepak Purushotham, Jessica K Harrison, Silas Hsu, Xiaoyu Zhuo, Changxu Fan, Shane Liu, Vincent Xu, Samuel Chen, Jason Xu, Shinyi Ouyang, Angela S Wu, Ting Wang</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">WashU Epigenome Browser (https://epigenomegateway.wustl.edu/browser/) is a web-based genomic data exploration tool that provides visualization, integration, and analysis of epigenomic datasets. The newly renovated user interface and functions have enabled researchers to engage with the browser and genomic data more efficiently and effectively since 2018. Here, we introduce a new integrated panel design in the browser that allows users to interact with 1D (genomic features), 2D (such as Hi-C), 3D (genome structure), and 4D (time series) data in a single web page</p>]]></description>
-	  <pubDate>12 Apr 2022</pubDate>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/csh.jpeg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Marcelo Nollmann, Isma Bennabi, Markus Götz, Thomas Grego</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Over the past two decades, it has become clear that the multiscale spatial and temporal organization of the genome has important implications for nuclear function. This review centers on insights gained from recent advances in light microscopy on our understanding of transcription. We discuss spatial and temporal aspects that shape nuclear order and their consequences on regulatory components, focusing on genomic scales most relevant to function. The emerging picture is that spatiotemporal constraints increase the complexity in transcriptional regulation, highlighting new challenges, such as uncertainty about how information travels from molecular factors through the genome and space to generate a functional output. [...]</p>]]></description>
+	  <pubDate>17 May 2022</pubDate>
+  </item>
+
+    	<item>
+	  <title>
+		  NANOG prion-like assembly mediates DNA bridging to facilitate chromatin reorganization and activation of pluripotency</title>
+	  <link><![CDATA[https://www.nature.com/articles/s41556-022-00896-x]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_cell_bio.jpeg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Kyoung-Jae Choi, My Diem Quan, Chuangye Qi, Joo-Hyung Lee, Phoebe S. Tsoi, Mahla Zahabiyon, Aleksandar Bajic, Liya Hu, B. V. Venkataram Prasad, Shih-Chu Jeff Liao, Wenbo Li, Allan Chris M. Ferreon, Josephine C. Ferreon</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Human NANOG expression resets stem cells to ground-state pluripotency. Here we identify the unique features of human NANOG that relate to its dose-sensitive function as a master transcription factor. NANOG is largely disordered, with a C-terminal prion-like domain that phase-transitions to gel-like condensates. Full-length NANOG readily forms higher-order oligomers at low nanomolar concentrations, orders of magnitude lower than typical amyloids. Using single-molecule Förster resonance energy transfer and fluorescence cross-correlation techniques, we show that NANOG oligomerization is essential for bridging DNA elements in vitro. Using chromatin immunoprecipitation sequencing and Hi-C 3.0 in cells, we validate that NANOG prion-like domain assembly is essential for specific DNA recognition and distant chromatin interactions. Our results provide a physical basis for the indispensable role of NANOG in shaping the pluripotent genome. NANOG’s unique ability to form prion-like assemblies could provide a cooperative and concerted DNA bridging mechanism that is essential for chromatin reorganization and dose-sensitive activation of ground-state pluripotency. </p>]]></description>
+	  <pubDate>24 May 2022</pubDate>
   </item>
 
   

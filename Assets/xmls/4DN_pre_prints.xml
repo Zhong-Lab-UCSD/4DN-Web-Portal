@@ -6,7 +6,39 @@
   <link>http://www.4dnucleome.org</link>
   <description>4D Nucleome pre-prints</description>
 
+<item>
+	  <title>
+		  Nucleoli and the nucleoli-centromere association are dynamic during normal development and in cancer
+</title>
+	  <link><![CDATA[https://doi.org/10.1101/2022.05.21.492846]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Rodrigues, A., MacQuarrie, K. L., Freeman, E., Willis, A. B., Xu, Z., Alvarez, A. A., Ma, Y., Perez White, B. E., Foltz, D. R., Huang, S.</p>
+		  ]]></description>
+	  <pubDate>21 May 2022</pubDate>
+  </item>
 
+<item>
+	  <title>
+		 The association of MEG3 lncRNA with nuclear speckles in living cells
+</title>
+	  <link><![CDATA[https://doi.org/10.1101/2022.05.11.491451]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Hasenson, S., Alkalay, E., Atrash, M. K., Boocholez, A., Gershbaum, J., Hochberg-Laufer, H., Shav-Tal, Y.</p>
+		  ]]></description>
+	  <pubDate>11 May 2022</pubDate>
+  </item>
+
+
+<item>
+	  <title>
+		  A unique epigenomic landscape defines CD8+ tissue-resident memory T cells
+</title>
+	  <link><![CDATA[https://doi.org/10.1101/2022.05.04.490680]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Buquicchio, F. A., Fonseca, R., Belk, J. A., Evrard, M., Obers, A., Qi, Y., Daniel, B., Yost, K. E., Satpathy, A. T., Mackay, L. K.</p>
+		  ]]></description>
+	  <pubDate>06 May 2022</pubDate>
+  </item>
 
 <item>
 	  <title>
@@ -70,40 +102,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Park, D. S., Nguyen, S. C., Isenhart, R., Shah, P. P., Kim, W., Barnett, R. J., Chandra, A., Luppino, J. M., Harke, J., Wai, M., Yang, R., Lan, Y., Yoon, S., Yunker, R., Vahedi, G., Phillips-Cremins, J. E., Jain, R., Joyce, E. F.</p>
 		  ]]></description>
 	  <pubDate>10 Apr 2022</pubDate>
-  </item>
-
-  <item>
-	  <title>
-		  A spatial genome aligner for multiplexed DNA-FISH
-</title>
-	  <link><![CDATA[https://doi.org/10.1101/2022.03.25.485845]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Jia, B. B., Jussila, A. P., Kern, J. C., Zhu, Q., Ren, B.</p>
-		  ]]></description>
-	  <pubDate>27 Mar 2022</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  clampFISH 2.0 enables rapid, scalable amplified RNA detection in situ
-</title>
-	  <link><![CDATA[https://doi.org/10.1101/2022.03.16.484659]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Dardani, I., Emert, B. L., Goyal, Y., Jiang, C. L., Kaur, A., Lee, J., Rouhanifard, S. H., Alicea, G. M., Fane, M. E., Xiao, M., Herlyn, M., Weeraratna, A. T., Raj, A.</p>
-		  ]]></description>
-	  <pubDate>17 Mar 2022</pubDate>
-  </item>
-
-
-<item>
-	  <title>
-		  Cas9-Mediated Knockout of Ndrg2 Enhances the Regenerative Potential of Dendritic Cells for Wound Healing
-</title>
-	  <link><![CDATA[https://doi.org/10.1101/2022.03.14.484360]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Henn, D., Zhao, D., Chen, K., Trotsyuk, A., Bonham, C. A., Fischer, K. S., Kehl, T., Fehlmann, T., Sivaraj, D., Greco, A. H., Moortgat Illouz, S. E., Padmanabhan, J., Barrera, J. A., Kneser, U., Lenhof, H.-P., Januszyk, M., Levi, B., Keller, A., Longaker, M. T., Qi, L. S., Gurtner, G. C.</p>
-		  ]]></description>
-	  <pubDate>15 Mar 2022</pubDate>
   </item>
 
 
