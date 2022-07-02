@@ -8,6 +8,17 @@
 
 <item>
 	  <title>
+		  The dynseq genome browser track enables visualization of context-specific, dynamic DNA sequence features at single nucleotide resolution
+</title>
+	  <link><![CDATA[https://doi.org/10.1101/2022.05.26.493621]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Nair, S., Barrett, A., Li, D., Raney, B. J., Lee, B. T., Kerpedjiev, P., Ramalingam, V., Pampari, A., Lekschas, F., Wang, T., Haeussler, M., Kundaje, A.</p>
+		  ]]></description>
+	  <pubDate>31 May 2022</pubDate>
+  </item>
+
+<item>
+	  <title>
 		  Nucleoli and the nucleoli-centromere association are dynamic during normal development and in cancer
 </title>
 	  <link><![CDATA[https://doi.org/10.1101/2022.05.21.492846]]></link>
