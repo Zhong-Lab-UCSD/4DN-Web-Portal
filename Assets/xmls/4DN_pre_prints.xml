@@ -8,6 +8,28 @@
 
 <item>
 	  <title>
+		  Beyond TADs: microscopy reveals 2 axes of chromosome organization by CTCF and cohesin
+</title>
+	  <link><![CDATA[https://doi.org/10.1101/2022.07.13.499982]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Hafner, A., Park, M., Berger, S. E., Nora, E., Boettiger, A. N.</p>
+		  ]]></description>
+	  <pubDate>13 Jul 2022</pubDate>
+  </item>
+
+<item>
+	  <title>
+		  Phase separation of Myc differentially regulates gene transcription
+</title>
+	  <link><![CDATA[https://doi.org/10.1101/2022.06.28.498043]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Yang, J., Chung, C.-I., Koach, J., Liu, H., Zhao, Q., Yang, X., Shen, Y., Weiss, W. A., Shu, X.</p>
+		  ]]></description>
+	  <pubDate>29 Jun 2022</pubDate>
+  </item>
+
+<item>
+	  <title>
 		  The dynseq genome browser track enables visualization of context-specific, dynamic DNA sequence features at single nucleotide resolution
 </title>
 	  <link><![CDATA[https://doi.org/10.1101/2022.05.26.493621]]></link>
@@ -49,70 +71,6 @@
 		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Buquicchio, F. A., Fonseca, R., Belk, J. A., Evrard, M., Obers, A., Qi, Y., Daniel, B., Yost, K. E., Satpathy, A. T., Mackay, L. K.</p>
 		  ]]></description>
 	  <pubDate>06 May 2022</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  CONCERT: Genome-wide prediction of sequence elements that modulate DNA replication timing
-</title>
-	  <link><![CDATA[https://doi.org/10.1101/2022.04.21.488684]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Yang, Y., Wang, Y., Zhang, Y., Ma, J.</p>
-		  ]]></description>
-	  <pubDate>22 Apr 2022</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Genome-wide CRISPR screens of T cell exhaustion identify chromatin remodeling factors that limit T cell persistence
-</title>
-	  <link><![CDATA[https://doi.org/10.1101/2022.04.20.488974]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Belk, J., Yao, W., Ly, N., Freitas, K., Chen, Y.-T., Shi, Q., Valencia, A., Shifrut, E., Kale, N., Yost, K., Duffy, C., Hwee, M., Miao, Z., Ashworth, A., Mackall, C., Marson, A., Carnevale, J., Vardhana, S., Satpathy, A.</p>
-		  ]]></description>
-	  <pubDate>21 Apr 2022</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  NIPBL and WAPL balance cohesin activity to regulate chromatin folding and gene expression
-</title>
-	  <link><![CDATA[https://doi.org/10.1101/2022.04.19.488785]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Luppino, J. M., Field, A., Nguyen, S. C., Park, D. S., Shah, P. P., Lan, Y., Yunker, R., Jain, R., Adelman, K., Joyce, E. F.</p>
-		  ]]></description>
-	  <pubDate>19 Apr 2022</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Dynamic chromatin organization and regulatory interactions in human endothelial cell differentiation
-</title>
-	  <link><![CDATA[https://doi.org/10.1101/2022.04.15.488491]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Alavattam, K. G., Mitzelfelt, K. A., Bonora, G., Fields, P. A., Yang, X., Chiu, H. S., Pabon, L., Bertero, A., Palpant, N. J., Noble, W. S., Murry, C. E.</p>
-		  ]]></description>
-	  <pubDate>16 Apr 2022</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  Reducing peptide sequence bias in quantitative mass spectrometry data with machine learning</title>
-	  <link><![CDATA[https://doi.org/10.1101/2022.04.11.487945]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Dincer, A. B., Lu, Y., Schweppe, D., Oh, S., Noble, W. S.</p>
-		  ]]></description>
-	  <pubDate>12 Apr 2022</pubDate>
-  </item>
-
-<item>
-	  <title>
-		  High-throughput Oligopaint screen identifies druggable regulators of genome folding</title>
-	  <link><![CDATA[https://doi.org/10.1101/2022.04.08.487672]]></link>
-	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Park, D. S., Nguyen, S. C., Isenhart, R., Shah, P. P., Kim, W., Barnett, R. J., Chandra, A., Luppino, J. M., Harke, J., Wai, M., Yang, R., Lan, Y., Yoon, S., Yunker, R., Vahedi, G., Phillips-Cremins, J. E., Jain, R., Joyce, E. F.</p>
-		  ]]></description>
-	  <pubDate>10 Apr 2022</pubDate>
   </item>
 
 

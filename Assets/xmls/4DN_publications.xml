@@ -8,34 +8,73 @@
   
   	<item>
 	  <title>
-		  Uncovering the Principles of Genome Folding by 3D Chromatin Modeling</title>
-	  <link><![CDATA[https://cshperspectives.cshlp.org/content/14/6/a039693.long]]></link>
+		  Genome-wide CRISPR screens of T cell exhaustion identify chromatin remodeling factors that limit T cell persistence</title>
+	  <link><![CDATA[https://pubmed.ncbi.nlm.nih.gov/35750052/]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/csh.jpeg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Asli Yildirim, Lorenzo Boninsegna, Yuxiang Zhan, Frank Alber</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Our understanding of how genomic DNA is tightly packed inside the nucleus, yet is still accessible for vital cellular processes, has grown dramatically over recent years with advances in microscopy and genomics technologies. Computational methods have played a pivotal role in the structural interpretation of experimental data, which helped unravel some organizational principles of genome folding. Here, we give an overview of current computational efforts in mechanistic and data-driven 3D chromatin structure modeling. We discuss strengths and limitations of different methods and evaluate the added value and benefits of computational approaches to infer the 3D structural and dynamic properties of the genome and its underlying mechanisms at different scales and resolution, ranging from the dynamic formation of chromatin loops and topological associated domains to nuclear compartmentalization of chromatin and nuclear bodies.</p>]]></description>
-	  <pubDate>14 June 2022</pubDate>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/cell-press.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Julia A Belk, Winnie Yao, Nghi Ly, Katherine A Freitas, Yan-Ting Chen, Quanming Shi, Alfredo M Valencia, Eric Shifrut, Nupura Kale, Kathryn E Yost, Connor V Duffy, Bence Daniel, Madeline A Hwee, Zhuang Miao, Alan Ashworth, Crystal L Mackall, Alexander Marson, Julia Carnevale, Santosh A Vardhana, Ansuman T Satpathy</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">T cell exhaustion limits antitumor immunity, but the molecular determinants of this process remain poorly understood. Using a chronic stimulation assay, we performed genome-wide CRISPR-Cas9 screens to systematically discover regulators of T cell exhaustion, which identified an enrichment of epigenetic factors. In vivo CRISPR screens in murine and human tumor models demonstrated that perturbation of the INO80 and BAF chromatin remodeling complexes improved T cell persistence in tumors. [...]</p>]]></description>
+	  <pubDate>11 July 2022</pubDate>
   </item>
   
   	<item>
 	  <title>
-		  TCF-1 promotes chromatin interactions across topologically associating domains in T cell progenitors</title>
-	  <link><![CDATA[https://www.nature.com/articles/s41590-022-01232-z]]></link>
+		  Nuclear speckles - a driving force in gene expression</title>
+	  <link><![CDATA[https://pubmed.ncbi.nlm.nih.gov/35788677/]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_immunol.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Wenliang Wang, Aditi Chandra, Naomi Goldman, Sora Yoon, Emily K. Ferrari, Son. C. Nguyen, Eric F. Joyce, Golnaz Vahedi </p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">The high mobility group (HMG) transcription factor TCF-1 is essential for early T cell development. Although in vitro biochemical assays suggest that HMG proteins can serve as architectural elements in the assembly of higher-order nuclear organization, the contribution of TCF-1 on the control of three-dimensional (3D) genome structures during T cell development remains unknown. Here, we investigated the role of TCF-1 in 3D genome reconfiguration. Using gain- and loss-of-function experiments, we discovered that the co-occupancy of TCF-1 and the architectural protein CTCF altered the structure of topologically associating domains in T cell progenitors, leading to interactions between previously insulated regulatory elements and target genes at late stages of T cell development. The TCF-1-dependent gain in long-range interactions was linked to deposition of active enhancer mark H3K27ac and recruitment of the cohesin-loading factor NIPBL at active enhancers. These data indicate that TCF-1 has a role in controlling global genome organization during T cell development.</p>]]></description>
-	  <pubDate>20 June 2022</pubDate>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/journal-of-cell-science-logo_0.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Gabriel P. Faber, Shani Nadav-Eliyahu, Yaron Shav-Tal </p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">[...] As discussed in this Review, nuclear speckles represent a fascinating target of study not only to reveal the links between gene positioning, genome subcompartments and gene activity, but also as a potential target for therapeutics.</p>]]></description>
+	  <pubDate>5 July 2022</pubDate>
   </item>
 
-    	<item>
+	<item>
 	  <title>
-		  The Association of MEG3 lncRNA with Nuclear Speckles in Living Cells</title>
-	  <link><![CDATA[https://www.mdpi.com/2073-4409/11/12/1942]]></link>
+		  Integrative genome modeling platform reveals essentiality of rare contact events in 3D genome organizations</title>
+	  <link><![CDATA[https://pubmed.ncbi.nlm.nih.gov/35817938/]]></link>
 	  <description>
-		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_cell_bio.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Sarah E. Hasenson, Ella Alkalay, Mohammad K. Atrash, Alon Boocholez, Julianna Gershbaum, Hodaya Hochberg-Laufer, Yaron Shav-Tal</p>
-			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Nuclear speckles are nuclear bodies containing RNA-binding proteins as well as RNAs including long non-coding RNAs (lncRNAs). Maternally expressed gene 3 (MEG3) is a nuclear retained lncRNA found to associate with nuclear speckles. To understand the association dynamics of MEG3 lncRNA with nuclear speckles in living cells, we generated a fluorescently tagged MEG3 transcript that could be detected in real time. Under regular conditions, transient association of MEG3 with nuclear speckles was observed, including a nucleoplasmic fraction. Transcription or splicing inactivation conditions, known to affect nuclear speckle structure, showed prominent and increased association of MEG3 lncRNA with the nuclear speckles, specifically forming a ring-like structure around the nuclear speckles. [...] </p>]]></description>
-	  <pubDate>16 June 2022</pubDate>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_methods.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Lorenzo Boninsegna, Asli Yildirim, Guido Polles, Yuxiang Zhan, Sofia A. Quinodoz, Elizabeth H. Finn, Mitchell Guttman, Xianghong Jasmine Zhou & Frank Alber </p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">A multitude of sequencing-based and microscopy technologies provide the means to unravel the relationship between the three-dimensional organization of genomes and key regulatory processes of genome function. Here, we develop a multimodal data integration approach to produce populations of single-cell genome structures that are highly predictive for nuclear locations of genes and nuclear bodies, local chromatin compaction and spatial segregation of functionally related chromatin. [...] </p>]]></description>
+	  <pubDate>11 July 2022</pubDate>
   </item>
 
+    <item>
+	  <title>
+		  Temporally dynamic antagonism between transcription and chromatin compaction controls stochastic photoreceptor specification in flies</title>
+	  <link><![CDATA[https://pubmed.ncbi.nlm.nih.gov/35835116/]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/cell-press.png" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Lukas Voortman, Caitlin Anderson, Elizabeth Urban, Luorongxin Yuan, Sang Tran, Alexandra Neuhaus-Follini, Josh Derrick, Thomas Gregor, Robert J.Johnston Jr. </p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Stochastic mechanisms diversify cell fates during development. How cells randomly choose between two or more fates remains poorly understood. In the Drosophila eye, the random mosaic of two R7 photoreceptor subtypes is determined by expression of the transcription factor Spineless (Ss). We investigated how cis-regulatory elements and trans factors regulate nascent transcriptional activity and chromatin compaction at the ss gene locus during R7 development. [...] </p>]]></description>
+	  <pubDate>12 July 2022</pubDate>
+  </item>
+
+      <item>
+	  <title>
+		  Loop-extrusion and polymer phase-separation can co-exist at the single-molecule level to shape chromatin folding</title>
+	  <link><![CDATA[https://www.nature.com/articles/s41467-022-31856-6]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_comm.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Mattia Conte, Ehsan Irani, Andrea M. Chiariello, Alex Abraham, Simona Bianco, Andrea Esposito & Mario Nicodemi  </p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">Loop-extrusion and phase-separation have been proposed as mechanisms that shape chromosome spatial organization. It is unclear, however, how they perform relative to each other in explaining chromatin architecture data and whether they compete or co-exist at the single-molecule level. Here, we compare models of polymer physics based on loop-extrusion and phase-separation, as well as models where both mechanisms act simultaneously in a single molecule, against multiplexed FISH data available in human loci in IMR90 and HCT116 cells. [...]</p>]]></description>
+	  <pubDate>13 July 2022</pubDate>
+  </item>
+
+        <item>
+	  <title>
+		  Exploring genomic data coupled with 3D chromatin structures using the WashU Epigenome Browser</title>
+	  <link><![CDATA[https://www.nature.com/articles/s41592-022-01550-y]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_methods.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Daofeng Li, Jessica K. Harrison, Deepak Purushotham & Ting Wang </p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">[...] The WashU Epigenome Browser was invented in 2011 as an interactive tool for exploring genomic data in a web browser. We have now expanded the browser functions to allow investigators to visually explore 1D, 2D and 3D genomic data on a single webpage. The key innovation is to thread the linear genomic coordinates onto a multi-resolution 3D model of the chromosome.</p>]]></description>
+	  <pubDate>21 July 2022</pubDate>
+  </item>
+
+          <item>
+	  <title>
+		  Nucleome Browser: an integrative and multimodal data navigation platform for 4D Nucleome</title>
+	  <link><![CDATA[https://www.nature.com/articles/s41592-022-01559-3]]></link>
+	  <description>
+		  <![CDATA[<p style="font-size:11px; font-style:italic; margin: 5px 0; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;"><img src="https://4dnucleome.org/Assets/images/nature_methods.jpg" align="left" height="70" width="70" style="margin:0 15px 15px 0;">Xiaopeng Zhu, Yang Zhang, Yuchuan Wang, Dechao Tian, Andrew S. Belmont, Jason R. Swedlow & Jian Ma</p>
+			  <p style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">The epigenomics community, including the NIH 4D Nucleome (4DN) Consortium, is generating numerous genomic and imaging datasets for studying nuclear structure and function. Integrating primary data with secondary analysis results will be required to create a comprehensive reference map of nuclear organization. No existing tool can effectively integrate such multimodal data for scalable and interactive visualization. Here, we introduce the Nucleome Browser (http://www.nucleome.org), an integrative and interactive multimodal data visualization and exploration platform that accelerates access, utilization and sharing of 4DN data.</p>]]></description>
+	  <pubDate>21 July 2022</pubDate>
+  </item>
   
 
 </channel>
